@@ -2,7 +2,7 @@
 ## Short definition
 The date upon which the person's research career started.
 ## Base page
-[Career Status](../Objects/Career Status.md)
+[Career Status](../Objects/Career%20Status.md)
 [ee](https://github.com/bramvc1/test-casrai/blob/main/new-folder/test.md)
 ## Meta title
 csr:Career Status/Research Career Start
