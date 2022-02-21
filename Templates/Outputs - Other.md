@@ -1,0 +1,13 @@
+# Outputs - Other
+## Short definition
+Information representing a full and up-to-date history of other types of research or scholarly outputs of a person or an organization resulting from, or related to, research activities.
+## Objects Embedded
+[Standard or Policy/Standard or Policy Title](../Object-Fields/Standard or Policy/Standard or Policy Title.md), [Standard or Policy/Description](../Object-Fields/Standard or Policy/Description.md), [Standard or Policy/Publication Date](../Object-Fields/Standard or Policy/Publication Date.md), [Standard or Policy/URL](../Object-Fields/Standard or Policy/URL.md), [Invention/Description](../Object-Fields/Invention/Description.md), [Invention/Audience Type](../Object-Fields/Invention/Audience Type.md), [Data Set/Title](../Object-Fields/Data Set/Title.md), [Data Set/Description](../Object-Fields/Data Set/Description.md), [Data Set/Location Lodged](../Object-Fields/Data Set/Location Lodged.md), [Data Set/Primary Users](../Object-Fields/Data Set/Primary Users.md), [Invention/Release Date](../Object-Fields/Invention/Release Date.md), [Litigation/Case Name](../Object-Fields/Litigation/Case Name.md), [Litigation/Court](../Object-Fields/Litigation/Court.md), [Litigation/Key Legal Issues](../Object-Fields/Litigation/Key Legal Issues.md), [Litigation/Person Acted For](../Object-Fields/Litigation/Person Acted For.md), [Litigation/Year](../Object-Fields/Litigation/Year.md), [Research Technique/Description](../Object-Fields/Research Technique/Description.md), [Research Technique/Development Role](../Object-Fields/Research Technique/Development Role.md), [Spin Off Company/Company Name](../Object-Fields/Spin Off Company/Company Name.md), [Spin Off Company/Area of Activity](../Object-Fields/Spin Off Company/Area of Activity.md), [Spin Off Company/Company Status](../Object-Fields/Spin Off Company/Company Status.md), [Spin Off Company/Number of Employees](../Object-Fields/Spin Off Company/Number of Employees.md), [Spin Off Company/Date Established](../Object-Fields/Spin Off Company/Date Established.md), [Technical Standard/Technical Standard Title](../Object-Fields/Technical Standard/Technical Standard Title.md), [Technical Standard/Description](../Object-Fields/Technical Standard/Description.md), [Technical Standard/Publication Date](../Object-Fields/Technical Standard/Publication Date.md), [Technical Standard/Pubmed ID](../Object-Fields/Technical Standard/Pubmed ID.md), [Technical Standard/URL](../Object-Fields/Technical Standard/URL.md), 
+## Meta title
+csr:Outputs - Other
+## Research Admin Domain
+True
+## Research Data Domain
+False
+## UUID
+41498903-b941-4e2b-992a-3d05b1d8a434

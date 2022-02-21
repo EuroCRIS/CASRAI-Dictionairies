@@ -1,0 +1,13 @@
+# Outputs - Artistic - Theatric
+## Short definition
+Information representing a full and up-to-date history of theatre-based artistic or performance outputs of a person or organization resulting from, or related to, research or scholarly activities. Outputs may be produced alone or collaboratively as a creative practice that lead to production and dissemination.
+## Objects Embedded
+[Theatric/The Title of Work](../Object-Fields/Theatric/The Title of Work.md), [Theatric/Collaborators](../Object-Fields/Theatric/Collaborators.md), [Theatric/Date of First Performance](../Object-Fields/Theatric/Date of First Performance.md), [Theatric/Date(s) of Subsequent Performance(s)](../Object-Fields/Theatric/Date(s) of Subsequent Performance(s).md), [Theatric/Producer](../Object-Fields/Theatric/Producer.md), [Theatric/Venue (multi)](../Object-Fields/Theatric/Venue (multi).md), [Light Design/Show Title](../Object-Fields/Light Design/Show Title.md), [Light Design/Key Collaborators](../Object-Fields/Light Design/Key Collaborators.md), [Light Design/Opening Date](../Object-Fields/Light Design/Opening Date.md), [Light Design/Venue (multi)](../Object-Fields/Light Design/Venue (multi).md), [Light Design/Writer-Producer](../Object-Fields/Light Design/Writer-Producer.md), [Set Design/Show Title](../Object-Fields/Set Design/Show Title.md), [Set Design/Key Collaborators](../Object-Fields/Set Design/Key Collaborators.md), [Set Design/Opening Date](../Object-Fields/Set Design/Opening Date.md), [Set Design/Venue (multi)](../Object-Fields/Set Design/Venue (multi).md), [Set Design/Writer-Producer](../Object-Fields/Set Design/Writer-Producer.md), [Sound Design/Show Title](../Object-Fields/Sound Design/Show Title.md), [Sound Design/Key Collaborators](../Object-Fields/Sound Design/Key Collaborators.md), [Sound Design/Opening Date](../Object-Fields/Sound Design/Opening Date.md), [Sound Design/Venue (multi)](../Object-Fields/Sound Design/Venue (multi).md), [Sound Design/Writer-Producer](../Object-Fields/Sound Design/Writer-Producer.md), [Performance Art/Performance Title](../Object-Fields/Performance Art/Performance Title.md), [Performance Art/Key Collaborators](../Object-Fields/Performance Art/Key Collaborators.md), [Performance Art/Date(s) of Subsequent Performance(s)](../Object-Fields/Performance Art/Date(s) of Subsequent Performance(s).md), [Performance Art/Performance Date](../Object-Fields/Performance Art/Performance Date.md), [Performance Art/Venue](../Object-Fields/Performance Art/Venue.md), 
+## Meta title
+csr:Outputs - Artistic - Theatric
+## Research Admin Domain
+True
+## Research Data Domain
+False
+## UUID
+97c1c576-017d-49fc-a114-6dec9d41b7bd
