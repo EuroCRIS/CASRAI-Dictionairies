@@ -2,7 +2,7 @@
 ## Short definition
 The date the performance was released to the media.
 ## Base page
-[Choreography](../Objects/Choreography.md)
+[Choreography](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Choreography.md)
 ## Meta title
 csr:Choreography/Media Release Dates
 ## Research Admin Domain

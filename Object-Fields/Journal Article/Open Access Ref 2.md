@@ -2,7 +2,7 @@
 ## Short definition
 If yes, the reference number.
 ## Base page
-[Journal Article](../Objects/Journal Article.md)
+[Journal Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Article.md)
 ## Meta title
 csr:Journal Article/Open Access Ref 2
 ## Research Admin Domain

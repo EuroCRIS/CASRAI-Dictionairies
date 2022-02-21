@@ -2,7 +2,7 @@
 ## Short definition
 Indicate if the application process was competitive.
 ## Base page
-[Grant](../Objects/Grant.md)
+[Grant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant.md)
 ## Meta title
 csr:Grant/Competitive?
 ## Research Admin Domain

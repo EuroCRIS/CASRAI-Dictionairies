@@ -2,7 +2,7 @@
 ## Short definition
 The date that editorial activity began.
 ## Base page
-[Editorial](../Objects/Editorial.md)
+[Editorial](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Editorial.md)
 ## Meta title
 csr:Editorial/Start Date
 ## Research Admin Domain

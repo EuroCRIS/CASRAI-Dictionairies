@@ -2,7 +2,7 @@
 ## Short definition
 The address of the department named above.
 ## Base page
-[Signature](../Objects/Signature.md)
+[Signature](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Signature.md)
 ## Meta title
 csr:Signature/Signatory Institution Department Address
 ## Research Admin Domain

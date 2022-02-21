@@ -4,7 +4,7 @@ A unique alphanumeric string assigned by an ISNI-approved registration agency.
 ## Type
 Values
 ## Base page
-[Person ID Types](../Objects/Person ID Types.md)
+[Person ID Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Person%20ID%20Types.md)
 ## Meta title
 csr:Person ID Types/ISNI
 ## Research Admin Domain

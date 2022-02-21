@@ -4,7 +4,7 @@ A high-level classification of the diverse roles performed in the work leading t
 ## Type
 Lists
 ## Base page
-[None](../Objects/None.md)
+[](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/.md)
 ## Meta title
 csr:Contributor Roles
 ## Research Admin Domain

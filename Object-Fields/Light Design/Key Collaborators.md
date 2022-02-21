@@ -2,7 +2,7 @@
 ## Short definition
 The names of any key collaborators on the lighting design.
 ## Base page
-[Light Design](../Objects/Light Design.md)
+[Light Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Light%20Design.md)
 ## Meta title
 csr:Light Design/Key Collaborators
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The date the award was given.
 ## Base page
-[Distinction](../Objects/Distinction.md)
+[Distinction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Distinction.md)
 ## Meta title
 csr:Distinction/Effective Date
 ## Research Admin Domain

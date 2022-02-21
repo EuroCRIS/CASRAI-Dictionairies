@@ -2,7 +2,7 @@
 ## Short definition
 The city and country where it was published.
 ## Base page
-[Journal Issue](../Objects/Journal Issue.md)
+[Journal Issue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Issue.md)
 ## Meta title
 csr:Journal Issue/Publication Location
 ## Research Admin Domain

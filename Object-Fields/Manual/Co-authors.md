@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors.
 ## Base page
-[Manual](../Objects/Manual.md)
+[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
 ## Meta title
 csr:Manual/Co-authors
 ## Research Admin Domain

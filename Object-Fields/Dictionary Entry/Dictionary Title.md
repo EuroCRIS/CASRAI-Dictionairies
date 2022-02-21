@@ -2,7 +2,7 @@
 ## Short definition
 The title of the dictionary in which the entry is published.
 ## Base page
-[Dictionary Entry](../Objects/Dictionary Entry.md)
+[Dictionary Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dictionary%20Entry.md)
 ## Meta title
 csr:Dictionary Entry/Dictionary Title
 ## Research Admin Domain

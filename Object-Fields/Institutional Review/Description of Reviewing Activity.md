@@ -2,7 +2,7 @@
 ## Short definition
 A description of the reviewing activity.
 ## Base page
-[Institutional Review](../Objects/Institutional Review.md)
+[Institutional Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Institutional%20Review.md)
 ## Meta title
 csr:Institutional Review/Description of Reviewing Activity
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 A person's surname.
 ## Base page
-[Person Info](../Objects/Person Info.md)
+[Person Info](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Person%20Info.md)
 ## Meta title
 csr:Person Info/Family Name
 ## Research Admin Domain

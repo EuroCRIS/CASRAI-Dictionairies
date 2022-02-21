@@ -2,7 +2,7 @@
 ## Short definition
 Total of any additional costs e.g. page charges, colour charges, bank charges, exchange charges.
 ## Base page
-[APC Payment](../Objects/APC Payment.md)
+[APC Payment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/APC%20Payment.md)
 ## Meta title
 csr:APC Payment/Added Costs Component
 ## Research Admin Domain

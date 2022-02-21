@@ -2,7 +2,7 @@
 ## Short definition
 The date upon which the citizenship was awarded.
 ## Base page
-[Citizenship](../Objects/Citizenship.md)
+[Citizenship](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Citizenship.md)
 ## Meta title
 csr:Citizenship/Start Date
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The title of the article.
 ## Base page
-[Magazine Article](../Objects/Magazine Article.md)
+[Magazine Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Magazine%20Article.md)
 ## Meta title
 csr:Magazine Article/Article Title
 ## Research Admin Domain

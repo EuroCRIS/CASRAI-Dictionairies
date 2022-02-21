@@ -2,7 +2,7 @@
 ## Short definition
 The web address.
 ## Base page
-[Website](../Objects/Website.md)
+[Website](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Website.md)
 ## Meta title
 csr:Website/URL
 ## Research Admin Domain

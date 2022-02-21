@@ -2,7 +2,7 @@
 ## Short definition
 The date on which the interview was first aired.
 ## Base page
-[Broadcast Interview](../Objects/Broadcast Interview.md)
+[Broadcast Interview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Broadcast%20Interview.md)
 ## Meta title
 csr:Broadcast Interview/First Broadcast Date
 ## Research Admin Domain

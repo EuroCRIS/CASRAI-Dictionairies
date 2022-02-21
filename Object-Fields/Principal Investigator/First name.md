@@ -2,7 +2,7 @@
 ## Short definition
 A person's given name.
 ## Base page
-[Principal Investigator](../Objects/Principal Investigator.md)
+[Principal Investigator](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Principal%20Investigator.md)
 ## Meta title
 csr:Principal Investigator/First name
 ## Research Admin Domain

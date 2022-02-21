@@ -2,7 +2,7 @@
 ## Short definition
 A description of how the data will be organised, including naming conventions, version control and folder structures.
 ## Base page
-[Research Dataset](../Objects/Research Dataset.md)
+[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/Structural Approach
 ## Research Admin Domain

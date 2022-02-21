@@ -2,7 +2,7 @@
 ## Short definition
 The names of the institutions that use the course.
 ## Base page
-[Course Developed](../Objects/Course Developed.md)
+[Course Developed](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Developed.md)
 ## Meta title
 csr:Course Developed/Institutions Using Course
 ## Research Admin Domain

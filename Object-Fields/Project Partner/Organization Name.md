@@ -2,7 +2,7 @@
 ## Short definition
 The full corporate name of the partner organization.
 ## Base page
-[Project Partner](../Objects/Project Partner.md)
+[Project Partner](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Partner.md)
 ## Meta title
 csr:Project Partner/Organization Name
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The start date of the review.
 ## Base page
-[Conference Reviewing-Refereeing](../Objects/Conference Reviewing-Refereeing.md)
+[Conference Reviewing-Refereeing](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Reviewing-Refereeing.md)
 ## Meta title
 csr:Conference Reviewing-Refereeing/Start Date
 ## Research Admin Domain

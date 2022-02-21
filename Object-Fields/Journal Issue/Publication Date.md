@@ -2,7 +2,7 @@
 ## Short definition
 The date the issue was published.
 ## Base page
-[Journal Issue](../Objects/Journal Issue.md)
+[Journal Issue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Issue.md)
 ## Meta title
 csr:Journal Issue/Publication Date
 ## Research Admin Domain

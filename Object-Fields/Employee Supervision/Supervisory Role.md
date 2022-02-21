@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the supervisory role.
 ## Base page
-[Employee Supervision](../Objects/Employee Supervision.md)
+[Employee Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Employee%20Supervision.md)
 ## Meta title
 csr:Employee Supervision/Supervisory Role
 ## Research Admin Domain

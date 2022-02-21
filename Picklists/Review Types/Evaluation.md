@@ -4,7 +4,7 @@ A post-peer review, expert evaluation of a scholarly output.
 ## Type
 Values
 ## Base page
-[Review Types](../Objects/Review Types.md)
+[Review Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review%20Types.md)
 ## Meta title
 csr:Review Types/Evaluation
 ## Research Admin Domain

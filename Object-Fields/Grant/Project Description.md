@@ -2,7 +2,7 @@
 ## Short definition
 A description of the funded project.
 ## Base page
-[Grant](../Objects/Grant.md)
+[Grant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant.md)
 ## Meta title
 csr:Grant/Project Description
 ## Research Admin Domain

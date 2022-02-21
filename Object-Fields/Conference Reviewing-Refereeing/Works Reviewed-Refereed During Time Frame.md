@@ -2,7 +2,7 @@
 ## Short definition
 Indicate how many works were reviewed.
 ## Base page
-[Conference Reviewing-Refereeing](../Objects/Conference Reviewing-Refereeing.md)
+[Conference Reviewing-Refereeing](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Reviewing-Refereeing.md)
 ## Meta title
 csr:Conference Reviewing-Refereeing/Works Reviewed-Refereed During Time Frame
 ## Research Admin Domain

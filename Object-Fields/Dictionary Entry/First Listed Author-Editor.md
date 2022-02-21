@@ -2,7 +2,7 @@
 ## Short definition
 The name of the first listed author or editor.
 ## Base page
-[Dictionary Entry](../Objects/Dictionary Entry.md)
+[Dictionary Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dictionary%20Entry.md)
 ## Meta title
 csr:Dictionary Entry/First Listed Author-Editor
 ## Research Admin Domain

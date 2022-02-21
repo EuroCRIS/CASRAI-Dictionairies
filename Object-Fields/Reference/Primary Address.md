@@ -2,7 +2,7 @@
 ## Short definition
 The address of the reviewer.
 ## Base page
-[Reference](../Objects/Reference.md)
+[Reference](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reference.md)
 ## Meta title
 csr:Reference/Primary Address
 ## Research Admin Domain

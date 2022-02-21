@@ -2,7 +2,7 @@
 ## Short definition
 If applicable, the NIH number.
 ## Base page
-[Journal Article](../Objects/Journal Article.md)
+[Journal Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Article.md)
 ## Meta title
 csr:Journal Article/NIH Manuscript Number
 ## Research Admin Domain

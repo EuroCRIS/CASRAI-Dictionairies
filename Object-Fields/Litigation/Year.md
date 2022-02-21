@@ -2,7 +2,7 @@
 ## Short definition
 The year the case was heard.
 ## Base page
-[Litigation](../Objects/Litigation.md)
+[Litigation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Litigation.md)
 ## Meta title
 csr:Litigation/Year
 ## Research Admin Domain

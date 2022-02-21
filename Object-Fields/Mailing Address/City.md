@@ -2,7 +2,7 @@
 ## Short definition
 The municipal component (city, town, etc.) of the given address.
 ## Base page
-[Mailing Address](../Objects/Mailing Address.md)
+[Mailing Address](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Mailing%20Address.md)
 ## Meta title
 csr:Mailing Address/City
 ## Research Admin Domain

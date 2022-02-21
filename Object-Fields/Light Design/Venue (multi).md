@@ -2,7 +2,7 @@
 ## Short definition
 The venue in which the performance was given.
 ## Base page
-[Light Design](../Objects/Light Design.md)
+[Light Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Light%20Design.md)
 ## Meta title
 csr:Light Design/Venue (multi)
 ## Research Admin Domain

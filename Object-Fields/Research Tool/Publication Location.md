@@ -2,7 +2,7 @@
 ## Short definition
 The city and country where it was published.
 ## Base page
-[Research Tool](../Objects/Research Tool.md)
+[Research Tool](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Tool.md)
 ## Meta title
 csr:Research Tool/Publication Location
 ## Research Admin Domain

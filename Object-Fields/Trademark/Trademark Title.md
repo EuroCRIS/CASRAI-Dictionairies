@@ -2,7 +2,7 @@
 ## Short definition
 The title of the trademark.
 ## Base page
-[Trademark](../Objects/Trademark.md)
+[Trademark](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Trademark.md)
 ## Meta title
 csr:Trademark/Trademark Title
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Membership](../Objects/Membership.md)
+[Membership](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Membership.md)
 ## Meta title
 csr:Membership/Research Classification
 ## Research Admin Domain

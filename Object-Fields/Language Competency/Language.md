@@ -2,7 +2,7 @@
 ## Short definition
 The language in which the person is indicating a competency.
 ## Base page
-[Language Competency](../Objects/Language Competency.md)
+[Language Competency](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Language%20Competency.md)
 ## Meta title
 csr:Language Competency/Language
 ## Research Admin Domain

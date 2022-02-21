@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-performers.
 ## Base page
-[Video Recording](../Objects/Video Recording.md)
+[Video Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Video%20Recording.md)
 ## Meta title
 csr:Video Recording/Co-performers
 ## Research Admin Domain

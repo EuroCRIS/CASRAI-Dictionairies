@@ -2,7 +2,7 @@
 ## Short definition
 A description of the event.
 ## Base page
-[Event Participation](../Objects/Event Participation.md)
+[Event Participation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Event%20Participation.md)
 ## Meta title
 csr:Event Participation/Event Description
 ## Research Admin Domain

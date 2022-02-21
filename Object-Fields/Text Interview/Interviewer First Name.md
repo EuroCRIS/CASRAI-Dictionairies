@@ -2,7 +2,7 @@
 ## Short definition
 The interviewer's given name.
 ## Base page
-[Text Interview](../Objects/Text Interview.md)
+[Text Interview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Text%20Interview.md)
 ## Meta title
 csr:Text Interview/Interviewer First Name
 ## Research Admin Domain

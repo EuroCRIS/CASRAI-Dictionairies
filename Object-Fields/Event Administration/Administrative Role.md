@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's administrative role.
 ## Base page
-[Event Administration](../Objects/Event Administration.md)
+[Event Administration](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Event%20Administration.md)
 ## Meta title
 csr:Event Administration/Administrative Role
 ## Research Admin Domain

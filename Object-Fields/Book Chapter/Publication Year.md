@@ -2,7 +2,7 @@
 ## Short definition
 The year in which the book was published.
 ## Base page
-[Book Chapter](../Objects/Book Chapter.md)
+[Book Chapter](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Chapter.md)
 ## Meta title
 csr:Book Chapter/Publication Year
 ## Research Admin Domain

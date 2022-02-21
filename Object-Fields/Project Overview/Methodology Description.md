@@ -2,7 +2,7 @@
 ## Short definition
 A detailed description of the research method(s) to be employed in the activity.
 ## Base page
-[Project Overview](../Objects/Project Overview.md)
+[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Methodology Description
 ## Research Admin Domain

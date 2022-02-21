@@ -2,7 +2,7 @@
 ## Short definition
 The title of the test.
 ## Base page
-[Test](../Objects/Test.md)
+[Test](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Test.md)
 ## Meta title
 csr:Test/Title
 ## Research Admin Domain

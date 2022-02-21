@@ -2,7 +2,7 @@
 ## Short definition
 The status of the disclosure application.
 ## Base page
-[Disclosure](../Objects/Disclosure.md)
+[Disclosure](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Disclosure.md)
 ## Meta title
 csr:Disclosure/Disclosure Status
 ## Research Admin Domain

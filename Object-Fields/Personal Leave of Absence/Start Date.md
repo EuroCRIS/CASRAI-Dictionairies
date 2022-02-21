@@ -2,7 +2,7 @@
 ## Short definition
 The date the leave started.
 ## Base page
-[Personal Leave of Absence](../Objects/Personal Leave of Absence.md)
+[Personal Leave of Absence](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Personal%20Leave%20of%20Absence.md)
 ## Meta title
 csr:Personal Leave of Absence/Start Date
 ## Research Admin Domain

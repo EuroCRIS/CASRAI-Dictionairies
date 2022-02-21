@@ -2,7 +2,7 @@
 ## Short definition
 The centre with which the person is affiliated.
 ## Base page
-[Career Status](../Objects/Career Status.md)
+[Career Status](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Career%20Status.md)
 ## Meta title
 csr:Career Status/Research Centre
 ## Research Admin Domain

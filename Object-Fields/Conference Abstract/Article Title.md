@@ -2,7 +2,7 @@
 ## Short definition
 The title of the article for which the abstract was written.
 ## Base page
-[Conference Abstract](../Objects/Conference Abstract.md)
+[Conference Abstract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Abstract.md)
 ## Meta title
 csr:Conference Abstract/Article Title
 ## Research Admin Domain

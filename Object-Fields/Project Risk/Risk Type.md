@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the type of risk associated with the activity.
 ## Base page
-[Project Risk](../Objects/Project Risk.md)
+[Project Risk](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Risk.md)
 ## Meta title
 csr:Project Risk/Risk Type
 ## Research Admin Domain

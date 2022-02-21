@@ -2,7 +2,7 @@
 ## Short definition
 The start page of the article.
 ## Base page
-[Newsletter Article](../Objects/Newsletter Article.md)
+[Newsletter Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newsletter%20Article.md)
 ## Meta title
 csr:Newsletter Article/Page Range From
 ## Research Admin Domain

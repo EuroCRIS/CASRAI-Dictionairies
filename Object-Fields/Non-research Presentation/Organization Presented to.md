@@ -2,7 +2,7 @@
 ## Short definition
 The organization to which it was presented.
 ## Base page
-[Non-research Presentation](../Objects/Non-research Presentation.md)
+[Non-research Presentation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Non-research%20Presentation.md)
 ## Meta title
 csr:Non-research Presentation/Organization Presented to
 ## Research Admin Domain

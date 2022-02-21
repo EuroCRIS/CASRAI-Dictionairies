@@ -2,7 +2,7 @@
 ## Short definition
 The International Standard Serial Number.
 ## Base page
-[Journal Article](../Objects/Journal Article.md)
+[Journal Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Article.md)
 ## Meta title
 csr:Journal Article/ISSN
 ## Research Admin Domain

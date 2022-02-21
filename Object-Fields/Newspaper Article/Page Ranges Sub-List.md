@@ -2,7 +2,7 @@
 ## Short definition
 The start and end pages of the article.
 ## Base page
-[Newspaper Article](../Objects/Newspaper Article.md)
+[Newspaper Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newspaper%20Article.md)
 ## Meta title
 csr:Newspaper Article/Page Ranges Sub-List
 ## Research Admin Domain

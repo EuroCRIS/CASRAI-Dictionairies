@@ -2,7 +2,7 @@
 ## Short definition
 The venue in which the performance was given.
 ## Base page
-[Set Design](../Objects/Set Design.md)
+[Set Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Set%20Design.md)
 ## Meta title
 csr:Set Design/Venue (multi)
 ## Research Admin Domain

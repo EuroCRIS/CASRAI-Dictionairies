@@ -2,7 +2,7 @@
 ## Short definition
 The designation of the person's degree.
 ## Base page
-[Degree](../Objects/Degree.md)
+[Degree](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Degree.md)
 ## Meta title
 csr:Degree/Degree Type
 ## Research Admin Domain

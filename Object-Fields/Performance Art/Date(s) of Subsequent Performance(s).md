@@ -2,7 +2,7 @@
 ## Short definition
 The dates that subsequent performances were given.
 ## Base page
-[Performance Art](../Objects/Performance Art.md)
+[Performance Art](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Performance%20Art.md)
 ## Meta title
 csr:Performance Art/Date(s) of Subsequent Performance(s)
 ## Research Admin Domain

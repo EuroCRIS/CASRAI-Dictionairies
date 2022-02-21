@@ -2,7 +2,7 @@
 ## Short definition
 The surname of the person who contributed to a review.
 ## Base page
-[Reviewer](../Objects/Reviewer.md)
+[Reviewer](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer.md)
 ## Meta title
 csr:Reviewer/Family Name
 ## Research Admin Domain

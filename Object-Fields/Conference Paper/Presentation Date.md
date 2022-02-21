@@ -2,7 +2,7 @@
 ## Short definition
 The date the paper was presented.
 ## Base page
-[Conference Paper](../Objects/Conference Paper.md)
+[Conference Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Paper.md)
 ## Meta title
 csr:Conference Paper/Presentation Date
 ## Research Admin Domain

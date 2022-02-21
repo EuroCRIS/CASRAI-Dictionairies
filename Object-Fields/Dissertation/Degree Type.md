@@ -2,7 +2,7 @@
 ## Short definition
 The designation of the person's degree.
 ## Base page
-[Dissertation](../Objects/Dissertation.md)
+[Dissertation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dissertation.md)
 ## Meta title
 csr:Dissertation/Degree Type
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 Indicate if this activity includes multiple disciplines.
 ## Base page
-[Project Overview](../Objects/Project Overview.md)
+[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Multi-discipline
 ## Research Admin Domain

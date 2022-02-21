@@ -2,7 +2,7 @@
 ## Short definition
 The date of first publication.
 ## Base page
-[Short Fiction](../Objects/Short Fiction.md)
+[Short Fiction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Short%20Fiction.md)
 ## Meta title
 csr:Short Fiction/Publication Date
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The date the designation expires, if applicable.
 ## Base page
-[Professional Designation](../Objects/Professional Designation.md)
+[Professional Designation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Professional%20Designation.md)
 ## Meta title
 csr:Professional Designation/End Date
 ## Research Admin Domain

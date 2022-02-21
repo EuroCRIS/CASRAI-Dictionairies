@@ -4,7 +4,7 @@ Document that describes a forthcoming book based on research or scholarly findin
 ## Type
 Values
 ## Base page
-[Output Types](../Objects/Output Types.md)
+[Output Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Output%20Types.md)
 ## Meta title
 csr:Output Types/Book Prospectus
 ## Research Admin Domain

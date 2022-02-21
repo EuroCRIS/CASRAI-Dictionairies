@@ -2,7 +2,7 @@
 ## Short definition
 The role played by a person in their contribution to a review.
 ## Base page
-[Reviewer](../Objects/Reviewer.md)
+[Reviewer](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer.md)
 ## Meta title
 csr:Reviewer/Role
 ## Research Admin Domain

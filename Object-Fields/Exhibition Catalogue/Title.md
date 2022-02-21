@@ -2,7 +2,7 @@
 ## Short definition
 The title of the catalogue.
 ## Base page
-[Exhibition Catalogue](../Objects/Exhibition Catalogue.md)
+[Exhibition Catalogue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Exhibition%20Catalogue.md)
 ## Meta title
 csr:Exhibition Catalogue/Title
 ## Research Admin Domain

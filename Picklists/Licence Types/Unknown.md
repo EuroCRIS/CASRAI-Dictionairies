@@ -4,7 +4,7 @@ Licence is not known.
 ## Type
 Values
 ## Base page
-[Licence Types](../Objects/Licence Types.md)
+[Licence Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Licence%20Types.md)
 ## Meta title
 csr:Licence Types/Unknown
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The number of episodes for which the person took part.
 ## Base page
-[Radio-TV Program](../Objects/Radio-TV Program.md)
+[Radio-TV Program](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Radio-TV%20Program.md)
 ## Meta title
 csr:Radio-TV Program/Number of Episodes
 ## Research Admin Domain

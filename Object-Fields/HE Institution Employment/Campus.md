@@ -2,7 +2,7 @@
 ## Short definition
 The location of the relevant campus of the institution.
 ## Base page
-[HE Institution Employment](../Objects/HE Institution Employment.md)
+[HE Institution Employment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/HE%20Institution%20Employment.md)
 ## Meta title
 csr:HE Institution Employment/Campus
 ## Research Admin Domain

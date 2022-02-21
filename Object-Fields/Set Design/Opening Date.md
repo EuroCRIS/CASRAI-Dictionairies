@@ -2,7 +2,7 @@
 ## Short definition
 The date of the opening of the performance.
 ## Base page
-[Set Design](../Objects/Set Design.md)
+[Set Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Set%20Design.md)
 ## Meta title
 csr:Set Design/Opening Date
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the capacity of the team to leverage knowledge for innovation.
 ## Base page
-[Team Capacity](../Objects/Team Capacity.md)
+[Team Capacity](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Team%20Capacity.md)
 ## Meta title
 csr:Team Capacity/Team Innovation Leverage
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The title of the dissertation.
 ## Base page
-[Dissertation](../Objects/Dissertation.md)
+[Dissertation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dissertation.md)
 ## Meta title
 csr:Dissertation/Title
 ## Research Admin Domain

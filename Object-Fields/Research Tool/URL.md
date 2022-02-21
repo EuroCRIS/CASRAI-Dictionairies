@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the research tool is available, if such exists.
 ## Base page
-[Research Tool](../Objects/Research Tool.md)
+[Research Tool](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Tool.md)
 ## Meta title
 csr:Research Tool/URL
 ## Research Admin Domain

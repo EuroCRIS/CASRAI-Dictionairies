@@ -2,7 +2,7 @@
 ## Short definition
 The name of the organization for which the service was undertaken.
 ## Base page
-[Community Service](../Objects/Community Service.md)
+[Community Service](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Community%20Service.md)
 ## Meta title
 csr:Community Service/Organization
 ## Research Admin Domain

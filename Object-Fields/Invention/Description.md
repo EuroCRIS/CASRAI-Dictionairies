@@ -2,7 +2,7 @@
 ## Short definition
 A description of the invention.
 ## Base page
-[Invention](../Objects/Invention.md)
+[Invention](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Invention.md)
 ## Meta title
 csr:Invention/Description
 ## Research Admin Domain

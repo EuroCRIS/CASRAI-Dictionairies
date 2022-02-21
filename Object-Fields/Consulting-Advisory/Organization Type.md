@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the given organization.
 ## Base page
-[Consulting-Advisory](../Objects/Consulting-Advisory.md)
+[Consulting-Advisory](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Consulting-Advisory.md)
 ## Meta title
 csr:Consulting-Advisory/Organization Type
 ## Research Admin Domain

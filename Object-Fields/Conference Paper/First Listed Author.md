@@ -2,7 +2,7 @@
 ## Short definition
 The name of the first listed author of the paper.
 ## Base page
-[Conference Paper](../Objects/Conference Paper.md)
+[Conference Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Paper.md)
 ## Meta title
 csr:Conference Paper/First Listed Author
 ## Research Admin Domain

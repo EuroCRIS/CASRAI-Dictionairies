@@ -2,7 +2,7 @@
 ## Short definition
 The name of the publication in which the work appeared.
 ## Base page
-[Short Fiction](../Objects/Short Fiction.md)
+[Short Fiction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Short%20Fiction.md)
 ## Meta title
 csr:Short Fiction/Appeared In
 ## Research Admin Domain

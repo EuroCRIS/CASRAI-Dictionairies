@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Broadcast Interview](../Objects/Broadcast Interview.md)
+[Broadcast Interview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Broadcast%20Interview.md)
 ## Meta title
 csr:Broadcast Interview/Research Classification
 ## Research Admin Domain

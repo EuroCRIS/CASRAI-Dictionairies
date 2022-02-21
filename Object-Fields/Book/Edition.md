@@ -2,7 +2,7 @@
 ## Short definition
 The edition number, if applicable.
 ## Base page
-[Book](../Objects/Book.md)
+[Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book.md)
 ## Meta title
 csr:Book/Edition
 ## Research Admin Domain

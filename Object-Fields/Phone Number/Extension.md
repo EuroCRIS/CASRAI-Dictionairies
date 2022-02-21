@@ -2,7 +2,7 @@
 ## Short definition
 The person's extension number, if applicable.
 ## Base page
-[Phone Number](../Objects/Phone Number.md)
+[Phone Number](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Phone%20Number.md)
 ## Meta title
 csr:Phone Number/Extension
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The status of the patent application.
 ## Base page
-[Patent](../Objects/Patent.md)
+[Patent](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Patent.md)
 ## Meta title
 csr:Patent/Application Status
 ## Research Admin Domain

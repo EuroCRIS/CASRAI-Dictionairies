@@ -2,7 +2,7 @@
 ## Short definition
 A description of IPR agreements and whether consent for reuse was obtained if this dataset is a purchase or reuse of existing data.
 ## Base page
-[Research Dataset](../Objects/Research Dataset.md)
+[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/Licensing of Existing Data
 ## Research Admin Domain

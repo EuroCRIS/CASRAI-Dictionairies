@@ -2,7 +2,7 @@
 ## Short definition
 The nominal type of unique ID used for a publisher (e.g. ISNI, ...).
 ## Base page
-[Journal Article](../Objects/Journal Article.md)
+[Journal Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Article.md)
 ## Meta title
 csr:Journal Article/Publisher ID Type
 ## Research Admin Domain

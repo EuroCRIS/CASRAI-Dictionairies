@@ -2,7 +2,7 @@
 ## Short definition
 The capacity of the person to assess the quality and value of a proposed research activity by reading a proposal in the indicated language.
 ## Base page
-[Language Competency](../Objects/Language Competency.md)
+[Language Competency](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Language%20Competency.md)
 ## Meta title
 csr:Language Competency/Can Peer Review
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Test](../Objects/Test.md)
+[Test](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Test.md)
 ## Meta title
 csr:Test/Research Classification
 ## Research Admin Domain

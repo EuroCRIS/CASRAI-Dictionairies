@@ -2,7 +2,7 @@
 ## Short definition
 The title of the show for which the lighting was designed.
 ## Base page
-[Light Design](../Objects/Light Design.md)
+[Light Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Light%20Design.md)
 ## Meta title
 csr:Light Design/Show Title
 ## Research Admin Domain

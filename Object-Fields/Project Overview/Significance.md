@@ -2,7 +2,7 @@
 ## Short definition
 A summary of the importance of the expected research knowledge to be obtained  in relation to the research question or problem.
 ## Base page
-[Project Overview](../Objects/Project Overview.md)
+[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Significance
 ## Research Admin Domain

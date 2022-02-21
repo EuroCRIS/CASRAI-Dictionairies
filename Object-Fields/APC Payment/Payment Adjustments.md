@@ -2,7 +2,7 @@
 ## Short definition
 Specify whether there was a discount or waived cost on the APC that was paid to a publisher, including instances where the institution has a pre-payment or membership agreement with the publisher.
 ## Base page
-[APC Payment](../Objects/APC Payment.md)
+[APC Payment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/APC%20Payment.md)
 ## Meta title
 csr:APC Payment/Payment Adjustments
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The title of the data.
 ## Base page
-[Data Set](../Objects/Data Set.md)
+[Data Set](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Data%20Set.md)
 ## Meta title
 csr:Data Set/Title
 ## Research Admin Domain

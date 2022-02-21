@@ -2,7 +2,7 @@
 ## Short definition
 The milestone to which this risk is associated.
 ## Base page
-[Project Risk](../Objects/Project Risk.md)
+[Project Risk](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Risk.md)
 ## Meta title
 csr:Project Risk/Milestone ID
 ## Research Admin Domain

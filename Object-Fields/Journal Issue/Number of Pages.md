@@ -2,7 +2,7 @@
 ## Short definition
 The total number of pages in the issue.
 ## Base page
-[Journal Issue](../Objects/Journal Issue.md)
+[Journal Issue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Issue.md)
 ## Meta title
 csr:Journal Issue/Number of Pages
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Musical Composition](../Objects/Musical Composition.md)
+[Musical Composition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Musical%20Composition.md)
 ## Meta title
 csr:Musical Composition/Research Classification
 ## Research Admin Domain

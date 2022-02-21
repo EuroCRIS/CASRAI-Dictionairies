@@ -2,7 +2,7 @@
 ## Short definition
 The name of the Funding Source's specific Program under which funding was awarded.
 ## Base page
-[Award](../Objects/Award.md)
+[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
 ## Meta title
 csr:Award/Program Name
 ## Research Admin Domain

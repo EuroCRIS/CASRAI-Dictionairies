@@ -2,7 +2,7 @@
 ## Short definition
 Indicate if the project was refereed.
 ## Base page
-[Edited Book](../Objects/Edited Book.md)
+[Edited Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Edited%20Book.md)
 ## Meta title
 csr:Edited Book/Refereed?
 ## Research Admin Domain

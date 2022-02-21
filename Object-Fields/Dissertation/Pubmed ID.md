@@ -2,7 +2,7 @@
 ## Short definition
 If applicable, the PubMed ID.
 ## Base page
-[Dissertation](../Objects/Dissertation.md)
+[Dissertation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dissertation.md)
 ## Meta title
 csr:Dissertation/Pubmed ID
 ## Research Admin Domain

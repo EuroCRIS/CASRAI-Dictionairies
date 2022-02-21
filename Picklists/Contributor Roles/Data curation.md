@@ -4,7 +4,7 @@ Management activities to annotate (produce metadata), scrub data and maintain re
 ## Type
 Values
 ## Base page
-[Contributor Roles](../Objects/Contributor Roles.md)
+[Contributor Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Data curation
 ## Research Admin Domain

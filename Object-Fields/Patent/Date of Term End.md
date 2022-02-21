@@ -2,7 +2,7 @@
 ## Short definition
 The date of the end of the term of the patent.
 ## Base page
-[Patent](../Objects/Patent.md)
+[Patent](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Patent.md)
 ## Meta title
 csr:Patent/Date of Term End
 ## Research Admin Domain

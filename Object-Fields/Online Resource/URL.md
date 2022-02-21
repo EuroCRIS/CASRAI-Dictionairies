@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the resourse can be found.
 ## Base page
-[Online Resource](../Objects/Online Resource.md)
+[Online Resource](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Online%20Resource.md)
 ## Meta title
 csr:Online Resource/URL
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors of the script.
 ## Base page
-[Script](../Objects/Script.md)
+[Script](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Script.md)
 ## Meta title
 csr:Script/Co-authors
 ## Research Admin Domain

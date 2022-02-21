@@ -2,7 +2,7 @@
 ## Short definition
 A description of the team's future research plans linked to previous successes.
 ## Base page
-[Team Capacity](../Objects/Team Capacity.md)
+[Team Capacity](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Team%20Capacity.md)
 ## Meta title
 csr:Team Capacity/Team Previous Success Links
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Curatorial-Museum Exhibition](../Objects/Curatorial-Museum Exhibition.md)
+[Curatorial-Museum Exhibition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Curatorial-Museum%20Exhibition.md)
 ## Meta title
 csr:Curatorial-Museum Exhibition/Research Classification
 ## Research Admin Domain

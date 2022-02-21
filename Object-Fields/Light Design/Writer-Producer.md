@@ -2,7 +2,7 @@
 ## Short definition
 The writer/producer of the show.
 ## Base page
-[Light Design](../Objects/Light Design.md)
+[Light Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Light%20Design.md)
 ## Meta title
 csr:Light Design/Writer-Producer
 ## Research Admin Domain

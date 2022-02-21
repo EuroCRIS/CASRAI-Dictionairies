@@ -2,7 +2,7 @@
 ## Short definition
 The web address where the publication is available, if such exists.
 ## Base page
-[Supervised Student Publication](../Objects/Supervised Student Publication.md)
+[Supervised Student Publication](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Supervised%20Student%20Publication.md)
 ## Meta title
 csr:Supervised Student Publication/URL
 ## Research Admin Domain

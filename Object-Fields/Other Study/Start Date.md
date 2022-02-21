@@ -2,7 +2,7 @@
 ## Short definition
 The start date of the course described.
 ## Base page
-[Other Study](../Objects/Other Study.md)
+[Other Study](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Other%20Study.md)
 ## Meta title
 csr:Other Study/Start Date
 ## Research Admin Domain

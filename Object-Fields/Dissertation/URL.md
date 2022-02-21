@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the dissertation is available, if such exists.
 ## Base page
-[Dissertation](../Objects/Dissertation.md)
+[Dissertation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dissertation.md)
 ## Meta title
 csr:Dissertation/URL
 ## Research Admin Domain

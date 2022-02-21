@@ -2,7 +2,7 @@
 ## Short definition
 The total number of pages in the manual.
 ## Base page
-[Manual](../Objects/Manual.md)
+[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
 ## Meta title
 csr:Manual/Number of Pages
 ## Research Admin Domain

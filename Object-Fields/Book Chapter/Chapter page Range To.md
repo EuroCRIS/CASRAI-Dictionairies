@@ -2,7 +2,7 @@
 ## Short definition
 The last page of the chapter.
 ## Base page
-[Book Chapter](../Objects/Book Chapter.md)
+[Book Chapter](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Chapter.md)
 ## Meta title
 csr:Book Chapter/Chapter page Range To
 ## Research Admin Domain

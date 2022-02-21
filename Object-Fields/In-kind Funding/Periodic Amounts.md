@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the periodic funding amounts this funding instance represents.
 ## Base page
-[In-kind Funding](../Objects/In-kind Funding.md)
+[In-kind Funding](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/In-kind%20Funding.md)
 ## Meta title
 csr:In-kind Funding/Periodic Amounts
 ## Research Admin Domain

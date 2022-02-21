@@ -2,7 +2,7 @@
 ## Short definition
 The date the person began membership.
 ## Base page
-[Membership](../Objects/Membership.md)
+[Membership](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Membership.md)
 ## Meta title
 csr:Membership/Membership Start Date
 ## Research Admin Domain

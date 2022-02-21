@@ -4,7 +4,7 @@ Indicate the area to which the person's discipline applies.
 ## Type
 Lists
 ## Base page
-[None](../Objects/None.md)
+[](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/.md)
 ## Meta title
 csr:Field of Application
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-instructors, if applicable.
 ## Base page
-[Course Taught](../Objects/Course Taught.md)
+[Course Taught](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Taught.md)
 ## Meta title
 csr:Course Taught/Co-Instructors
 ## Research Admin Domain

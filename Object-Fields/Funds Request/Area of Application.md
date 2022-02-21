@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the purpose and extent of the activity.
 ## Base page
-[Funds Request](../Objects/Funds Request.md)
+[Funds Request](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Funds%20Request.md)
 ## Meta title
 csr:Funds Request/Area of Application
 ## Research Admin Domain

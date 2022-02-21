@@ -2,7 +2,7 @@
 ## Short definition
 The number of applications which were assessed by the person.
 ## Base page
-[Grant Application Assessment](../Objects/Grant Application Assessment.md)
+[Grant Application Assessment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant%20Application%20Assessment.md)
 ## Meta title
 csr:Grant Application Assessment/Number of Applications Assessed
 ## Research Admin Domain

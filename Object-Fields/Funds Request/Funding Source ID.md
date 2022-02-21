@@ -2,7 +2,7 @@
 ## Short definition
 A standard unique identifier for Research Funding Organizations.
 ## Base page
-[Funds Request](../Objects/Funds Request.md)
+[Funds Request](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Funds%20Request.md)
 ## Meta title
 csr:Funds Request/Funding Source ID
 ## Research Admin Domain

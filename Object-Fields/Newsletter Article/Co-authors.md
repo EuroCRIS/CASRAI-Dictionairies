@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors.
 ## Base page
-[Newsletter Article](../Objects/Newsletter Article.md)
+[Newsletter Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newsletter%20Article.md)
 ## Meta title
 csr:Newsletter Article/Co-authors
 ## Research Admin Domain

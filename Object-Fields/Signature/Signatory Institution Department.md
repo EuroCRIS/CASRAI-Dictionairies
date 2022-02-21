@@ -2,7 +2,7 @@
 ## Short definition
 Indicate which department at the institution is providing this signature.
 ## Base page
-[Signature](../Objects/Signature.md)
+[Signature](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Signature.md)
 ## Meta title
 csr:Signature/Signatory Institution Department
 ## Research Admin Domain

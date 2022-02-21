@@ -2,7 +2,7 @@
 ## Short definition
 The amount of VAT paid in addition to the Amount Paid.
 ## Base page
-[APC Payment](../Objects/APC Payment.md)
+[APC Payment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/APC%20Payment.md)
 ## Meta title
 csr:APC Payment/VAT Amount
 ## Research Admin Domain

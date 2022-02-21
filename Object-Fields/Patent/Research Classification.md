@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Patent](../Objects/Patent.md)
+[Patent](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Patent.md)
 ## Meta title
 csr:Patent/Research Classification
 ## Research Admin Domain

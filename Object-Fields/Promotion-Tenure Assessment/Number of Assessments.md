@@ -2,7 +2,7 @@
 ## Short definition
 The number of applications which were assessed by the person.
 ## Base page
-[Promotion-Tenure Assessment](../Objects/Promotion-Tenure Assessment.md)
+[Promotion-Tenure Assessment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Promotion-Tenure%20Assessment.md)
 ## Meta title
 csr:Promotion-Tenure Assessment/Number of Assessments
 ## Research Admin Domain

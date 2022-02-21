@@ -2,7 +2,7 @@
 ## Short definition
 A standard unique identifier assigned to Research Activities.
 ## Base page
-[Project Info](../Objects/Project Info.md)
+[Project Info](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Info.md)
 ## Meta title
 csr:Project Info/Activity ID
 ## Research Admin Domain

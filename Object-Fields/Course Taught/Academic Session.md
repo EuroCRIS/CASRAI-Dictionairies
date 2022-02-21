@@ -2,7 +2,7 @@
 ## Short definition
 The session in which the course is taught.
 ## Base page
-[Course Taught](../Objects/Course Taught.md)
+[Course Taught](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Taught.md)
 ## Meta title
 csr:Course Taught/Academic Session
 ## Research Admin Domain

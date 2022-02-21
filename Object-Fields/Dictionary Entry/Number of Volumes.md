@@ -2,7 +2,7 @@
 ## Short definition
 The total number of volumes contained in the dictionary.
 ## Base page
-[Dictionary Entry](../Objects/Dictionary Entry.md)
+[Dictionary Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dictionary%20Entry.md)
 ## Meta title
 csr:Dictionary Entry/Number of Volumes
 ## Research Admin Domain

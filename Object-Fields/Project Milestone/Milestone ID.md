@@ -2,7 +2,7 @@
 ## Short definition
 A standard unique identifier assigned to milestones.
 ## Base page
-[Project Milestone](../Objects/Project Milestone.md)
+[Project Milestone](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Milestone.md)
 ## Meta title
 csr:Project Milestone/Milestone ID
 ## Research Admin Domain

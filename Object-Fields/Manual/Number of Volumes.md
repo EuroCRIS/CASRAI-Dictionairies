@@ -2,7 +2,7 @@
 ## Short definition
 The total number of volumes contained in the manual.
 ## Base page
-[Manual](../Objects/Manual.md)
+[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
 ## Meta title
 csr:Manual/Number of Volumes
 ## Research Admin Domain

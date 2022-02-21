@@ -2,7 +2,7 @@
 ## Short definition
 The date the work was first performed or exhibited.
 ## Base page
-[Theatric](../Objects/Theatric.md)
+[Theatric](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Theatric.md)
 ## Meta title
 csr:Theatric/Date of First Performance
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The date the assessments were completed.
 ## Base page
-[Promotion-Tenure Assessment](../Objects/Promotion-Tenure Assessment.md)
+[Promotion-Tenure Assessment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Promotion-Tenure%20Assessment.md)
 ## Meta title
 csr:Promotion-Tenure Assessment/End Date
 ## Research Admin Domain

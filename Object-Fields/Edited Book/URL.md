@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the book is available, if such exists.
 ## Base page
-[Edited Book](../Objects/Edited Book.md)
+[Edited Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Edited%20Book.md)
 ## Meta title
 csr:Edited Book/URL
 ## Research Admin Domain

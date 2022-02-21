@@ -2,7 +2,7 @@
 ## Short definition
 A unique identifier for the person.
 ## Base page
-[Reviewer Suggestion](../Objects/Reviewer Suggestion.md)
+[Reviewer Suggestion](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer%20Suggestion.md)
 ## Meta title
 csr:Reviewer Suggestion/CASRAI ID
 ## Research Admin Domain

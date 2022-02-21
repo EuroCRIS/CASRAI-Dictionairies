@@ -2,7 +2,7 @@
 ## Short definition
 A link to a representation of the review on the web.
 ## Base page
-[Review](../Objects/Review.md)
+[Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review.md)
 ## Meta title
 csr:Review/URL
 ## Research Admin Domain

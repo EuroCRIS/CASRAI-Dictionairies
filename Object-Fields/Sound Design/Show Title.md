@@ -2,7 +2,7 @@
 ## Short definition
 The title of the show for which the sound was designed.
 ## Base page
-[Sound Design](../Objects/Sound Design.md)
+[Sound Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Sound%20Design.md)
 ## Meta title
 csr:Sound Design/Show Title
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The title of the program developed.
 ## Base page
-[Program Developed](../Objects/Program Developed.md)
+[Program Developed](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Program%20Developed.md)
 ## Meta title
 csr:Program Developed/Program Title
 ## Research Admin Domain

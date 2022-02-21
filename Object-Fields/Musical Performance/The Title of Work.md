@@ -2,7 +2,7 @@
 ## Short definition
 The title of the performance.
 ## Base page
-[Musical Performance](../Objects/Musical Performance.md)
+[Musical Performance](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Musical%20Performance.md)
 ## Meta title
 csr:Musical Performance/The Title of Work
 ## Research Admin Domain

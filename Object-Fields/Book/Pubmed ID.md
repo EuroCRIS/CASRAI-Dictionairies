@@ -2,7 +2,7 @@
 ## Short definition
 If applicable, the PubMed ID.
 ## Base page
-[Book](../Objects/Book.md)
+[Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book.md)
 ## Meta title
 csr:Book/Pubmed ID
 ## Research Admin Domain

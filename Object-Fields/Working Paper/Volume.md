@@ -2,7 +2,7 @@
 ## Short definition
 The volume number, if applicable.
 ## Base page
-[Working Paper](../Objects/Working Paper.md)
+[Working Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Working%20Paper.md)
 ## Meta title
 csr:Working Paper/Volume
 ## Research Admin Domain

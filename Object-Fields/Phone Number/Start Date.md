@@ -2,7 +2,7 @@
 ## Short definition
 If the given number is temporary, the date upon which it becomes active.
 ## Base page
-[Phone Number](../Objects/Phone Number.md)
+[Phone Number](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Phone%20Number.md)
 ## Meta title
 csr:Phone Number/Start Date
 ## Research Admin Domain

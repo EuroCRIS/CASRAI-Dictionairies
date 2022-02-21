@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Video Recording](../Objects/Video Recording.md)
+[Video Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Video%20Recording.md)
 ## Meta title
 csr:Video Recording/Research Classification
 ## Research Admin Domain

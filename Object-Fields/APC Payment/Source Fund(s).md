@@ -2,7 +2,7 @@
 ## Short definition
 The source of funding to pay the APC.
 ## Base page
-[APC Payment](../Objects/APC Payment.md)
+[APC Payment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/APC%20Payment.md)
 ## Meta title
 csr:APC Payment/Source Fund(s)
 ## Research Admin Domain

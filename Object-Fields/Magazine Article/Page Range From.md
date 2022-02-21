@@ -2,7 +2,7 @@
 ## Short definition
 The start page of the article.
 ## Base page
-[Magazine Article](../Objects/Magazine Article.md)
+[Magazine Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Magazine%20Article.md)
 ## Meta title
 csr:Magazine Article/Page Range From
 ## Research Admin Domain

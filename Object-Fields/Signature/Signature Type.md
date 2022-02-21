@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the type of signature this instance represents.
 ## Base page
-[Signature](../Objects/Signature.md)
+[Signature](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Signature.md)
 ## Meta title
 csr:Signature/Signature Type
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The given and surname of the reference.
 ## Base page
-[Reference](../Objects/Reference.md)
+[Reference](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reference.md)
 ## Meta title
 csr:Reference/Presented Name
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 A unique identifier for the project, internal to the institution.
 ## Base page
-[Project](../Objects/Project.md)
+[Project](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project.md)
 ## Meta title
 csr:Project/Institutional Project ID
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The number of hours of laboratory instruction the person contributed per week.
 ## Base page
-[Course Taught](../Objects/Course Taught.md)
+[Course Taught](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Taught.md)
 ## Meta title
 csr:Course Taught/Lab Hours (per week)
 ## Research Admin Domain

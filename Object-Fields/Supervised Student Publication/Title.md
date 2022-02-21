@@ -2,7 +2,7 @@
 ## Short definition
 The title of the publication.
 ## Base page
-[Supervised Student Publication](../Objects/Supervised Student Publication.md)
+[Supervised Student Publication](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Supervised%20Student%20Publication.md)
 ## Meta title
 csr:Supervised Student Publication/Title
 ## Research Admin Domain

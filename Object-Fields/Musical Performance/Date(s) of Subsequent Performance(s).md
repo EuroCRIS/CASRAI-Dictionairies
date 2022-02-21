@@ -2,7 +2,7 @@
 ## Short definition
 The dates of subsequent performances.
 ## Base page
-[Musical Performance](../Objects/Musical Performance.md)
+[Musical Performance](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Musical%20Performance.md)
 ## Meta title
 csr:Musical Performance/Date(s) of Subsequent Performance(s)
 ## Research Admin Domain

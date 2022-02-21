@@ -2,7 +2,7 @@
 ## Short definition
 The title of the work.
 ## Base page
-[Visual Artwork](../Objects/Visual Artwork.md)
+[Visual Artwork](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Visual%20Artwork.md)
 ## Meta title
 csr:Visual Artwork/Title
 ## Research Admin Domain

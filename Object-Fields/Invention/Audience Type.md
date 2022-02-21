@@ -2,7 +2,7 @@
 ## Short definition
 The sector to which the invention applies.
 ## Base page
-[Invention](../Objects/Invention.md)
+[Invention](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Invention.md)
 ## Meta title
 csr:Invention/Audience Type
 ## Research Admin Domain

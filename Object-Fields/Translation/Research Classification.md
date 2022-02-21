@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Translation](../Objects/Translation.md)
+[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
 ## Meta title
 csr:Translation/Research Classification
 ## Research Admin Domain

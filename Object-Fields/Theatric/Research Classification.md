@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Theatric](../Objects/Theatric.md)
+[Theatric](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Theatric.md)
 ## Meta title
 csr:Theatric/Research Classification
 ## Research Admin Domain

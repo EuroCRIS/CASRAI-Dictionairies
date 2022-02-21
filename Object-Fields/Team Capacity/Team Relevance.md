@@ -2,7 +2,7 @@
 ## Short definition
 A summary of the projectâ€™s relationship to other activities of team members.
 ## Base page
-[Team Capacity](../Objects/Team Capacity.md)
+[Team Capacity](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Team%20Capacity.md)
 ## Meta title
 csr:Team Capacity/Team Relevance
 ## Research Admin Domain

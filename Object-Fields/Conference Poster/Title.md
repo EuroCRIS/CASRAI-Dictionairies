@@ -2,7 +2,7 @@
 ## Short definition
 The title of the conference poster.
 ## Base page
-[Conference Poster](../Objects/Conference Poster.md)
+[Conference Poster](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Poster.md)
 ## Meta title
 csr:Conference Poster/Title
 ## Research Admin Domain

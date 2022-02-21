@@ -4,7 +4,7 @@ List of each instance of expertise as classified by discipline, field of applica
 ## Type
 Lists
 ## Base page
-[None](../Objects/None.md)
+[](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/.md)
 ## Meta title
 csr:Research Classification
 ## Research Admin Domain

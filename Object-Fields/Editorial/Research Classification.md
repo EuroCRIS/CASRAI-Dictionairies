@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Editorial](../Objects/Editorial.md)
+[Editorial](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Editorial.md)
 ## Meta title
 csr:Editorial/Research Classification
 ## Research Admin Domain

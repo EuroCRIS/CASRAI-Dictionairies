@@ -2,7 +2,7 @@
 ## Short definition
 The name of the newsletter in which it was published.
 ## Base page
-[Newsletter Article](../Objects/Newsletter Article.md)
+[Newsletter Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newsletter%20Article.md)
 ## Meta title
 csr:Newsletter Article/Newsletter
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 Notes which clarify details for internal institutional purposes as well as notes to explain any context needed for external viewers.
 ## Base page
-[Internal OA Cost Application](../Objects/Internal OA Cost Application.md)
+[Internal OA Cost Application](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Internal%20OA%20Cost%20Application.md)
 ## Meta title
 csr:Internal OA Cost Application/External Notes
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The name of the academic institution that awarded (or will award) the degree.
 ## Base page
-[Degree](../Objects/Degree.md)
+[Degree](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Degree.md)
 ## Meta title
 csr:Degree/Institution
 ## Research Admin Domain

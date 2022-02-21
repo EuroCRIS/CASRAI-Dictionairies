@@ -2,7 +2,7 @@
 ## Short definition
 The title of the license.
 ## Base page
-[License](../Objects/License.md)
+[License](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/License.md)
 ## Meta title
 csr:License/License Title
 ## Research Admin Domain

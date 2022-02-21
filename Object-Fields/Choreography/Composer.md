@@ -2,7 +2,7 @@
 ## Short definition
 The name of the composer of the music.
 ## Base page
-[Choreography](../Objects/Choreography.md)
+[Choreography](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Choreography.md)
 ## Meta title
 csr:Choreography/Composer
 ## Research Admin Domain

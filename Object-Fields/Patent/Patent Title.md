@@ -2,7 +2,7 @@
 ## Short definition
 The name of the patent.
 ## Base page
-[Patent](../Objects/Patent.md)
+[Patent](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Patent.md)
 ## Meta title
 csr:Patent/Patent Title
 ## Research Admin Domain

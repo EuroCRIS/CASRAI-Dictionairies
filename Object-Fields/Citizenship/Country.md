@@ -2,7 +2,7 @@
 ## Short definition
 The country of the stated citizenship.
 ## Base page
-[Citizenship](../Objects/Citizenship.md)
+[Citizenship](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Citizenship.md)
 ## Meta title
 csr:Citizenship/Country
 ## Research Admin Domain

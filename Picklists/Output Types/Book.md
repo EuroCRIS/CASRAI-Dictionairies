@@ -4,7 +4,7 @@ See http://dictionary.casrai.org/Book
 ## Type
 Values
 ## Base page
-[Output Types](../Objects/Output Types.md)
+[Output Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Output%20Types.md)
 ## Meta title
 csr:Output Types/Book
 ## Research Admin Domain

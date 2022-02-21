@@ -2,7 +2,7 @@
 ## Short definition
 The title of the proceedings publication.
 ## Base page
-[Conference Paper](../Objects/Conference Paper.md)
+[Conference Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Paper.md)
 ## Meta title
 csr:Conference Paper/Proceedings Title
 ## Research Admin Domain

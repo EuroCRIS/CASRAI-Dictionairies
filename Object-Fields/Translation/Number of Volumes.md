@@ -2,7 +2,7 @@
 ## Short definition
 The number of volumes, if applicable.
 ## Base page
-[Translation](../Objects/Translation.md)
+[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
 ## Meta title
 csr:Translation/Number of Volumes
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The date when the signature was received.
 ## Base page
-[Signature](../Objects/Signature.md)
+[Signature](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Signature.md)
 ## Meta title
 csr:Signature/Signature Date
 ## Research Admin Domain

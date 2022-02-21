@@ -2,7 +2,7 @@
 ## Short definition
 A summary of the reason this person is included on the activity.
 ## Base page
-[Project Participant](../Objects/Project Participant.md)
+[Project Participant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Participant.md)
 ## Meta title
 csr:Project Participant/Inclusion Rationale
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The name of the company or organization in which the person is employed.
 ## Base page
-[Non HE Employment](../Objects/Non HE Employment.md)
+[Non HE Employment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Non%20HE%20Employment.md)
 ## Meta title
 csr:Non HE Employment/Employer
 ## Research Admin Domain

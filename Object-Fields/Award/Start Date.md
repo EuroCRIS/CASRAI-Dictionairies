@@ -2,7 +2,7 @@
 ## Short definition
 The start date of the grant.
 ## Base page
-[Award](../Objects/Award.md)
+[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
 ## Meta title
 csr:Award/Start Date
 ## Research Admin Domain

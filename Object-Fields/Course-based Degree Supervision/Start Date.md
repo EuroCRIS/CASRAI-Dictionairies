@@ -2,7 +2,7 @@
 ## Short definition
 The date the supervision began.
 ## Base page
-[Course-based Degree Supervision](../Objects/Course-based Degree Supervision.md)
+[Course-based Degree Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course-based%20Degree%20Supervision.md)
 ## Meta title
 csr:Course-based Degree Supervision/Start Date
 ## Research Admin Domain

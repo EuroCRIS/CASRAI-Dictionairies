@@ -2,7 +2,7 @@
 ## Short definition
 The day of the month on which the review was completed (formatted to ISO 8601).
 ## Base page
-[Review](../Objects/Review.md)
+[Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review.md)
 ## Meta title
 csr:Review/Completion Date
 ## Research Admin Domain

@@ -4,7 +4,7 @@ Request for Comments (IETF).
 ## Type
 Values
 ## Base page
-[Output ID Types](../Objects/Output ID Types.md)
+[Output ID Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Output%20ID%20Types.md)
 ## Meta title
 csr:Output ID Types/RFC
 ## Research Admin Domain

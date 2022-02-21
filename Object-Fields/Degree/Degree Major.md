@@ -2,7 +2,7 @@
 ## Short definition
 The person's major course of study.
 ## Base page
-[Degree](../Objects/Degree.md)
+[Degree](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Degree.md)
 ## Meta title
 csr:Degree/Degree Major
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 Indicate whether consent has been received to release the student's name.
 ## Base page
-[Employee Supervision](../Objects/Employee Supervision.md)
+[Employee Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Employee%20Supervision.md)
 ## Meta title
 csr:Employee Supervision/Consent Obtained for Name Release?
 ## Research Admin Domain

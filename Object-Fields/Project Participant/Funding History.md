@@ -2,7 +2,7 @@
 ## Short definition
 A description of previous funding received by the person.
 ## Base page
-[Project Participant](../Objects/Project Participant.md)
+[Project Participant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Participant.md)
 ## Meta title
 csr:Project Participant/Funding History
 ## Research Admin Domain

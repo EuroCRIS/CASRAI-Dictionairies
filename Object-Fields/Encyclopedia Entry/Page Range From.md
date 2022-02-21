@@ -2,7 +2,7 @@
 ## Short definition
 The start page of the entry.
 ## Base page
-[Encyclopedia Entry](../Objects/Encyclopedia Entry.md)
+[Encyclopedia Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Encyclopedia%20Entry.md)
 ## Meta title
 csr:Encyclopedia Entry/Page Range From
 ## Research Admin Domain

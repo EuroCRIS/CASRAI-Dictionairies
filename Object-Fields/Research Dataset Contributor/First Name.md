@@ -2,7 +2,7 @@
 ## Short definition
 A person's given name.
 ## Base page
-[Research Dataset Contributor](../Objects/Research Dataset Contributor.md)
+[Research Dataset Contributor](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset%20Contributor.md)
 ## Meta title
 csr:Research Dataset Contributor/First Name
 ## Research Admin Domain

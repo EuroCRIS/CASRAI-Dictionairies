@@ -2,7 +2,7 @@
 ## Short definition
 The venue in which the performance was given.
 ## Base page
-[Performance Art](../Objects/Performance Art.md)
+[Performance Art](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Performance%20Art.md)
 ## Meta title
 csr:Performance Art/Venue
 ## Research Admin Domain

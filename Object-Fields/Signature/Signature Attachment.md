@@ -2,7 +2,7 @@
 ## Short definition
 An attached scanned representation of the physical signature given.
 ## Base page
-[Signature](../Objects/Signature.md)
+[Signature](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Signature.md)
 ## Meta title
 csr:Signature/Signature Attachment
 ## Research Admin Domain

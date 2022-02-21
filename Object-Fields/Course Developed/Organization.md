@@ -2,7 +2,7 @@
 ## Short definition
 The organization for which the course was developed.
 ## Base page
-[Course Developed](../Objects/Course Developed.md)
+[Course Developed](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Developed.md)
 ## Meta title
 csr:Course Developed/Organization
 ## Research Admin Domain

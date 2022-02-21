@@ -2,7 +2,7 @@
 ## Short definition
 The date the dissertation was completed.
 ## Base page
-[Dissertation](../Objects/Dissertation.md)
+[Dissertation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dissertation.md)
 ## Meta title
 csr:Dissertation/Completion Date
 ## Research Admin Domain

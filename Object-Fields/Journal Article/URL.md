@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the article is available, if such exists.
 ## Base page
-[Journal Article](../Objects/Journal Article.md)
+[Journal Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Article.md)
 ## Meta title
 csr:Journal Article/URL
 ## Research Admin Domain

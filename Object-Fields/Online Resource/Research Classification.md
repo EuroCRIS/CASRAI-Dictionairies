@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Online Resource](../Objects/Online Resource.md)
+[Online Resource](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Online%20Resource.md)
 ## Meta title
 csr:Online Resource/Research Classification
 ## Research Admin Domain

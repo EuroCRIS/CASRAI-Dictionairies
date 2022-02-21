@@ -4,7 +4,7 @@ Verification, whether as a part of the activity or separate, of the overall repl
 ## Type
 Values
 ## Base page
-[Contributor Roles](../Objects/Contributor Roles.md)
+[Contributor Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Validation
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The date on which the interview was first published.
 ## Base page
-[Text Interview](../Objects/Text Interview.md)
+[Text Interview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Text%20Interview.md)
 ## Meta title
 csr:Text Interview/Publication Date
 ## Research Admin Domain

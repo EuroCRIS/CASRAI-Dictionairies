@@ -2,7 +2,7 @@
 ## Short definition
 Indicate how many works were reviewed.
 ## Base page
-[Journal Reviewing-Refereeing](../Objects/Journal Reviewing-Refereeing.md)
+[Journal Reviewing-Refereeing](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Reviewing-Refereeing.md)
 ## Meta title
 csr:Journal Reviewing-Refereeing/Works Reviewed-Refereed During Time Frame
 ## Research Admin Domain

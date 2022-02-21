@@ -2,7 +2,7 @@
 ## Short definition
 The year that the person received the grant.
 ## Base page
-[Award](../Objects/Award.md)
+[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
 ## Meta title
 csr:Award/Year Awarded
 ## Research Admin Domain

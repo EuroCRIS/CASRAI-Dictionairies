@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Employee Supervision](../Objects/Employee Supervision.md)
+[Employee Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Employee%20Supervision.md)
 ## Meta title
 csr:Employee Supervision/Research Classification
 ## Research Admin Domain

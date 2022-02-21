@@ -4,7 +4,7 @@ Types of research or scholarly outputs.
 ## Type
 Lists
 ## Base page
-[None](../Objects/None.md)
+[](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/.md)
 ## Meta title
 csr:Output Types
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The title of the series to which the recording belongs.
 ## Base page
-[Video Recording](../Objects/Video Recording.md)
+[Video Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Video%20Recording.md)
 ## Meta title
 csr:Video Recording/Series Title
 ## Research Admin Domain

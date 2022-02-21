@@ -2,7 +2,7 @@
 ## Short definition
 The name of the academic institution where the supervision took place.
 ## Base page
-[Employee Supervision](../Objects/Employee Supervision.md)
+[Employee Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Employee%20Supervision.md)
 ## Meta title
 csr:Employee Supervision/Institution
 ## Research Admin Domain

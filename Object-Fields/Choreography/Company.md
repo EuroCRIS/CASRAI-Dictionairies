@@ -2,7 +2,7 @@
 ## Short definition
 The name of the performing dance company.
 ## Base page
-[Choreography](../Objects/Choreography.md)
+[Choreography](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Choreography.md)
 ## Meta title
 csr:Choreography/Company
 ## Research Admin Domain

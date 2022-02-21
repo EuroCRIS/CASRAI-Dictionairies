@@ -2,7 +2,7 @@
 ## Short definition
 A scanned copy of the physical signed document representing the reference.
 ## Base page
-[Reference](../Objects/Reference.md)
+[Reference](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reference.md)
 ## Meta title
 csr:Reference/Reference Attachment
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 A summary of the relationship of the activity to the research question or the  relationship to the specific objectives of a specific research program.
 ## Base page
-[Project Overview](../Objects/Project Overview.md)
+[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Relevance
 ## Research Admin Domain

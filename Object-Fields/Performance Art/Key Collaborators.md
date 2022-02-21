@@ -2,7 +2,7 @@
 ## Short definition
 The names of any key collaborators on the performance.
 ## Base page
-[Performance Art](../Objects/Performance Art.md)
+[Performance Art](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Performance%20Art.md)
 ## Meta title
 csr:Performance Art/Key Collaborators
 ## Research Admin Domain

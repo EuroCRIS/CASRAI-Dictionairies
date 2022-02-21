@@ -2,7 +2,7 @@
 ## Short definition
 The second given name of the person who contributed to a review.
 ## Base page
-[Reviewer](../Objects/Reviewer.md)
+[Reviewer](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer.md)
 ## Meta title
 csr:Reviewer/Middle Name
 ## Research Admin Domain

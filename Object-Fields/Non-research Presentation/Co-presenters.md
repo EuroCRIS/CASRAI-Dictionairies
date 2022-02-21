@@ -2,7 +2,7 @@
 ## Short definition
 The names of other persons presenting this topic, if applicable.
 ## Base page
-[Non-research Presentation](../Objects/Non-research Presentation.md)
+[Non-research Presentation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Non-research%20Presentation.md)
 ## Meta title
 csr:Non-research Presentation/Co-presenters
 ## Research Admin Domain

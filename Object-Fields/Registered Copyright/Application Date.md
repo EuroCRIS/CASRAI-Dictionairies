@@ -2,7 +2,7 @@
 ## Short definition
 The date on which the copyright was requested.
 ## Base page
-[Registered Copyright](../Objects/Registered Copyright.md)
+[Registered Copyright](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Registered%20Copyright.md)
 ## Meta title
 csr:Registered Copyright/Application Date
 ## Research Admin Domain

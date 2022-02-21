@@ -2,7 +2,7 @@
 ## Short definition
 A brief general systematic overview of the research activity.
 ## Base page
-[Project Overview](../Objects/Project Overview.md)
+[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Research Summary
 ## Research Admin Domain

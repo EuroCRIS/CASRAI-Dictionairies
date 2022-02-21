@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the publication.
 ## Base page
-[Editorial](../Objects/Editorial.md)
+[Editorial](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Editorial.md)
 ## Meta title
 csr:Editorial/Type
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 A summary of the result of any organized effort to gather information about markets or customers relevant to this activity.
 ## Base page
-[Project Overview](../Objects/Project Overview.md)
+[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Market Study Results
 ## Research Admin Domain

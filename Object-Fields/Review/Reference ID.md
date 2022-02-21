@@ -2,7 +2,7 @@
 ## Short definition
 The unique locally generated identifier of the review.
 ## Base page
-[Review](../Objects/Review.md)
+[Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review.md)
 ## Meta title
 csr:Review/Reference ID
 ## Research Admin Domain

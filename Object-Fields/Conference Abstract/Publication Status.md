@@ -2,7 +2,7 @@
 ## Short definition
 The status of the abstract with respect to publication.
 ## Base page
-[Conference Abstract](../Objects/Conference Abstract.md)
+[Conference Abstract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Abstract.md)
 ## Meta title
 csr:Conference Abstract/Publication Status
 ## Research Admin Domain

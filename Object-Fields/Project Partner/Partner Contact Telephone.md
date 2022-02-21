@@ -2,7 +2,7 @@
 ## Short definition
 The area code and phone number of the contact.
 ## Base page
-[Project Partner](../Objects/Project Partner.md)
+[Project Partner](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Partner.md)
 ## Meta title
 csr:Project Partner/Partner Contact Telephone
 ## Research Admin Domain

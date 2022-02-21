@@ -2,7 +2,7 @@
 ## Short definition
 The person's phone number.
 ## Base page
-[Phone Number](../Objects/Phone Number.md)
+[Phone Number](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Phone%20Number.md)
 ## Meta title
 csr:Phone Number/Local Number
 ## Research Admin Domain

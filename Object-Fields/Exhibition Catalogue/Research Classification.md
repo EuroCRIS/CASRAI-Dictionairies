@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Exhibition Catalogue](../Objects/Exhibition Catalogue.md)
+[Exhibition Catalogue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Exhibition%20Catalogue.md)
 ## Meta title
 csr:Exhibition Catalogue/Research Classification
 ## Research Admin Domain

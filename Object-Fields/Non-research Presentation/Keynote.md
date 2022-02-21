@@ -2,7 +2,7 @@
 ## Short definition
 Indicate whether the person gave the keynote address at this event.
 ## Base page
-[Non-research Presentation](../Objects/Non-research Presentation.md)
+[Non-research Presentation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Non-research%20Presentation.md)
 ## Meta title
 csr:Non-research Presentation/Keynote?
 ## Research Admin Domain

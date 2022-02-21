@@ -2,7 +2,7 @@
 ## Short definition
 The date that payment leaves the institution's account. Official date in the finance system that payment was made, not the date that the item was processed in a library system or 'committed' for payment.
 ## Base page
-[APC Payment](../Objects/APC Payment.md)
+[APC Payment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/APC%20Payment.md)
 ## Meta title
 csr:APC Payment/Date
 ## Research Admin Domain

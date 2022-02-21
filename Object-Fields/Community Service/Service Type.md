@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the community service.
 ## Base page
-[Community Service](../Objects/Community Service.md)
+[Community Service](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Community%20Service.md)
 ## Meta title
 csr:Community Service/Service Type
 ## Research Admin Domain

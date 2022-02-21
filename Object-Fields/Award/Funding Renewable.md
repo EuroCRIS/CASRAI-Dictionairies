@@ -2,7 +2,7 @@
 ## Short definition
 Indicate if the person can apply for an extension to the funding.
 ## Base page
-[Award](../Objects/Award.md)
+[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
 ## Meta title
 csr:Award/Funding Renewable?
 ## Research Admin Domain

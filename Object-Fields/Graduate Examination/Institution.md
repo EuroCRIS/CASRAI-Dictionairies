@@ -2,7 +2,7 @@
 ## Short definition
 The institution for which the examination was conducted.
 ## Base page
-[Graduate Examination](../Objects/Graduate Examination.md)
+[Graduate Examination](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Graduate%20Examination.md)
 ## Meta title
 csr:Graduate Examination/Institution
 ## Research Admin Domain

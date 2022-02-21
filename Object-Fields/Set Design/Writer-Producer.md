@@ -2,7 +2,7 @@
 ## Short definition
 The writer/producer of the show.
 ## Base page
-[Set Design](../Objects/Set Design.md)
+[Set Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Set%20Design.md)
 ## Meta title
 csr:Set Design/Writer-Producer
 ## Research Admin Domain

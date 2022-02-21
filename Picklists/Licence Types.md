@@ -4,7 +4,7 @@ Types of content licences.
 ## Type
 Lists
 ## Base page
-[None](../Objects/None.md)
+[](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/.md)
 ## Meta title
 csr:Licence Types
 ## Research Admin Domain

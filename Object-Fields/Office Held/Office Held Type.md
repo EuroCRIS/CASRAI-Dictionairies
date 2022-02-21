@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the office held.
 ## Base page
-[Office Held](../Objects/Office Held.md)
+[Office Held](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Office%20Held.md)
 ## Meta title
 csr:Office Held/Office Held Type
 ## Research Admin Domain

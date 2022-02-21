@@ -2,7 +2,7 @@
 ## Short definition
 A description of the technical standard.
 ## Base page
-[Technical Standard](../Objects/Technical Standard.md)
+[Technical Standard](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Technical%20Standard.md)
 ## Meta title
 csr:Technical Standard/Description
 ## Research Admin Domain

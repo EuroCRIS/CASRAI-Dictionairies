@@ -2,7 +2,7 @@
 ## Short definition
 The nominal type of unique ID used for an organization that sourced the review.
 ## Base page
-[Review](../Objects/Review.md)
+[Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review.md)
 ## Meta title
 csr:Review/Convening Org ID Type
 ## Research Admin Domain

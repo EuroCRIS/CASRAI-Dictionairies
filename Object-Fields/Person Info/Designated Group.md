@@ -2,7 +2,7 @@
 ## Short definition
 A classification by group (e.g. Aboriginal, Disabled, Visible Minority) if the person belongs to such a group.
 ## Base page
-[Person Info](../Objects/Person Info.md)
+[Person Info](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Person%20Info.md)
 ## Meta title
 csr:Person Info/Designated Group
 ## Research Admin Domain

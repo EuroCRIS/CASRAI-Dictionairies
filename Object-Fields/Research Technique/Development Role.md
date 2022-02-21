@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role in development of the technique.
 ## Base page
-[Research Technique](../Objects/Research Technique.md)
+[Research Technique](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Technique.md)
 ## Meta title
 csr:Research Technique/Development Role
 ## Research Admin Domain

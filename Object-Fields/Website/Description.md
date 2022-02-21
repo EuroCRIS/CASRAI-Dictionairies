@@ -2,7 +2,7 @@
 ## Short definition
 A description of the nature of the site.
 ## Base page
-[Website](../Objects/Website.md)
+[Website](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Website.md)
 ## Meta title
 csr:Website/Description
 ## Research Admin Domain

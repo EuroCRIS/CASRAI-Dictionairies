@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Contract](../Objects/Contract.md)
+[Contract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contract.md)
 ## Meta title
 csr:Contract/Research Classification
 ## Research Admin Domain

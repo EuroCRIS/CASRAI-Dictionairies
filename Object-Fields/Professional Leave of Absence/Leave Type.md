@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the professional leave of absence.
 ## Base page
-[Professional Leave of Absence](../Objects/Professional Leave of Absence.md)
+[Professional Leave of Absence](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Professional%20Leave%20of%20Absence.md)
 ## Meta title
 csr:Professional Leave of Absence/Leave Type
 ## Research Admin Domain

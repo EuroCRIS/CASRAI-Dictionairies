@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Other Study](../Objects/Other Study.md)
+[Other Study](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Other%20Study.md)
 ## Meta title
 csr:Other Study/Research Classification
 ## Research Admin Domain

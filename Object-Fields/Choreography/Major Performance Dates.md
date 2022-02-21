@@ -2,7 +2,7 @@
 ## Short definition
 The dates that subsequent performances were given.
 ## Base page
-[Choreography](../Objects/Choreography.md)
+[Choreography](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Choreography.md)
 ## Meta title
 csr:Choreography/Major Performance Dates
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The date the position ended, if applicable.
 ## Base page
-[HE Institution Employment](../Objects/HE Institution Employment.md)
+[HE Institution Employment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/HE%20Institution%20Employment.md)
 ## Meta title
 csr:HE Institution Employment/End Date
 ## Research Admin Domain

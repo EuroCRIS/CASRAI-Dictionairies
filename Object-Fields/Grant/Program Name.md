@@ -2,7 +2,7 @@
 ## Short definition
 The name of the Funding Source's specific Program under which funding was awarded.
 ## Base page
-[Grant](../Objects/Grant.md)
+[Grant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant.md)
 ## Meta title
 csr:Grant/Program Name
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The total number of pages in the book.
 ## Base page
-[Edited Book](../Objects/Edited Book.md)
+[Edited Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Edited%20Book.md)
 ## Meta title
 csr:Edited Book/Number of Pages
 ## Research Admin Domain

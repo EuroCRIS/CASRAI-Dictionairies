@@ -2,7 +2,7 @@
 ## Short definition
 The organization which provided funding.
 ## Base page
-[Grant](../Objects/Grant.md)
+[Grant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant.md)
 ## Meta title
 csr:Grant/Funding Organization
 ## Research Admin Domain

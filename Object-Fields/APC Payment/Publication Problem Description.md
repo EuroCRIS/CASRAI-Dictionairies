@@ -2,7 +2,7 @@
 ## Short definition
 A brief description of the problem with the publication process.
 ## Base page
-[APC Payment](../Objects/APC Payment.md)
+[APC Payment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/APC%20Payment.md)
 ## Meta title
 csr:APC Payment/Publication Problem Description
 ## Research Admin Domain

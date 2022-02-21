@@ -2,7 +2,7 @@
 ## Short definition
 A description of who owns the copyright and intellectual property rights (IPR) of this dataset.
 ## Base page
-[Research Dataset](../Objects/Research Dataset.md)
+[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/IPR Ownership
 ## Research Admin Domain

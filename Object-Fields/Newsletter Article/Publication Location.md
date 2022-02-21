@@ -2,7 +2,7 @@
 ## Short definition
 The city and country where it was published.
 ## Base page
-[Newsletter Article](../Objects/Newsletter Article.md)
+[Newsletter Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newsletter%20Article.md)
 ## Meta title
 csr:Newsletter Article/Publication Location
 ## Research Admin Domain

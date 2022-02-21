@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Audio Recording](../Objects/Audio Recording.md)
+[Audio Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Audio%20Recording.md)
 ## Meta title
 csr:Audio Recording/Research Classification
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The title of the show for which the choreography was created.
 ## Base page
-[Choreography](../Objects/Choreography.md)
+[Choreography](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Choreography.md)
 ## Meta title
 csr:Choreography/Show Title
 ## Research Admin Domain

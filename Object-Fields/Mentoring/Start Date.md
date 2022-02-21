@@ -2,7 +2,7 @@
 ## Short definition
 The date the mentor-ship began.
 ## Base page
-[Mentoring](../Objects/Mentoring.md)
+[Mentoring](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Mentoring.md)
 ## Meta title
 csr:Mentoring/Start Date
 ## Research Admin Domain

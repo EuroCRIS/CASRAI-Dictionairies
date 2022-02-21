@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the persons role in the performance.
 ## Base page
-[Musical Performance](../Objects/Musical Performance.md)
+[Musical Performance](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Musical%20Performance.md)
 ## Meta title
 csr:Musical Performance/Performance Role
 ## Research Admin Domain

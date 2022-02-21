@@ -2,7 +2,7 @@
 ## Short definition
 A description of the dataset including its content and coverage.
 ## Base page
-[Research Dataset](../Objects/Research Dataset.md)
+[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/Content Description
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The date the company was registered.
 ## Base page
-[Spin Off Company](../Objects/Spin Off Company.md)
+[Spin Off Company](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Spin%20Off%20Company.md)
 ## Meta title
 csr:Spin Off Company/Date Established
 ## Research Admin Domain

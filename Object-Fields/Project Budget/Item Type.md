@@ -2,7 +2,7 @@
 ## Short definition
 The budget category to which this item belongs.
 ## Base page
-[Project Budget](../Objects/Project Budget.md)
+[Project Budget](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Budget.md)
 ## Meta title
 csr:Project Budget/Item Type
 ## Research Admin Domain

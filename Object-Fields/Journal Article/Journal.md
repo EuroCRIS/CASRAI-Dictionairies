@@ -2,7 +2,7 @@
 ## Short definition
 The name of the journal in which the article is published, or to be published.
 ## Base page
-[Journal Article](../Objects/Journal Article.md)
+[Journal Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Article.md)
 ## Meta title
 csr:Journal Article/Journal
 ## Research Admin Domain

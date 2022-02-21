@@ -2,7 +2,7 @@
 ## Short definition
 The supervised employee's given name.
 ## Base page
-[Employee Supervision](../Objects/Employee Supervision.md)
+[Employee Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Employee%20Supervision.md)
 ## Meta title
 csr:Employee Supervision/Employee First Name
 ## Research Admin Domain

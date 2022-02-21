@@ -2,7 +2,7 @@
 ## Short definition
 The date of the opening of the exhibition.
 ## Base page
-[Curatorial-Museum Exhibition](../Objects/Curatorial-Museum Exhibition.md)
+[Curatorial-Museum Exhibition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Curatorial-Museum%20Exhibition.md)
 ## Meta title
 csr:Curatorial-Museum Exhibition/Date
 ## Research Admin Domain

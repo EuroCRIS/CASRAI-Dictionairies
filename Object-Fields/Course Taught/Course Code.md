@@ -2,7 +2,7 @@
 ## Short definition
 The institution's course code.
 ## Base page
-[Course Taught](../Objects/Course Taught.md)
+[Course Taught](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Taught.md)
 ## Meta title
 csr:Course Taught/Course Code
 ## Research Admin Domain

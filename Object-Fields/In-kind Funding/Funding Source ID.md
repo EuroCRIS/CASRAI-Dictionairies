@@ -2,7 +2,7 @@
 ## Short definition
 A standard unique identifier for Research Funding Organizations.
 ## Base page
-[In-kind Funding](../Objects/In-kind Funding.md)
+[In-kind Funding](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/In-kind%20Funding.md)
 ## Meta title
 csr:In-kind Funding/Funding Source ID
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The institution for which the assessment was conducted.
 ## Base page
-[Grant Application Assessment](../Objects/Grant Application Assessment.md)
+[Grant Application Assessment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant%20Application%20Assessment.md)
 ## Meta title
 csr:Grant Application Assessment/Institution
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Professional Designation](../Objects/Professional Designation.md)
+[Professional Designation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Professional%20Designation.md)
 ## Meta title
 csr:Professional Designation/Research Classification
 ## Research Admin Domain

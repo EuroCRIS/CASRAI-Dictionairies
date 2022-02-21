@@ -2,7 +2,7 @@
 ## Short definition
 A brief description of the budget item.
 ## Base page
-[Project Budget](../Objects/Project Budget.md)
+[Project Budget](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Budget.md)
 ## Meta title
 csr:Project Budget/Item Description
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 A description of the dataset destruction procedures including whether evidence of data destruction is being retained.
 ## Base page
-[Research Dataset](../Objects/Research Dataset.md)
+[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/Destruction Policy
 ## Research Admin Domain

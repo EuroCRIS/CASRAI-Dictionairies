@@ -2,7 +2,7 @@
 ## Short definition
 The name of the journal or conference or applicable object of which the review was a part.
 ## Base page
-[Review Subject](../Objects/Review Subject.md)
+[Review Subject](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review%20Subject.md)
 ## Meta title
 csr:Review Subject/Container
 ## Research Admin Domain

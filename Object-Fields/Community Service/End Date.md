@@ -2,7 +2,7 @@
 ## Short definition
 The date the service ended.
 ## Base page
-[Community Service](../Objects/Community Service.md)
+[Community Service](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Community%20Service.md)
 ## Meta title
 csr:Community Service/End Date
 ## Research Admin Domain

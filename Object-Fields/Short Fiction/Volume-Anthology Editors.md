@@ -2,7 +2,7 @@
 ## Short definition
 The names of any editors involved with the publication.
 ## Base page
-[Short Fiction](../Objects/Short Fiction.md)
+[Short Fiction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Short%20Fiction.md)
 ## Meta title
 csr:Short Fiction/Volume-Anthology Editors
 ## Research Admin Domain

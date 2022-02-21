@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the newsletter article is available, if such exists.
 ## Base page
-[Newsletter Article](../Objects/Newsletter Article.md)
+[Newsletter Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newsletter%20Article.md)
 ## Meta title
 csr:Newsletter Article/URL
 ## Research Admin Domain

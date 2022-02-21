@@ -2,7 +2,7 @@
 ## Short definition
 The amount awarded under the contract.
 ## Base page
-[Contract](../Objects/Contract.md)
+[Contract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contract.md)
 ## Meta title
 csr:Contract/Total Amount
 ## Research Admin Domain

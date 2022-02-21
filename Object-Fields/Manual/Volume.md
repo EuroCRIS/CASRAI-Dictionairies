@@ -2,7 +2,7 @@
 ## Short definition
 The volume in which it was published.
 ## Base page
-[Manual](../Objects/Manual.md)
+[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
 ## Meta title
 csr:Manual/Volume
 ## Research Admin Domain

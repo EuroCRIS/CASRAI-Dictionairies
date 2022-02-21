@@ -4,7 +4,7 @@ Management and coordination responsibility for the research activity planning an
 ## Type
 Values
 ## Base page
-[Contributor Roles](../Objects/Contributor Roles.md)
+[Contributor Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Project administration
 ## Research Admin Domain

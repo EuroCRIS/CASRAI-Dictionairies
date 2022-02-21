@@ -2,7 +2,7 @@
 ## Short definition
 Indicate whether or not the student's degree is completed.
 ## Base page
-[Research-based Degree Supervision](../Objects/Research-based Degree Supervision.md)
+[Research-based Degree Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research-based%20Degree%20Supervision.md)
 ## Meta title
 csr:Research-based Degree Supervision/Degree Status
 ## Research Admin Domain

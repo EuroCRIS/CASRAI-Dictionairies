@@ -2,7 +2,7 @@
 ## Short definition
 The personâ€™s role in the research.
 ## Base page
-[Award](../Objects/Award.md)
+[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
 ## Meta title
 csr:Award/Investigation Role
 ## Research Admin Domain

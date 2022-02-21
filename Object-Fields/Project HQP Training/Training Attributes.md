@@ -2,7 +2,7 @@
 ## Short definition
 A description of the characteristics of the training.
 ## Base page
-[Project HQP Training](../Objects/Project HQP Training.md)
+[Project HQP Training](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20HQP%20Training.md)
 ## Meta title
 csr:Project HQP Training/Training Attributes
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role in the creation of the poster.
 ## Base page
-[Conference Poster](../Objects/Conference Poster.md)
+[Conference Poster](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Poster.md)
 ## Meta title
 csr:Conference Poster/Authoring Role
 ## Research Admin Domain

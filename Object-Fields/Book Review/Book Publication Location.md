@@ -2,7 +2,7 @@
 ## Short definition
 The city and country where it was published.
 ## Base page
-[Book Review](../Objects/Book Review.md)
+[Book Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Review.md)
 ## Meta title
 csr:Book Review/Book Publication Location
 ## Research Admin Domain

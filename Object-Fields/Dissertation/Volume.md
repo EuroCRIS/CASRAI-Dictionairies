@@ -2,7 +2,7 @@
 ## Short definition
 The volume number, if applicable.
 ## Base page
-[Dissertation](../Objects/Dissertation.md)
+[Dissertation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dissertation.md)
 ## Meta title
 csr:Dissertation/Volume
 ## Research Admin Domain

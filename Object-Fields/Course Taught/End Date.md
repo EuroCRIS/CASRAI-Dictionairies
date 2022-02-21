@@ -2,7 +2,7 @@
 ## Short definition
 The date the person finished teaching this course.
 ## Base page
-[Course Taught](../Objects/Course Taught.md)
+[Course Taught](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Taught.md)
 ## Meta title
 csr:Course Taught/End Date
 ## Research Admin Domain

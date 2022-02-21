@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the book is available, if such exists.
 ## Base page
-[Book Chapter](../Objects/Book Chapter.md)
+[Book Chapter](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Chapter.md)
 ## Meta title
 csr:Book Chapter/URL
 ## Research Admin Domain

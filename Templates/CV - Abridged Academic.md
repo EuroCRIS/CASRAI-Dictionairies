@@ -2,7 +2,7 @@
 ## Short definition
 Information representing the summary academic history of a person.
 ## Objects Embedded
-[Identifying Info](../Identifying Info.md), [Education History](../Education History.md), [Employment History](../Employment History.md), [Contact Info](../Contact Info.md), [Funding History](../Funding History.md), 
+[Identifying Info](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Templates/Identifying%20Info.md), [Education History](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Templates/Education%20History.md), [Employment History](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Templates/Employment%20History.md), [Contact Info](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Templates/Contact%20Info.md), [Funding History](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Templates/Funding%20History.md), 
 ## Meta title
 csr:CV - Abridged Academic
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Award](../Objects/Award.md)
+[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
 ## Meta title
 csr:Award/Research Classification
 ## Research Admin Domain

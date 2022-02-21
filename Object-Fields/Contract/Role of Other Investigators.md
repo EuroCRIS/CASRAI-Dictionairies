@@ -2,7 +2,7 @@
 ## Short definition
 The role of the named investigator.
 ## Base page
-[Contract](../Objects/Contract.md)
+[Contract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contract.md)
 ## Meta title
 csr:Contract/Role of Other Investigators
 ## Research Admin Domain

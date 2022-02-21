@@ -2,7 +2,7 @@
 ## Short definition
 The title of the series for which it was produced.
 ## Base page
-[Manual](../Objects/Manual.md)
+[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
 ## Meta title
 csr:Manual/Series Title
 ## Research Admin Domain

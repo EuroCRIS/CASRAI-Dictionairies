@@ -2,7 +2,7 @@
 ## Short definition
 The court in which the case was heard.
 ## Base page
-[Litigation](../Objects/Litigation.md)
+[Litigation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Litigation.md)
 ## Meta title
 csr:Litigation/Court
 ## Research Admin Domain

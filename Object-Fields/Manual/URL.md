@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the manual is available, if such exists.
 ## Base page
-[Manual](../Objects/Manual.md)
+[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
 ## Meta title
 csr:Manual/URL
 ## Research Admin Domain

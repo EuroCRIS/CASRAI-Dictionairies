@@ -2,7 +2,7 @@
 ## Short definition
 The date the reference was given.
 ## Base page
-[Reference](../Objects/Reference.md)
+[Reference](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reference.md)
 ## Meta title
 csr:Reference/Date Given
 ## Research Admin Domain

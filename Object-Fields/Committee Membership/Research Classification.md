@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Committee Membership](../Objects/Committee Membership.md)
+[Committee Membership](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Committee%20Membership.md)
 ## Meta title
 csr:Committee Membership/Research Classification
 ## Research Admin Domain

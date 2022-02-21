@@ -2,7 +2,7 @@
 ## Short definition
 The current employment of the supervised student.
 ## Base page
-[Course-based Degree Supervision](../Objects/Course-based Degree Supervision.md)
+[Course-based Degree Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course-based%20Degree%20Supervision.md)
 ## Meta title
 csr:Course-based Degree Supervision/Present Position of Former Student
 ## Research Admin Domain

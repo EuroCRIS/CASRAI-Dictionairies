@@ -2,7 +2,7 @@
 ## Short definition
 A percentage value that represents the estimated amount of personnel on the activity contributed by this partner.
 ## Base page
-[Project Partner](../Objects/Project Partner.md)
+[Project Partner](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Partner.md)
 ## Meta title
 csr:Project Partner/Partner Utilization
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The name of the first listed editor for the issue.
 ## Base page
-[Journal Issue](../Objects/Journal Issue.md)
+[Journal Issue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Issue.md)
 ## Meta title
 csr:Journal Issue/First Listed Editor
 ## Research Admin Domain

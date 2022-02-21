@@ -2,7 +2,7 @@
 ## Short definition
 The date on which the person commenced administration duties.
 ## Base page
-[Event Administration](../Objects/Event Administration.md)
+[Event Administration](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Event%20Administration.md)
 ## Meta title
 csr:Event Administration/Activity Start Date
 ## Research Admin Domain

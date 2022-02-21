@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role in the entry's creation.
 ## Base page
-[Dictionary Entry](../Objects/Dictionary Entry.md)
+[Dictionary Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dictionary%20Entry.md)
 ## Meta title
 csr:Dictionary Entry/Authoring Role
 ## Research Admin Domain

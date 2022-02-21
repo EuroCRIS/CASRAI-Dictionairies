@@ -4,7 +4,7 @@ A person participating in a process, committee or activity.
 ## Type
 Values
 ## Base page
-[Reviewer Roles](../Objects/Reviewer Roles.md)
+[Reviewer Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer%20Roles.md)
 ## Meta title
 csr:Reviewer Roles/Member
 ## Research Admin Domain

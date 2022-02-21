@@ -2,7 +2,7 @@
 ## Short definition
 The city and country where it was published.
 ## Base page
-[Edited Book](../Objects/Edited Book.md)
+[Edited Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Edited%20Book.md)
 ## Meta title
 csr:Edited Book/Publication Location
 ## Research Admin Domain

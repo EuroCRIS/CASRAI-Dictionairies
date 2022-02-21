@@ -2,7 +2,7 @@
 ## Short definition
 The name of the forum for which the interview was conducted.
 ## Base page
-[Text Interview](../Objects/Text Interview.md)
+[Text Interview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Text%20Interview.md)
 ## Meta title
 csr:Text Interview/Forum
 ## Research Admin Domain

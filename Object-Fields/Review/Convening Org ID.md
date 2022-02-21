@@ -2,7 +2,7 @@
 ## Short definition
 The unique identifier of the organization convening the review.
 ## Base page
-[Review](../Objects/Review.md)
+[Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review.md)
 ## Meta title
 csr:Review/Convening Org ID
 ## Research Admin Domain

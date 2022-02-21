@@ -2,7 +2,7 @@
 ## Short definition
 A description of the subject of the interview.
 ## Base page
-[Broadcast Interview](../Objects/Broadcast Interview.md)
+[Broadcast Interview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Broadcast%20Interview.md)
 ## Meta title
 csr:Broadcast Interview/Topic
 ## Research Admin Domain

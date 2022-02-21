@@ -2,7 +2,7 @@
 ## Short definition
 Whether the article is published under the licence you expected upon payment of the APC.
 ## Base page
-[APC Payment](../Objects/APC Payment.md)
+[APC Payment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/APC%20Payment.md)
 ## Meta title
 csr:APC Payment/Correct Licence Applied
 ## Research Admin Domain

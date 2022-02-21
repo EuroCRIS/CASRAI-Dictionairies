@@ -2,7 +2,7 @@
 ## Short definition
 The year in which this milestone is projected to be reached.
 ## Base page
-[Project Milestone](../Objects/Project Milestone.md)
+[Project Milestone](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Milestone.md)
 ## Meta title
 csr:Project Milestone/Milestone Year
 ## Research Admin Domain

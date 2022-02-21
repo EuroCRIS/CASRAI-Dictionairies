@@ -2,7 +2,7 @@
 ## Short definition
 The date of expiry of the trademark.
 ## Base page
-[Trademark](../Objects/Trademark.md)
+[Trademark](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Trademark.md)
 ## Meta title
 csr:Trademark/End Date
 ## Research Admin Domain

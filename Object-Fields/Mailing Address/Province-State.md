@@ -2,7 +2,7 @@
 ## Short definition
 The regional component (province, state, etc.) of the given address.
 ## Base page
-[Mailing Address](../Objects/Mailing Address.md)
+[Mailing Address](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Mailing%20Address.md)
 ## Meta title
 csr:Mailing Address/Province-State
 ## Research Admin Domain

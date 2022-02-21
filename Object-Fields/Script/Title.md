@@ -2,7 +2,7 @@
 ## Short definition
 The title of the script.
 ## Base page
-[Script](../Objects/Script.md)
+[Script](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Script.md)
 ## Meta title
 csr:Script/Title
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The nominal type of unique ID used for a person who contributed to a review.
 ## Base page
-[Reviewer](../Objects/Reviewer.md)
+[Reviewer](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer.md)
 ## Meta title
 csr:Reviewer/ID Type
 ## Research Admin Domain

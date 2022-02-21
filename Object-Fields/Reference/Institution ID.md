@@ -2,7 +2,7 @@
 ## Short definition
 The unique identifier of the institution to which the person is affiliated.
 ## Base page
-[Reference](../Objects/Reference.md)
+[Reference](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reference.md)
 ## Meta title
 csr:Reference/Institution ID
 ## Research Admin Domain

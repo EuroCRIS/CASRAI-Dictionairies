@@ -2,7 +2,7 @@
 ## Short definition
 The producer's surname.
 ## Base page
-[Audio Recording](../Objects/Audio Recording.md)
+[Audio Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Audio%20Recording.md)
 ## Meta title
 csr:Audio Recording/Producer Last Name
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 Details of how external users will be bound by data sharing agreements, licenses or end-user agreements. Can include links to any online agreements.
 ## Base page
-[Research Dataset](../Objects/Research Dataset.md)
+[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/Managed Access Procedures
 ## Research Admin Domain

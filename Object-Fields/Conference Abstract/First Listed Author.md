@@ -2,7 +2,7 @@
 ## Short definition
 The name of the first listed author of the abstract.
 ## Base page
-[Conference Abstract](../Objects/Conference Abstract.md)
+[Conference Abstract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Abstract.md)
 ## Meta title
 csr:Conference Abstract/First Listed Author
 ## Research Admin Domain

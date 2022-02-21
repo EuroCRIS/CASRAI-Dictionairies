@@ -4,7 +4,7 @@ This license is the most restrictive of our six main licenses, only allowing oth
 ## Type
 Values
 ## Base page
-[Licence Types](../Objects/Licence Types.md)
+[Licence Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Licence%20Types.md)
 ## Meta title
 csr:Licence Types/CC BY-NC-ND
 ## Research Admin Domain

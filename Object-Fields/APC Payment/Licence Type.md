@@ -2,7 +2,7 @@
 ## Short definition
 The licence the article has been published under.
 ## Base page
-[APC Payment](../Objects/APC Payment.md)
+[APC Payment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/APC%20Payment.md)
 ## Meta title
 csr:APC Payment/Licence Type
 ## Research Admin Domain

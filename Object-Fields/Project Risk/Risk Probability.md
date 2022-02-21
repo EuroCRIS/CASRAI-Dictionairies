@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the probability that the identified risk will occur.
 ## Base page
-[Project Risk](../Objects/Project Risk.md)
+[Project Risk](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Risk.md)
 ## Meta title
 csr:Project Risk/Risk Probability
 ## Research Admin Domain

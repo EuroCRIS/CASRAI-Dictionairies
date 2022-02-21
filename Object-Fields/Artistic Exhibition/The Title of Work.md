@@ -2,7 +2,7 @@
 ## Short definition
 The title of the artistic piece.
 ## Base page
-[Artistic Exhibition](../Objects/Artistic Exhibition.md)
+[Artistic Exhibition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Artistic%20Exhibition.md)
 ## Meta title
 csr:Artistic Exhibition/The Title of Work
 ## Research Admin Domain

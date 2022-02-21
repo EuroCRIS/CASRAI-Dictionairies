@@ -2,7 +2,7 @@
 ## Short definition
 The names of any collaborators in the creation of the performance or exhibition.
 ## Base page
-[Theatric](../Objects/Theatric.md)
+[Theatric](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Theatric.md)
 ## Meta title
 csr:Theatric/Collaborators
 ## Research Admin Domain

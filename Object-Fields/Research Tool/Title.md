@@ -2,7 +2,7 @@
 ## Short definition
 The title of the tool.
 ## Base page
-[Research Tool](../Objects/Research Tool.md)
+[Research Tool](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Tool.md)
 ## Meta title
 csr:Research Tool/Title
 ## Research Admin Domain

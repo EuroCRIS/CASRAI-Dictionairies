@@ -2,7 +2,7 @@
 ## Short definition
 The status of the manual with regard to publication.
 ## Base page
-[Manual](../Objects/Manual.md)
+[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
 ## Meta title
 csr:Manual/Publication Status
 ## Research Admin Domain

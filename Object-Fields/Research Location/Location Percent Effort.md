@@ -2,7 +2,7 @@
 ## Short definition
 A percentage value indicating how much of the proposed activity will take place at this location.
 ## Base page
-[Research Location](../Objects/Research Location.md)
+[Research Location](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Location.md)
 ## Meta title
 csr:Research Location/Location Percent Effort
 ## Research Admin Domain

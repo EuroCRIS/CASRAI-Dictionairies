@@ -2,7 +2,7 @@
 ## Short definition
 The full name of a research project.
 ## Base page
-[Project](../Objects/Project.md)
+[Project](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project.md)
 ## Meta title
 csr:Project/Name
 ## Research Admin Domain

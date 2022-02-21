@@ -2,7 +2,7 @@
 ## Short definition
 The country of the institution.
 ## Base page
-[Degree](../Objects/Degree.md)
+[Degree](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Degree.md)
 ## Meta title
 csr:Degree/Country
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 If applicable, the PubMed ID.
 ## Base page
-[Translation](../Objects/Translation.md)
+[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
 ## Meta title
 csr:Translation/Pubmed ID
 ## Research Admin Domain

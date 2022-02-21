@@ -2,7 +2,7 @@
 ## Short definition
 The title of the work translated.
 ## Base page
-[Translation](../Objects/Translation.md)
+[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
 ## Meta title
 csr:Translation/Title
 ## Research Admin Domain

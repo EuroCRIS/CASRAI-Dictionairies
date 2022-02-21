@@ -2,7 +2,7 @@
 ## Short definition
 The date the article was published.
 ## Base page
-[Newspaper Article](../Objects/Newspaper Article.md)
+[Newspaper Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newspaper%20Article.md)
 ## Meta title
 csr:Newspaper Article/Publication Date
 ## Research Admin Domain

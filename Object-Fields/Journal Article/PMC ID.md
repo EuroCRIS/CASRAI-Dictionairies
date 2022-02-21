@@ -2,7 +2,7 @@
 ## Short definition
 Identification assigned to final article referenced in PubMed Central (PMC).
 ## Base page
-[Journal Article](../Objects/Journal Article.md)
+[Journal Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Article.md)
 ## Meta title
 csr:Journal Article/PMC ID
 ## Research Admin Domain

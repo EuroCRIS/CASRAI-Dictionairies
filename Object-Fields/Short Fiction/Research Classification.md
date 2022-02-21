@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Short Fiction](../Objects/Short Fiction.md)
+[Short Fiction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Short%20Fiction.md)
 ## Meta title
 csr:Short Fiction/Research Classification
 ## Research Admin Domain

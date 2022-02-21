@@ -2,7 +2,7 @@
 ## Short definition
 The amount that was actually paid for the open access, excluding Value Added Tax component and excluding Added Costs Component.
 ## Base page
-[APC Payment](../Objects/APC Payment.md)
+[APC Payment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/APC%20Payment.md)
 ## Meta title
 csr:APC Payment/Amount Paid
 ## Research Admin Domain

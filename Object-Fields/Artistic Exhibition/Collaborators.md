@@ -2,7 +2,7 @@
 ## Short definition
 The names of collaborators on the project, if any.
 ## Base page
-[Artistic Exhibition](../Objects/Artistic Exhibition.md)
+[Artistic Exhibition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Artistic%20Exhibition.md)
 ## Meta title
 csr:Artistic Exhibition/Collaborators
 ## Research Admin Domain

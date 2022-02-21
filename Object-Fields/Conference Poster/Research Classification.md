@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Conference Poster](../Objects/Conference Poster.md)
+[Conference Poster](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Poster.md)
 ## Meta title
 csr:Conference Poster/Research Classification
 ## Research Admin Domain

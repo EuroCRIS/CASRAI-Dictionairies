@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Supervised Student Publication](../Objects/Supervised Student Publication.md)
+[Supervised Student Publication](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Supervised%20Student%20Publication.md)
 ## Meta title
 csr:Supervised Student Publication/Research Classification
 ## Research Admin Domain

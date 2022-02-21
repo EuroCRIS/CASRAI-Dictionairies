@@ -2,7 +2,7 @@
 ## Short definition
 A summary of specific aspects of a research area that are addressed in the  proposed activity.
 ## Base page
-[Project Overview](../Objects/Project Overview.md)
+[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Scope
 ## Research Admin Domain

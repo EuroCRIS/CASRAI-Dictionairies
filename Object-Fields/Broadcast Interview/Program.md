@@ -2,7 +2,7 @@
 ## Short definition
 The name of the program for which the interview was conducted.
 ## Base page
-[Broadcast Interview](../Objects/Broadcast Interview.md)
+[Broadcast Interview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Broadcast%20Interview.md)
 ## Meta title
 csr:Broadcast Interview/Program
 ## Research Admin Domain
