@@ -1,4 +1,4 @@
-# euroCRIS preserves the  of the CASRAI Dictionaries
+# euroCRIS preserves the CASRAI Dictionaries
 
 [CASRAI](https://en.wikipedia.org/wiki/Consortia_Advancing_Standards_in_Research_Administration_Information) 
 (Consortia Advancing Standards in Research Administration Information) had developed valueable assets.
