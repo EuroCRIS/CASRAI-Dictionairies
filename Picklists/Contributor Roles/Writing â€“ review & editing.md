@@ -4,7 +4,7 @@ Preparation, creation and/or presentation of the published work by those from th
 ## Type
 Values
 ## Base page
-[Contributor Roles](../../Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Picklists/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Writing â€“ review & editing
 ## Research Admin Domain

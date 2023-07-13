@@ -4,7 +4,7 @@ A person who coordinates reviews and/or is responsible for decision making on th
 ## Type
 Values
 ## Base page
-[Reviewer Roles](../../Objects/Reviewer%20Roles.md)
+[Reviewer Roles](../../Picklists/Reviewer%20Roles.md)
 ## Meta title
 csr:Reviewer Roles/Chair
 ## Research Admin Domain

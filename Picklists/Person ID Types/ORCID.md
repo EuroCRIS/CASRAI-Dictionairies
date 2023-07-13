@@ -4,7 +4,7 @@ A unique alphanumeric string assigned by a registration agency (ORCID) to identi
 ## Type
 Values
 ## Base page
-[Person ID Types](../../Objects/Person%20ID%20Types.md)
+[Person ID Types](../../Picklists/Person%20ID%20Types.md)
 ## Meta title
 csr:Person ID Types/ORCID
 ## Research Admin Domain

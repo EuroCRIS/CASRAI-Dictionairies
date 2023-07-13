@@ -4,7 +4,7 @@ Acquisition of the financial support for the project leading to this publication
 ## Type
 Values
 ## Base page
-[Contributor Roles](../../Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Picklists/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Funding acquisition
 ## Research Admin Domain

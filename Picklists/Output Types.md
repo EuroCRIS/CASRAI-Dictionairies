@@ -4,7 +4,7 @@ Types of research or scholarly outputs.
 ## Type
 Lists
 ## Base page
-[](../Objects/.md)
+—
 ## Meta title
 csr:Output Types
 ## Research Admin Domain

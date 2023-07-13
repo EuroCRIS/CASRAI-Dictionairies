@@ -4,7 +4,7 @@ Programming, software development; designing computer programs; implementation o
 ## Type
 Values
 ## Base page
-[Contributor Roles](../../Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Picklists/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Software
 ## Research Admin Domain

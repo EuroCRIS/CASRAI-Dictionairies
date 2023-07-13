@@ -4,7 +4,7 @@ See http://dictionary.casrai.org/Journal_Article
 ## Type
 Values
 ## Base page
-[Output Types](../../Objects/Output%20Types.md)
+[Output Types](../../Picklists/Output%20Types.md)
 ## Meta title
 csr:Output Types/Journal Article
 ## Research Admin Domain

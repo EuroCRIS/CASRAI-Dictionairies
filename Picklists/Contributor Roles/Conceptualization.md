@@ -4,7 +4,7 @@ Ideas; formulation or evolution of overarching research goals and aims.
 ## Type
 Values
 ## Base page
-[Contributor Roles](../../Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Picklists/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Conceptualization
 ## Research Admin Domain

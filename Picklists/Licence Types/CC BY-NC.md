@@ -4,7 +4,7 @@ This license lets others remix, tweak, and build upon your work non-commercially
 ## Type
 Values
 ## Base page
-[Licence Types](../../Objects/Licence%20Types.md)
+[Licence Types](../../Picklists/Licence%20Types.md)
 ## Meta title
 csr:Licence Types/CC BY-NC
 ## Research Admin Domain

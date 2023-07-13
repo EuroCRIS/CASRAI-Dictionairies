@@ -4,7 +4,7 @@ See http://dictionary.casrai.org/Patent
 ## Type
 Values
 ## Base page
-[Output Types](../../Objects/Output%20Types.md)
+[Output Types](../../Picklists/Output%20Types.md)
 ## Meta title
 csr:Output Types/Patent
 ## Research Admin Domain

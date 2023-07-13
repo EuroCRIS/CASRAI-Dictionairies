@@ -4,7 +4,7 @@ The nominal types of unique ID used for a research output.
 ## Type
 Lists
 ## Base page
-[](../Objects/.md)
+—
 ## Meta title
 csr:Output ID Types
 ## Research Admin Domain

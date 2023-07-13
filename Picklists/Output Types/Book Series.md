@@ -4,7 +4,7 @@ Set of related books written by a single author or collaboratively based on rese
 ## Type
 Values
 ## Base page
-[Output Types](../../Objects/Output%20Types.md)
+[Output Types](../../Picklists/Output%20Types.md)
 ## Meta title
 csr:Output Types/Book Series
 ## Research Admin Domain

@@ -4,7 +4,7 @@ The type of review conducted.
 ## Type
 Lists
 ## Base page
-[](../Objects/.md)
+—
 ## Meta title
 csr:Review Types
 ## Research Admin Domain

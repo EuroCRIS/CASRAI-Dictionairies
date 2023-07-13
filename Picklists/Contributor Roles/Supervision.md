@@ -4,7 +4,7 @@ Oversight and leadership responsibility for the research activity planning and e
 ## Type
 Values
 ## Base page
-[Contributor Roles](../../Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Picklists/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Supervision
 ## Research Admin Domain

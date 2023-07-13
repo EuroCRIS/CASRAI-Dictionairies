@@ -4,7 +4,7 @@ A unique alphanumeric string assigned by an ISNI-approved registration agency.
 ## Type
 Values
 ## Base page
-[Org ID Types](../../Objects/Org%20ID%20Types.md)
+[Org ID Types](../../Picklists/Org%20ID%20Types.md)
 ## Meta title
 csr:Org ID Types/ISNI
 ## Research Admin Domain

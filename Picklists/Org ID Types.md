@@ -4,7 +4,7 @@ The nominal type of unique ID used for an organization.
 ## Type
 Lists
 ## Base page
-[](../Objects/.md)
+—
 ## Meta title
 csr:Org ID Types
 ## Research Admin Domain

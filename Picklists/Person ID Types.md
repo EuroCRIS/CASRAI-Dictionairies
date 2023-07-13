@@ -4,7 +4,7 @@ The nominal type of unique ID used for a person.
 ## Type
 Lists
 ## Base page
-[](../Objects/.md)
+—
 ## Meta title
 csr:Person ID Types
 ## Research Admin Domain
