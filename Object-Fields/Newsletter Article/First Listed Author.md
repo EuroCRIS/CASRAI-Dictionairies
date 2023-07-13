@@ -2,7 +2,7 @@
 ## Short definition
 The name of the first listed author.
 ## Base page
-[Newsletter Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newsletter%20Article.md)
+[Newsletter Article](../../Objects/Newsletter%20Article.md)
 ## Meta title
 csr:Newsletter Article/First Listed Author
 ## Research Admin Domain

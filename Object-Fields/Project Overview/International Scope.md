@@ -2,7 +2,7 @@
 ## Short definition
 Iindicate if this activity utilizes an international team of participants.
 ## Base page
-[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
+[Project Overview](../../Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/International Scope
 ## Research Admin Domain

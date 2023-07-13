@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the capacity of the team for training HQP.
 ## Base page
-[Team Capacity](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Team%20Capacity.md)
+[Team Capacity](../../Objects/Team%20Capacity.md)
 ## Meta title
 csr:Team Capacity/Team Training Capacity
 ## Research Admin Domain

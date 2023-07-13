@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the encyclopaedia can be found, if such exists.
 ## Base page
-[Encyclopedia Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Encyclopedia%20Entry.md)
+[Encyclopedia Entry](../../Objects/Encyclopedia%20Entry.md)
 ## Meta title
 csr:Encyclopedia Entry/URL
 ## Research Admin Domain

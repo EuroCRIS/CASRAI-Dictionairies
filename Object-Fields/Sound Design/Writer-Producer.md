@@ -2,7 +2,7 @@
 ## Short definition
 The writer/producer of the show.
 ## Base page
-[Sound Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Sound%20Design.md)
+[Sound Design](../../Objects/Sound%20Design.md)
 ## Meta title
 csr:Sound Design/Writer-Producer
 ## Research Admin Domain

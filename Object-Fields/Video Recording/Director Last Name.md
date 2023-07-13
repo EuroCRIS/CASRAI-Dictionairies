@@ -2,7 +2,7 @@
 ## Short definition
 The director's surname.
 ## Base page
-[Video Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Video%20Recording.md)
+[Video Recording](../../Objects/Video%20Recording.md)
 ## Meta title
 csr:Video Recording/Director Last Name
 ## Research Admin Domain

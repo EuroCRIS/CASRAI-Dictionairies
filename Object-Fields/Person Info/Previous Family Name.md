@@ -2,7 +2,7 @@
 ## Short definition
 The previous surname of the person if, for example, there has been a change due to marriage.
 ## Base page
-[Person Info](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Person%20Info.md)
+[Person Info](../../Objects/Person%20Info.md)
 ## Meta title
 csr:Person Info/Previous Family Name
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 Date on which the resource was accepted for publication but after which some changes may still be made. Dates will be ISO 8601 standard in a YYYY-MM-DD format. Year (YYYY) or year and month (YYYY-MM) may be used if the full date is not known.
 ## Base page
-[Journal Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Article.md)
+[Journal Article](../../Objects/Journal%20Article.md)
 ## Meta title
 csr:Journal Article/Provisional Acceptance Date
 ## Research Admin Domain

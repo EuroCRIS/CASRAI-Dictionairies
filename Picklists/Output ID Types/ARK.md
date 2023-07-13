@@ -4,7 +4,7 @@ A scheme for the persistent identification of information objects (which can inc
 ## Type
 Values
 ## Base page
-[Output ID Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Output%20ID%20Types.md)
+[Output ID Types](../../Objects/Output%20ID%20Types.md)
 ## Meta title
 csr:Output ID Types/ARK
 ## Research Admin Domain

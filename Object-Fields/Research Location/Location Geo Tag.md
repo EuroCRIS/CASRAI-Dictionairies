@@ -2,7 +2,7 @@
 ## Short definition
 A latitude and longitude reference to the research location commonly used by mapping software.
 ## Base page
-[Research Location](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Location.md)
+[Research Location](../../Objects/Research%20Location.md)
 ## Meta title
 csr:Research Location/Location Geo Tag
 ## Research Admin Domain

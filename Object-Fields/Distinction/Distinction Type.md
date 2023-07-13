@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the award the person received.
 ## Base page
-[Distinction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Distinction.md)
+[Distinction](../../Objects/Distinction.md)
 ## Meta title
 csr:Distinction/Distinction Type
 ## Research Admin Domain

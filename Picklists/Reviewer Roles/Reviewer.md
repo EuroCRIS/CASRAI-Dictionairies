@@ -4,7 +4,7 @@ A person who formally assess or examines an output with a view to commenting and
 ## Type
 Values
 ## Base page
-[Reviewer Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer%20Roles.md)
+[Reviewer Roles](../../Objects/Reviewer%20Roles.md)
 ## Meta title
 csr:Reviewer Roles/Reviewer
 ## Research Admin Domain

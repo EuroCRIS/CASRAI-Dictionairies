@@ -2,7 +2,7 @@
 ## Short definition
 The date that an application/enquiry is first made.
 ## Base page
-[Internal OA Cost Application](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Internal%20OA%20Cost%20Application.md)
+[Internal OA Cost Application](../../Objects/Internal%20OA%20Cost%20Application.md)
 ## Meta title
 csr:Internal OA Cost Application/Date
 ## Research Admin Domain

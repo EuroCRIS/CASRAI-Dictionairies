@@ -2,7 +2,7 @@
 ## Short definition
 The email address of the contact.
 ## Base page
-[Project Partner](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Partner.md)
+[Project Partner](../../Objects/Project%20Partner.md)
 ## Meta title
 csr:Project Partner/Partner Contact Email
 ## Research Admin Domain

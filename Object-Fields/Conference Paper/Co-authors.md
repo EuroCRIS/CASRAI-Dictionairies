@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors of the paper.
 ## Base page
-[Conference Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Paper.md)
+[Conference Paper](../../Objects/Conference%20Paper.md)
 ## Meta title
 csr:Conference Paper/Co-authors
 ## Research Admin Domain

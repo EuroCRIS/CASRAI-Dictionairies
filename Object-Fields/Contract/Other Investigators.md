@@ -2,7 +2,7 @@
 ## Short definition
 The names of other persons involved in the project.
 ## Base page
-[Contract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contract.md)
+[Contract](../../Objects/Contract.md)
 ## Meta title
 csr:Contract/Other Investigators
 ## Research Admin Domain

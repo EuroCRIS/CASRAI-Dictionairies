@@ -2,7 +2,7 @@
 ## Short definition
 The status of the article with regard to publication.
 ## Base page
-[Supervised Student Publication](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Supervised%20Student%20Publication.md)
+[Supervised Student Publication](../../Objects/Supervised%20Student%20Publication.md)
 ## Meta title
 csr:Supervised Student Publication/Publication Status
 ## Research Admin Domain

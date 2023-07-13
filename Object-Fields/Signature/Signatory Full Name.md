@@ -2,7 +2,7 @@
 ## Short definition
 The full name of the individual authorized to provide this type of signature.
 ## Base page
-[Signature](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Signature.md)
+[Signature](../../Objects/Signature.md)
 ## Meta title
 csr:Signature/Signatory Full Name
 ## Research Admin Domain

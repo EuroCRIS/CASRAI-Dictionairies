@@ -2,7 +2,7 @@
 ## Short definition
 The name of the conference for which the poster was created.
 ## Base page
-[Conference Poster](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Poster.md)
+[Conference Poster](../../Objects/Conference%20Poster.md)
 ## Meta title
 csr:Conference Poster/Conference Name
 ## Research Admin Domain

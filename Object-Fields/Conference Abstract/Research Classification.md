@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Conference Abstract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Abstract.md)
+[Conference Abstract](../../Objects/Conference%20Abstract.md)
 ## Meta title
 csr:Conference Abstract/Research Classification
 ## Research Admin Domain

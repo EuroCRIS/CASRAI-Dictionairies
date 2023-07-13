@@ -2,7 +2,7 @@
 ## Short definition
 The institutionâ€™s credit value for the course.
 ## Base page
-[Course Taught](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Taught.md)
+[Course Taught](../../Objects/Course%20Taught.md)
 ## Meta title
 csr:Course Taught/Number of Credits
 ## Research Admin Domain

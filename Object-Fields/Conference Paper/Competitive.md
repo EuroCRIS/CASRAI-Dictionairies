@@ -2,7 +2,7 @@
 ## Short definition
 Indicate whether the process to take part was competitive.
 ## Base page
-[Conference Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Paper.md)
+[Conference Paper](../../Objects/Conference%20Paper.md)
 ## Meta title
 csr:Conference Paper/Competitive?
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 Name of the author of the journal article. The author may be the lead author or a corresponding author. It depends on the internal policy of the institution.
 ## Base page
-[Internal OA Cost Application](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Internal%20OA%20Cost%20Application.md)
+[Internal OA Cost Application](../../Objects/Internal%20OA%20Cost%20Application.md)
 ## Meta title
 csr:Internal OA Cost Application/Author Name
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The city and country where the conference was held.
 ## Base page
-[Conference Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Paper.md)
+[Conference Paper](../../Objects/Conference%20Paper.md)
 ## Meta title
 csr:Conference Paper/Conference Location
 ## Research Admin Domain

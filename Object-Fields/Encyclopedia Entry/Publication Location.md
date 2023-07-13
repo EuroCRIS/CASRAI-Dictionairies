@@ -2,7 +2,7 @@
 ## Short definition
 The city and country where it was published.
 ## Base page
-[Encyclopedia Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Encyclopedia%20Entry.md)
+[Encyclopedia Entry](../../Objects/Encyclopedia%20Entry.md)
 ## Meta title
 csr:Encyclopedia Entry/Publication Location
 ## Research Admin Domain

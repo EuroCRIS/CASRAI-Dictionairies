@@ -2,7 +2,7 @@
 ## Short definition
 The unique identifier of the subject being reviewed.
 ## Base page
-[Review Subject](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review%20Subject.md)
+[Review Subject](../../Objects/Review%20Subject.md)
 ## Meta title
 csr:Review Subject/ID
 ## Research Admin Domain

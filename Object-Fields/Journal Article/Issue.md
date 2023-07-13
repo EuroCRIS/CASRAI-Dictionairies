@@ -2,7 +2,7 @@
 ## Short definition
 The issue number of the journal.
 ## Base page
-[Journal Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Article.md)
+[Journal Article](../../Objects/Journal%20Article.md)
 ## Meta title
 csr:Journal Article/Issue
 ## Research Admin Domain

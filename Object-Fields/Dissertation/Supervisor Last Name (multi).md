@@ -2,7 +2,7 @@
 ## Short definition
 The supervisor's surname.
 ## Base page
-[Dissertation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dissertation.md)
+[Dissertation](../../Objects/Dissertation.md)
 ## Meta title
 csr:Dissertation/Supervisor Last Name (multi)
 ## Research Admin Domain

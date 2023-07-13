@@ -2,7 +2,7 @@
 ## Short definition
 Indicate whether the author was invited to present at the conference.
 ## Base page
-[Conference Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Paper.md)
+[Conference Paper](../../Objects/Conference%20Paper.md)
 ## Meta title
 csr:Conference Paper/Invited?
 ## Research Admin Domain

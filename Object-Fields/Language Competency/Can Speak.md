@@ -2,7 +2,7 @@
 ## Short definition
 The capacity of the person to communicate verbally using the indicated language such that a person with the capacity to understand the language when spoken can comprehend the intended meaning.
 ## Base page
-[Language Competency](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Language%20Competency.md)
+[Language Competency](../../Objects/Language%20Competency.md)
 ## Meta title
 csr:Language Competency/Can Speak
 ## Research Admin Domain

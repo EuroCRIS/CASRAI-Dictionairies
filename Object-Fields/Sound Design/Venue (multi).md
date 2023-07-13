@@ -2,7 +2,7 @@
 ## Short definition
 The venue in which the performance was given.
 ## Base page
-[Sound Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Sound%20Design.md)
+[Sound Design](../../Objects/Sound%20Design.md)
 ## Meta title
 csr:Sound Design/Venue (multi)
 ## Research Admin Domain

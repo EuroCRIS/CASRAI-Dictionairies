@@ -2,7 +2,7 @@
 ## Short definition
 The status of the license application.
 ## Base page
-[License](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/License.md)
+[License](../../Objects/License.md)
 ## Meta title
 csr:License/License Status
 ## Research Admin Domain

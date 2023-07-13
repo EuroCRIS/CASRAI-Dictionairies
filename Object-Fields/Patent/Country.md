@@ -2,7 +2,7 @@
 ## Short definition
 The country in which the patent resides.
 ## Base page
-[Patent](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Patent.md)
+[Patent](../../Objects/Patent.md)
 ## Meta title
 csr:Patent/Country
 ## Research Admin Domain

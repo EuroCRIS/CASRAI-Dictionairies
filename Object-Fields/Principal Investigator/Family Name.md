@@ -2,7 +2,7 @@
 ## Short definition
 A person's surname.
 ## Base page
-[Principal Investigator](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Principal%20Investigator.md)
+[Principal Investigator](../../Objects/Principal%20Investigator.md)
 ## Meta title
 csr:Principal Investigator/Family Name
 ## Research Admin Domain

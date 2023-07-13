@@ -2,7 +2,7 @@
 ## Short definition
 The local grant numbers of the funding awards.
 ## Base page
-[APC Payment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/APC%20Payment.md)
+[APC Payment](../../Objects/APC%20Payment.md)
 ## Meta title
 csr:APC Payment/Source Grant(s)
 ## Research Admin Domain

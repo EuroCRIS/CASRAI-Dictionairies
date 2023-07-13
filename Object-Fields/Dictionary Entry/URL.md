@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the dictionary is available, if such exists.
 ## Base page
-[Dictionary Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dictionary%20Entry.md)
+[Dictionary Entry](../../Objects/Dictionary%20Entry.md)
 ## Meta title
 csr:Dictionary Entry/URL
 ## Research Admin Domain

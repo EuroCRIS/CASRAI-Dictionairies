@@ -2,7 +2,7 @@
 ## Short definition
 The city and country where it was published.
 ## Base page
-[Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book.md)
+[Book](../../Objects/Book.md)
 ## Meta title
 csr:Book/Publication Location
 ## Research Admin Domain

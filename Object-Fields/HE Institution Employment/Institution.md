@@ -2,7 +2,7 @@
 ## Short definition
 The name of the institution.
 ## Base page
-[HE Institution Employment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/HE%20Institution%20Employment.md)
+[HE Institution Employment](../../Objects/HE%20Institution%20Employment.md)
 ## Meta title
 csr:HE Institution Employment/Institution
 ## Research Admin Domain

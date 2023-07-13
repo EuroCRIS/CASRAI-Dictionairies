@@ -4,7 +4,7 @@ This license lets others remix, tweak, and build upon your work even for commerc
 ## Type
 Values
 ## Base page
-[Licence Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Licence%20Types.md)
+[Licence Types](../../Objects/Licence%20Types.md)
 ## Meta title
 csr:Licence Types/CC BY-SA
 ## Research Admin Domain

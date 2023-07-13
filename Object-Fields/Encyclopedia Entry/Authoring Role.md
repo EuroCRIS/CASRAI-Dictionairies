@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role in the entry's creation.
 ## Base page
-[Encyclopedia Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Encyclopedia%20Entry.md)
+[Encyclopedia Entry](../../Objects/Encyclopedia%20Entry.md)
 ## Meta title
 csr:Encyclopedia Entry/Authoring Role
 ## Research Admin Domain

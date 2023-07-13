@@ -2,7 +2,7 @@
 ## Short definition
 Indicate whether the person was invited to present this information.
 ## Base page
-[Non-research Presentation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Non-research%20Presentation.md)
+[Non-research Presentation](../../Objects/Non-research%20Presentation.md)
 ## Meta title
 csr:Non-research Presentation/Invited?
 ## Research Admin Domain

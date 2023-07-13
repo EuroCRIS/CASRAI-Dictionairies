@@ -2,7 +2,7 @@
 ## Short definition
 A description of the funded project.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Project Description
 ## Research Admin Domain

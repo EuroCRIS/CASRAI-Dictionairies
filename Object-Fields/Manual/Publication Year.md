@@ -2,7 +2,7 @@
 ## Short definition
 The year the relevant edition of the manual was published.
 ## Base page
-[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
+[Manual](../../Objects/Manual.md)
 ## Meta title
 csr:Manual/Publication Year
 ## Research Admin Domain

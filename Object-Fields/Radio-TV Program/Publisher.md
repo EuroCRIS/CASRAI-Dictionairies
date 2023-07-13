@@ -2,7 +2,7 @@
 ## Short definition
 The publisher of the series.
 ## Base page
-[Radio-TV Program](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Radio-TV%20Program.md)
+[Radio-TV Program](../../Objects/Radio-TV%20Program.md)
 ## Meta title
 csr:Radio-TV Program/Publisher
 ## Research Admin Domain

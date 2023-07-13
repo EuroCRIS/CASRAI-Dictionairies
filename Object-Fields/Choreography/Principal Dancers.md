@@ -2,7 +2,7 @@
 ## Short definition
 The names of the principal dancers.
 ## Base page
-[Choreography](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Choreography.md)
+[Choreography](../../Objects/Choreography.md)
 ## Meta title
 csr:Choreography/Principal Dancers
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Distinction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Distinction.md)
+[Distinction](../../Objects/Distinction.md)
 ## Meta title
 csr:Distinction/Research Classification
 ## Research Admin Domain

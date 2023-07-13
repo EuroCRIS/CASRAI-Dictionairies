@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role in the publication.
 ## Base page
-[Journal Issue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Issue.md)
+[Journal Issue](../../Objects/Journal%20Issue.md)
 ## Meta title
 csr:Journal Issue/Authoring Role
 ## Research Admin Domain

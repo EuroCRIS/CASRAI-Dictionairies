@@ -2,7 +2,7 @@
 ## Short definition
 The name of the organization convening the review.
 ## Base page
-[Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review.md)
+[Review](../../Objects/Review.md)
 ## Meta title
 csr:Review/Convening Org Name
 ## Research Admin Domain

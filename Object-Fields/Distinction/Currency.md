@@ -2,7 +2,7 @@
 ## Short definition
 The currency in which the award was given.
 ## Base page
-[Distinction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Distinction.md)
+[Distinction](../../Objects/Distinction.md)
 ## Meta title
 csr:Distinction/Currency
 ## Research Admin Domain

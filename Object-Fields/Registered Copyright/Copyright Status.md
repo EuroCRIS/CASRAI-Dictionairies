@@ -2,7 +2,7 @@
 ## Short definition
 The status of the copyright registration.
 ## Base page
-[Registered Copyright](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Registered%20Copyright.md)
+[Registered Copyright](../../Objects/Registered%20Copyright.md)
 ## Meta title
 csr:Registered Copyright/Copyright Status
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The title of the performance.
 ## Base page
-[Performance Art](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Performance%20Art.md)
+[Performance Art](../../Objects/Performance%20Art.md)
 ## Meta title
 csr:Performance Art/Performance Title
 ## Research Admin Domain

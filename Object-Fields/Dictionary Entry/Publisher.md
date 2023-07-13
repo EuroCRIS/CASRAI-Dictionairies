@@ -2,7 +2,7 @@
 ## Short definition
 The name of the publisher of the dictionary.
 ## Base page
-[Dictionary Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dictionary%20Entry.md)
+[Dictionary Entry](../../Objects/Dictionary%20Entry.md)
 ## Meta title
 csr:Dictionary Entry/Publisher
 ## Research Admin Domain

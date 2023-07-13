@@ -2,7 +2,7 @@
 ## Short definition
 If the given e-mail is temporary, the date upon which it becomes inactive.
 ## Base page
-[E-mail](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/E-mail.md)
+[E-mail](../../Objects/E-mail.md)
 ## Meta title
 csr:E-mail/End Date
 ## Research Admin Domain

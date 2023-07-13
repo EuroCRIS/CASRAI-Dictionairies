@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Mailing Address](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Mailing%20Address.md)
+[Mailing Address](../../Objects/Mailing%20Address.md)
 ## Meta title
 csr:Mailing Address/Street Address 2
 ## Research Admin Domain

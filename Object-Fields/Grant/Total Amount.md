@@ -2,7 +2,7 @@
 ## Short definition
 The amount awarded.
 ## Base page
-[Grant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant.md)
+[Grant](../../Objects/Grant.md)
 ## Meta title
 csr:Grant/Total Amount
 ## Research Admin Domain

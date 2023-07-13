@@ -2,7 +2,7 @@
 ## Short definition
 A descriptive summary of the activity.
 ## Base page
-[Project Info](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Info.md)
+[Project Info](../../Objects/Project%20Info.md)
 ## Meta title
 csr:Project Info/Activity Description
 ## Research Admin Domain

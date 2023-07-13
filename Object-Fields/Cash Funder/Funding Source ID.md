@@ -2,7 +2,7 @@
 ## Short definition
 An identifier for Research Funding Organizations.
 ## Base page
-[Cash Funder](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Cash%20Funder.md)
+[Cash Funder](../../Objects/Cash%20Funder.md)
 ## Meta title
 csr:Cash Funder/Funding Source ID
 ## Research Admin Domain

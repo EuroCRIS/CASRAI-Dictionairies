@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role in the bookâ€™s creation.
 ## Base page
-[Edited Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Edited%20Book.md)
+[Edited Book](../../Objects/Edited%20Book.md)
 ## Meta title
 csr:Edited Book/Editing Role
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Newspaper Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newspaper%20Article.md)
+[Newspaper Article](../../Objects/Newspaper%20Article.md)
 ## Meta title
 csr:Newspaper Article/Research Classification
 ## Research Admin Domain

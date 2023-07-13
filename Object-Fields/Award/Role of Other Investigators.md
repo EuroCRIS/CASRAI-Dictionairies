@@ -2,7 +2,7 @@
 ## Short definition
 The role of the named investigator.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Role of Other Investigators
 ## Research Admin Domain

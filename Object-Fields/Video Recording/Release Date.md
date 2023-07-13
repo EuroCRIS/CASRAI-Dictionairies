@@ -2,7 +2,7 @@
 ## Short definition
 The date of initial release of the recording.
 ## Base page
-[Video Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Video%20Recording.md)
+[Video Recording](../../Objects/Video%20Recording.md)
 ## Meta title
 csr:Video Recording/Release Date
 ## Research Admin Domain

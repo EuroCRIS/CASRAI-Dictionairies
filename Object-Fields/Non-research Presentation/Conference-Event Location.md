@@ -2,7 +2,7 @@
 ## Short definition
 The city and country in which the event took place.
 ## Base page
-[Non-research Presentation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Non-research%20Presentation.md)
+[Non-research Presentation](../../Objects/Non-research%20Presentation.md)
 ## Meta title
 csr:Non-research Presentation/Conference-Event Location
 ## Research Admin Domain

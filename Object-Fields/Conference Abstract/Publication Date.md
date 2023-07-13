@@ -2,7 +2,7 @@
 ## Short definition
 The date of publication of the abstract.
 ## Base page
-[Conference Abstract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Abstract.md)
+[Conference Abstract](../../Objects/Conference%20Abstract.md)
 ## Meta title
 csr:Conference Abstract/Publication Date
 ## Research Admin Domain

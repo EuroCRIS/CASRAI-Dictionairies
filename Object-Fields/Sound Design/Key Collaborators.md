@@ -2,7 +2,7 @@
 ## Short definition
 The names of any key collaborators on the sound design.
 ## Base page
-[Sound Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Sound%20Design.md)
+[Sound Design](../../Objects/Sound%20Design.md)
 ## Meta title
 csr:Sound Design/Key Collaborators
 ## Research Admin Domain

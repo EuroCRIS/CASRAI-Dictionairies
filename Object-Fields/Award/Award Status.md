@@ -2,7 +2,7 @@
 ## Short definition
 The current status of the funding.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Award Status
 ## Research Admin Domain

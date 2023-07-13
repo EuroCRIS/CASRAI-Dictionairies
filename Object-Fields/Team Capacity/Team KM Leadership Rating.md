@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the level of Knowledge Mobilization (KM) leadership on the team of participants and partners involved on this activity.
 ## Base page
-[Team Capacity](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Team%20Capacity.md)
+[Team Capacity](../../Objects/Team%20Capacity.md)
 ## Meta title
 csr:Team Capacity/Team KM Leadership Rating
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The email address of the reviewer.
 ## Base page
-[Reference](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reference.md)
+[Reference](../../Objects/Reference.md)
 ## Meta title
 csr:Reference/Primary Email
 ## Research Admin Domain

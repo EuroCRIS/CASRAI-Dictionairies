@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors of the poster.
 ## Base page
-[Conference Poster](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Poster.md)
+[Conference Poster](../../Objects/Conference%20Poster.md)
 ## Meta title
 csr:Conference Poster/Co-authors
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors or co-editors.
 ## Base page
-[Magazine Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Magazine%20Article.md)
+[Magazine Article](../../Objects/Magazine%20Article.md)
 ## Meta title
 csr:Magazine Article/Co-authors--editors
 ## Research Admin Domain

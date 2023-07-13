@@ -2,7 +2,7 @@
 ## Short definition
 The details of the funding if applied over more than one year.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Multi-year Details
 ## Research Admin Domain

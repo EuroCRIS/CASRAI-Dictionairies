@@ -2,7 +2,7 @@
 ## Short definition
 The end date of the grant.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/End Date
 ## Research Admin Domain

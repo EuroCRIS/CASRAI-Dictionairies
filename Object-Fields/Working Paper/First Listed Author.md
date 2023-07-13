@@ -2,7 +2,7 @@
 ## Short definition
 The name of the first listed author or editor.
 ## Base page
-[Working Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Working%20Paper.md)
+[Working Paper](../../Objects/Working%20Paper.md)
 ## Meta title
 csr:Working Paper/First Listed Author
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The date the report was submitted to the institution.
 ## Base page
-[Report](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Report.md)
+[Report](../../Objects/Report.md)
 ## Meta title
 csr:Report/Date Submitted
 ## Research Admin Domain

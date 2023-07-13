@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role in the creation of the abstract.
 ## Base page
-[Conference Abstract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Abstract.md)
+[Conference Abstract](../../Objects/Conference%20Abstract.md)
 ## Meta title
 csr:Conference Abstract/Authoring Role
 ## Research Admin Domain

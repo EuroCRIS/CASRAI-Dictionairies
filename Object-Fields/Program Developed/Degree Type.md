@@ -2,7 +2,7 @@
 ## Short definition
 The designation of the degree for which the program was developed.
 ## Base page
-[Program Developed](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Program%20Developed.md)
+[Program Developed](../../Objects/Program%20Developed.md)
 ## Meta title
 csr:Program Developed/Degree Type
 ## Research Admin Domain

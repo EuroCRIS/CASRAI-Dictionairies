@@ -2,7 +2,7 @@
 ## Short definition
 The person's web address.
 ## Base page
-[Web Address](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Web%20Address.md)
+[Web Address](../../Objects/Web%20Address.md)
 ## Meta title
 csr:Web Address/URL
 ## Research Admin Domain

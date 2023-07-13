@@ -2,7 +2,7 @@
 ## Short definition
 The date of filing priority.
 ## Base page
-[Patent](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Patent.md)
+[Patent](../../Objects/Patent.md)
 ## Meta title
 csr:Patent/Date of Filing Priority
 ## Research Admin Domain

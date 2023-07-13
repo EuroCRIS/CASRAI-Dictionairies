@@ -2,7 +2,7 @@
 ## Short definition
 The status of the reviewed book with regard to publication.
 ## Base page
-[Book Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Review.md)
+[Book Review](../../Objects/Book%20Review.md)
 ## Meta title
 csr:Book Review/Publication Status
 ## Research Admin Domain

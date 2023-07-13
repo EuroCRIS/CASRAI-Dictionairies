@@ -2,7 +2,7 @@
 ## Short definition
 The role of the named investigator.
 ## Base page
-[Grant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant.md)
+[Grant](../../Objects/Grant.md)
 ## Meta title
 csr:Grant/Roles of Other Investigators
 ## Research Admin Domain

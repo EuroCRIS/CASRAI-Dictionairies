@@ -2,7 +2,7 @@
 ## Short definition
 The date upon which the person's research career started.
 ## Base page
-[Career Status](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Career%20Status.md)
+[Career Status](../../Objects/Career%20Status.md)
 ## Meta title
 csr:Career Status/Research Career Start
 ## Research Admin Domain

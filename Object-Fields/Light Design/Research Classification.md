@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Light Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Light%20Design.md)
+[Light Design](../../Objects/Light%20Design.md)
 ## Meta title
 csr:Light Design/Research Classification
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 A description of the methods that will be used to monitor the risk during the activity.
 ## Base page
-[Project Risk](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Risk.md)
+[Project Risk](../../Objects/Project%20Risk.md)
 ## Meta title
 csr:Project Risk/Risk Monitoring Strategy
 ## Research Admin Domain

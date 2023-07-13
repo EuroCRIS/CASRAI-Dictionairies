@@ -2,7 +2,7 @@
 ## Short definition
 The name of the distributor of the album.
 ## Base page
-[Audio Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Audio%20Recording.md)
+[Audio Recording](../../Objects/Audio%20Recording.md)
 ## Meta title
 csr:Audio Recording/Distributor
 ## Research Admin Domain

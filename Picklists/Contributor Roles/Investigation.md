@@ -4,7 +4,7 @@ Conducting a research and investigation process, specifically performing the exp
 ## Type
 Values
 ## Base page
-[Contributor Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Objects/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Investigation
 ## Research Admin Domain

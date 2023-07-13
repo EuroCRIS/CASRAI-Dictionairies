@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the review conducted.
 ## Base page
-[Journal Reviewing-Refereeing](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Reviewing-Refereeing.md)
+[Journal Reviewing-Refereeing](../../Objects/Journal%20Reviewing-Refereeing.md)
 ## Meta title
 csr:Journal Reviewing-Refereeing/Review Type
 ## Research Admin Domain

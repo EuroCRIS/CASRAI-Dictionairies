@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the target research program at the funding source from which you received this funding.
 ## Base page
-[Cash Funder](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Cash%20Funder.md)
+[Cash Funder](../../Objects/Cash%20Funder.md)
 ## Meta title
 csr:Cash Funder/Funding Source Program
 ## Research Admin Domain

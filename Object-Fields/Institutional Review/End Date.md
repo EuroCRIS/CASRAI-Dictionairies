@@ -2,7 +2,7 @@
 ## Short definition
 The date the review was completed.
 ## Base page
-[Institutional Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Institutional%20Review.md)
+[Institutional Review](../../Objects/Institutional%20Review.md)
 ## Meta title
 csr:Institutional Review/End Date
 ## Research Admin Domain

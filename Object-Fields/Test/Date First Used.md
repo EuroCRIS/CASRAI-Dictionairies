@@ -2,7 +2,7 @@
 ## Short definition
 The date the test was first used.
 ## Base page
-[Test](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Test.md)
+[Test](../../Objects/Test.md)
 ## Meta title
 csr:Test/Date First Used
 ## Research Admin Domain

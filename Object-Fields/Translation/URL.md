@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the translation is available, if such exists.
 ## Base page
-[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
+[Translation](../../Objects/Translation.md)
 ## Meta title
 csr:Translation/URL
 ## Research Admin Domain

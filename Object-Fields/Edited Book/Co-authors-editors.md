@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors/-editors for the book.
 ## Base page
-[Edited Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Edited%20Book.md)
+[Edited Book](../../Objects/Edited%20Book.md)
 ## Meta title
 csr:Edited Book/Co-authors-editors
 ## Research Admin Domain

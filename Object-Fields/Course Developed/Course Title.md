@@ -2,7 +2,7 @@
 ## Short definition
 The title of the course developed.
 ## Base page
-[Course Developed](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Developed.md)
+[Course Developed](../../Objects/Course%20Developed.md)
 ## Meta title
 csr:Course Developed/Course Title
 ## Research Admin Domain

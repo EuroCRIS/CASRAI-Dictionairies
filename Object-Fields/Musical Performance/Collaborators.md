@@ -2,7 +2,7 @@
 ## Short definition
 The names of any collaborators in the performance.
 ## Base page
-[Musical Performance](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Musical%20Performance.md)
+[Musical Performance](../../Objects/Musical%20Performance.md)
 ## Meta title
 csr:Musical Performance/Collaborators
 ## Research Admin Domain

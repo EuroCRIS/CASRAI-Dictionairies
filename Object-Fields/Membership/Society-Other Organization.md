@@ -2,7 +2,7 @@
 ## Short definition
 The institution under which the membership is affiliated.
 ## Base page
-[Membership](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Membership.md)
+[Membership](../../Objects/Membership.md)
 ## Meta title
 csr:Membership/Society-Other Organization
 ## Research Admin Domain

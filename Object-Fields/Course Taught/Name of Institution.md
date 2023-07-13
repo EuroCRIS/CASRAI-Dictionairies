@@ -2,7 +2,7 @@
 ## Short definition
 The name of the institution where the course is taught.
 ## Base page
-[Course Taught](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Taught.md)
+[Course Taught](../../Objects/Course%20Taught.md)
 ## Meta title
 csr:Course Taught/Name of Institution
 ## Research Admin Domain

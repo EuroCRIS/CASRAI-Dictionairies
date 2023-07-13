@@ -2,7 +2,7 @@
 ## Short definition
 The title of the personâ€™s thesis project.
 ## Base page
-[Degree](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Degree.md)
+[Degree](../../Objects/Degree.md)
 ## Meta title
 csr:Degree/Thesis Title
 ## Research Admin Domain

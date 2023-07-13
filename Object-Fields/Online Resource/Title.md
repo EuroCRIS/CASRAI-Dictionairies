@@ -2,7 +2,7 @@
 ## Short definition
 The title of the resourse.
 ## Base page
-[Online Resource](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Online%20Resource.md)
+[Online Resource](../../Objects/Online%20Resource.md)
 ## Meta title
 csr:Online Resource/Title
 ## Research Admin Domain

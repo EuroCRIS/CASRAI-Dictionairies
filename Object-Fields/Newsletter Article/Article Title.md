@@ -2,7 +2,7 @@
 ## Short definition
 The title of the article.
 ## Base page
-[Newsletter Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newsletter%20Article.md)
+[Newsletter Article](../../Objects/Newsletter%20Article.md)
 ## Meta title
 csr:Newsletter Article/Article Title
 ## Research Admin Domain

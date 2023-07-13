@@ -2,7 +2,7 @@
 ## Short definition
 The title of the studentâ€™s thesis.
 ## Base page
-[Research-based Degree Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research-based%20Degree%20Supervision.md)
+[Research-based Degree Supervision](../../Objects/Research-based%20Degree%20Supervision.md)
 ## Meta title
 csr:Research-based Degree Supervision/Thesis Title
 ## Research Admin Domain

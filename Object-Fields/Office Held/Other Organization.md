@@ -2,7 +2,7 @@
 ## Short definition
 The name of any other organization affiliated with this office.
 ## Base page
-[Office Held](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Office%20Held.md)
+[Office Held](../../Objects/Office%20Held.md)
 ## Meta title
 csr:Office Held/Other Organization
 ## Research Admin Domain

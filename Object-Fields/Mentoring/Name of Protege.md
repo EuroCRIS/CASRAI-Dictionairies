@@ -2,7 +2,7 @@
 ## Short definition
 The name of the person being mentored.
 ## Base page
-[Mentoring](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Mentoring.md)
+[Mentoring](../../Objects/Mentoring.md)
 ## Meta title
 csr:Mentoring/Name of Protege
 ## Research Admin Domain

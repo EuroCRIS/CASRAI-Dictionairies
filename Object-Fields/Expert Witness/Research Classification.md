@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Expert Witness](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Expert%20Witness.md)
+[Expert Witness](../../Objects/Expert%20Witness.md)
 ## Meta title
 csr:Expert Witness/Research Classification
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The date of the opening of the performance.
 ## Base page
-[Choreography](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Choreography.md)
+[Choreography](../../Objects/Choreography.md)
 ## Meta title
 csr:Choreography/Premier Date
 ## Research Admin Domain

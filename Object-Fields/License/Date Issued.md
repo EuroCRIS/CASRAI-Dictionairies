@@ -2,7 +2,7 @@
 ## Short definition
 The date the license was issued.
 ## Base page
-[License](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/License.md)
+[License](../../Objects/License.md)
 ## Meta title
 csr:License/Date Issued
 ## Research Admin Domain

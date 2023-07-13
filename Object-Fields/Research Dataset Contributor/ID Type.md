@@ -2,7 +2,7 @@
 ## Short definition
 The nominal type of unique ID used for this person.
 ## Base page
-[Research Dataset Contributor](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset%20Contributor.md)
+[Research Dataset Contributor](../../Objects/Research%20Dataset%20Contributor.md)
 ## Meta title
 csr:Research Dataset Contributor/ID Type
 ## Research Admin Domain

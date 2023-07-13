@@ -2,7 +2,7 @@
 ## Short definition
 The name of the person or company who oversaw organization of the event.
 ## Base page
-[Event Administration](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Event%20Administration.md)
+[Event Administration](../../Objects/Event%20Administration.md)
 ## Meta title
 csr:Event Administration/Primary Event Organizaer
 ## Research Admin Domain

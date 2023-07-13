@@ -2,7 +2,7 @@
 ## Short definition
 The status of the article with regard to publication.
 ## Base page
-[Journal Issue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Issue.md)
+[Journal Issue](../../Objects/Journal%20Issue.md)
 ## Meta title
 csr:Journal Issue/Publication Status
 ## Research Admin Domain

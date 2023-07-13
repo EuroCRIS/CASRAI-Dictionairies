@@ -2,7 +2,7 @@
 ## Short definition
 The dates of subsequent presentations.
 ## Base page
-[Artistic Exhibition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Artistic%20Exhibition.md)
+[Artistic Exhibition](../../Objects/Artistic%20Exhibition.md)
 ## Meta title
 csr:Artistic Exhibition/Date(s) of Subsequent Performance(s)
 ## Research Admin Domain

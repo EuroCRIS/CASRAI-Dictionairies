@@ -2,7 +2,7 @@
 ## Short definition
 The names of any other persons who acted as supervisors.
 ## Base page
-[Employee Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Employee%20Supervision.md)
+[Employee Supervision](../../Objects/Employee%20Supervision.md)
 ## Meta title
 csr:Employee Supervision/Co-supervisors
 ## Research Admin Domain

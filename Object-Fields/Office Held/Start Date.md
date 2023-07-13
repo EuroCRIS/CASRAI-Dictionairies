@@ -2,7 +2,7 @@
 ## Short definition
 The date the person began this position.
 ## Base page
-[Office Held](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Office%20Held.md)
+[Office Held](../../Objects/Office%20Held.md)
 ## Meta title
 csr:Office Held/Start Date
 ## Research Admin Domain

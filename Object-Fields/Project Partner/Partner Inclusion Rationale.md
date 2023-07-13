@@ -2,7 +2,7 @@
 ## Short definition
 A summary of the reason this partner is included on the activity.
 ## Base page
-[Project Partner](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Partner.md)
+[Project Partner](../../Objects/Project%20Partner.md)
 ## Meta title
 csr:Project Partner/Partner Inclusion Rationale
 ## Research Admin Domain

@@ -4,7 +4,7 @@ Preparation, creation and/or presentation of the published work, specifically wr
 ## Type
 Values
 ## Base page
-[Contributor Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Objects/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Writing â€“ original draft
 ## Research Admin Domain

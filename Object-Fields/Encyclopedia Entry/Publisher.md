@@ -2,7 +2,7 @@
 ## Short definition
 The name of the publisher of the encyclopaedia.
 ## Base page
-[Encyclopedia Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Encyclopedia%20Entry.md)
+[Encyclopedia Entry](../../Objects/Encyclopedia%20Entry.md)
 ## Meta title
 csr:Encyclopedia Entry/Publisher
 ## Research Admin Domain

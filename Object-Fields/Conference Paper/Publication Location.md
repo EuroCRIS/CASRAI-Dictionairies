@@ -2,7 +2,7 @@
 ## Short definition
 The city and country of publication.
 ## Base page
-[Conference Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Paper.md)
+[Conference Paper](../../Objects/Conference%20Paper.md)
 ## Meta title
 csr:Conference Paper/Publication Location
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Professional Leave of Absence](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Professional%20Leave%20of%20Absence.md)
+[Professional Leave of Absence](../../Objects/Professional%20Leave%20of%20Absence.md)
 ## Meta title
 csr:Professional Leave of Absence/Research Classification
 ## Research Admin Domain

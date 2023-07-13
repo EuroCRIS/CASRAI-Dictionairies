@@ -2,7 +2,7 @@
 ## Short definition
 An account of what has been published on the activity by accredited scholars and researchers.
 ## Base page
-[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
+[Project Overview](../../Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Literature Review
 ## Research Admin Domain

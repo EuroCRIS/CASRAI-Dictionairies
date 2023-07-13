@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the book is available, if such exists.
 ## Base page
-[Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book.md)
+[Book](../../Objects/Book.md)
 ## Meta title
 csr:Book/URL
 ## Research Admin Domain

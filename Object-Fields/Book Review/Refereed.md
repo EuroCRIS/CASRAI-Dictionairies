@@ -2,7 +2,7 @@
 ## Short definition
 Indicate if the review was refereed.
 ## Base page
-[Book Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Review.md)
+[Book Review](../../Objects/Book%20Review.md)
 ## Meta title
 csr:Book Review/Refereed?
 ## Research Admin Domain

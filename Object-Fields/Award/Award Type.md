@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the grant received.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Award Type
 ## Research Admin Domain

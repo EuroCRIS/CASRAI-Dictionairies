@@ -2,7 +2,7 @@
 ## Short definition
 The country code of the given phone number.
 ## Base page
-[Phone Number](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Phone%20Number.md)
+[Phone Number](../../Objects/Phone%20Number.md)
 ## Meta title
 csr:Phone Number/Country Code
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The volume number, if applicable.
 ## Base page
-[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
+[Translation](../../Objects/Translation.md)
 ## Meta title
 csr:Translation/Volume
 ## Research Admin Domain

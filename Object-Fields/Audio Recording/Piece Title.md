@@ -2,7 +2,7 @@
 ## Short definition
 The title of the recording.
 ## Base page
-[Audio Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Audio%20Recording.md)
+[Audio Recording](../../Objects/Audio%20Recording.md)
 ## Meta title
 csr:Audio Recording/Piece Title
 ## Research Admin Domain

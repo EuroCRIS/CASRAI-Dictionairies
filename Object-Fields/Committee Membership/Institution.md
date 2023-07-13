@@ -2,7 +2,7 @@
 ## Short definition
 The name of the institution to which the committee is affiliated.
 ## Base page
-[Committee Membership](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Committee%20Membership.md)
+[Committee Membership](../../Objects/Committee%20Membership.md)
 ## Meta title
 csr:Committee Membership/Institution
 ## Research Admin Domain

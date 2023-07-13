@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Script](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Script.md)
+[Script](../../Objects/Script.md)
 ## Meta title
 csr:Script/Research Classification
 ## Research Admin Domain

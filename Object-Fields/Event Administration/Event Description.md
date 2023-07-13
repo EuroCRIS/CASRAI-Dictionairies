@@ -2,7 +2,7 @@
 ## Short definition
 A description of the event.
 ## Base page
-[Event Administration](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Event%20Administration.md)
+[Event Administration](../../Objects/Event%20Administration.md)
 ## Meta title
 csr:Event Administration/Event Description
 ## Research Admin Domain

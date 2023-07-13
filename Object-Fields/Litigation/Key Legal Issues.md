@@ -2,7 +2,7 @@
 ## Short definition
 A description of the key issues in the case.
 ## Base page
-[Litigation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Litigation.md)
+[Litigation](../../Objects/Litigation.md)
 ## Meta title
 csr:Litigation/Key Legal Issues
 ## Research Admin Domain

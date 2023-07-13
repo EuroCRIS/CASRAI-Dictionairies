@@ -2,7 +2,7 @@
 ## Short definition
 A percentage value that represents the estimated annual amount of time this participant will devote to this activity.
 ## Base page
-[Project Participant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Participant.md)
+[Project Participant](../../Objects/Project%20Participant.md)
 ## Meta title
 csr:Project Participant/Participant Utilization
 ## Research Admin Domain

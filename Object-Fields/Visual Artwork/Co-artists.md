@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-artists.
 ## Base page
-[Visual Artwork](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Visual%20Artwork.md)
+[Visual Artwork](../../Objects/Visual%20Artwork.md)
 ## Meta title
 csr:Visual Artwork/Co-artists
 ## Research Admin Domain

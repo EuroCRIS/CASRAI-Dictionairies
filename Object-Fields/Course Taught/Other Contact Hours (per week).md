@@ -2,7 +2,7 @@
 ## Short definition
 The number of other contact/office hours that were required per week.
 ## Base page
-[Course Taught](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Taught.md)
+[Course Taught](../../Objects/Course%20Taught.md)
 ## Meta title
 csr:Course Taught/Other Contact Hours (per week)
 ## Research Admin Domain

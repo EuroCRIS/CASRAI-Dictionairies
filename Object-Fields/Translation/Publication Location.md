@@ -2,7 +2,7 @@
 ## Short definition
 The city and country where it was published.
 ## Base page
-[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
+[Translation](../../Objects/Translation.md)
 ## Meta title
 csr:Translation/Publication Location
 ## Research Admin Domain

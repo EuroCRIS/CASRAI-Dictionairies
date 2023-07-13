@@ -2,7 +2,7 @@
 ## Short definition
 The status of the book with regard to publication.
 ## Base page
-[Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book.md)
+[Book](../../Objects/Book.md)
 ## Meta title
 csr:Book/Publication Status
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The date on which administrative duties were completed.
 ## Base page
-[Event Administration](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Event%20Administration.md)
+[Event Administration](../../Objects/Event%20Administration.md)
 ## Meta title
 csr:Event Administration/Activity End Date
 ## Research Admin Domain

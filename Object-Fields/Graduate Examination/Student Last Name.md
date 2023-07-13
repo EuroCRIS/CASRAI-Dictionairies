@@ -2,7 +2,7 @@
 ## Short definition
 The student's surname.
 ## Base page
-[Graduate Examination](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Graduate%20Examination.md)
+[Graduate Examination](../../Objects/Graduate%20Examination.md)
 ## Meta title
 csr:Graduate Examination/Student Last Name
 ## Research Admin Domain

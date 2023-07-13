@@ -2,7 +2,7 @@
 ## Short definition
 The start date of the contract.
 ## Base page
-[Contract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contract.md)
+[Contract](../../Objects/Contract.md)
 ## Meta title
 csr:Contract/Start Date
 ## Research Admin Domain

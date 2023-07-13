@@ -2,7 +2,7 @@
 ## Short definition
 The edition number, if applicable.
 ## Base page
-[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
+[Translation](../../Objects/Translation.md)
 ## Meta title
 csr:Translation/Edition
 ## Research Admin Domain

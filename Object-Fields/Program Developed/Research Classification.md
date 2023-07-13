@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Program Developed](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Program%20Developed.md)
+[Program Developed](../../Objects/Program%20Developed.md)
 ## Meta title
 csr:Program Developed/Research Classification
 ## Research Admin Domain

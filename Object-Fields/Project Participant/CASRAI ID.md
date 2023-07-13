@@ -2,7 +2,7 @@
 ## Short definition
 A unique identifier for the person.
 ## Base page
-[Project Participant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Participant.md)
+[Project Participant](../../Objects/Project%20Participant.md)
 ## Meta title
 csr:Project Participant/CASRAI ID
 ## Research Admin Domain

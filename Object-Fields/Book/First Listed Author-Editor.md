@@ -2,7 +2,7 @@
 ## Short definition
 The name of the first listed author/editor for the book.
 ## Base page
-[Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book.md)
+[Book](../../Objects/Book.md)
 ## Meta title
 csr:Book/First Listed Author-Editor
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the book review is available, if such exists.
 ## Base page
-[Book Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Review.md)
+[Book Review](../../Objects/Book%20Review.md)
 ## Meta title
 csr:Book Review/URL
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the academic institution.
 ## Base page
-[HE Institution Employment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/HE%20Institution%20Employment.md)
+[HE Institution Employment](../../Objects/HE%20Institution%20Employment.md)
 ## Meta title
 csr:HE Institution Employment/Institution Type
 ## Research Admin Domain

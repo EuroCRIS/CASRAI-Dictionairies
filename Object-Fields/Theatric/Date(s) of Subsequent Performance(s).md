@@ -2,7 +2,7 @@
 ## Short definition
 The dates that subsequent performances or exhibitions were given.
 ## Base page
-[Theatric](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Theatric.md)
+[Theatric](../../Objects/Theatric.md)
 ## Meta title
 csr:Theatric/Date(s) of Subsequent Performance(s)
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 Indicate needs related to the completion of this milestone.
 ## Base page
-[Project Milestone](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Milestone.md)
+[Project Milestone](../../Objects/Project%20Milestone.md)
 ## Meta title
 csr:Project Milestone/Milestone Dependency
 ## Research Admin Domain

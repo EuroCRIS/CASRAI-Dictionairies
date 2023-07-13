@@ -2,7 +2,7 @@
 ## Short definition
 Indicate if the application process was competitive.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Competitive?
 ## Research Admin Domain

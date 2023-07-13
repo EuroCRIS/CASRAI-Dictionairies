@@ -2,7 +2,7 @@
 ## Short definition
 The personâ€™s role in the research.
 ## Base page
-[Grant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant.md)
+[Grant](../../Objects/Grant.md)
 ## Meta title
 csr:Grant/Investigation Role
 ## Research Admin Domain

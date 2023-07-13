@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
+[Manual](../../Objects/Manual.md)
 ## Meta title
 csr:Manual/Research Classification
 ## Research Admin Domain

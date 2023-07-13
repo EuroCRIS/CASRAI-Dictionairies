@@ -2,7 +2,7 @@
 ## Short definition
 The name of the institution to which the person is affiliated.
 ## Base page
-[Project Participant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Participant.md)
+[Project Participant](../../Objects/Project%20Participant.md)
 ## Meta title
 csr:Project Participant/Institution
 ## Research Admin Domain

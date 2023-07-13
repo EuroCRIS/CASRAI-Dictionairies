@@ -2,7 +2,7 @@
 ## Short definition
 A description of the subject of the interview.
 ## Base page
-[Text Interview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Text%20Interview.md)
+[Text Interview](../../Objects/Text%20Interview.md)
 ## Meta title
 csr:Text Interview/Topic
 ## Research Admin Domain

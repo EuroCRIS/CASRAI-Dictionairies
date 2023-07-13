@@ -2,7 +2,7 @@
 ## Short definition
 The start date of the consultancy.
 ## Base page
-[Consulting-Advisory](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Consulting-Advisory.md)
+[Consulting-Advisory](../../Objects/Consulting-Advisory.md)
 ## Meta title
 csr:Consulting-Advisory/Start Date
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The name of the case in which the person participated.
 ## Base page
-[Litigation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Litigation.md)
+[Litigation](../../Objects/Litigation.md)
 ## Meta title
 csr:Litigation/Case Name
 ## Research Admin Domain

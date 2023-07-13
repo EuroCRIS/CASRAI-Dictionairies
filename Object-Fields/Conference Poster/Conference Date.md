@@ -2,7 +2,7 @@
 ## Short definition
 The date the conference began.
 ## Base page
-[Conference Poster](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Poster.md)
+[Conference Poster](../../Objects/Conference%20Poster.md)
 ## Meta title
 csr:Conference Poster/Conference Date
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the periodic funding amounts this funding instance represents.
 ## Base page
-[Cash Funder](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Cash%20Funder.md)
+[Cash Funder](../../Objects/Cash%20Funder.md)
 ## Meta title
 csr:Cash Funder/Periodic Amounts
 ## Research Admin Domain

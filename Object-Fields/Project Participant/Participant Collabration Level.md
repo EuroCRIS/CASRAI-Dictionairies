@@ -2,7 +2,7 @@
 ## Short definition
 Identify the degree to which this participant will collaborate with other participants.
 ## Base page
-[Project Participant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Participant.md)
+[Project Participant](../../Objects/Project%20Participant.md)
 ## Meta title
 csr:Project Participant/Participant Collabration Level
 ## Research Admin Domain

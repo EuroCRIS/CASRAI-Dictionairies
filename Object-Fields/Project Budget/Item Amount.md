@@ -2,7 +2,7 @@
 ## Short definition
 The dollar value of this budget item.
 ## Base page
-[Project Budget](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Budget.md)
+[Project Budget](../../Objects/Project%20Budget.md)
 ## Meta title
 csr:Project Budget/Item Amount
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The amount of total funding received by the person for their participation in the project.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Portion of Funding
 ## Research Admin Domain

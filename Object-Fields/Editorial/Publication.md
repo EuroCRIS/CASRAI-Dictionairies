@@ -2,7 +2,7 @@
 ## Short definition
 The name of the publication in which the editorial appeared.
 ## Base page
-[Editorial](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Editorial.md)
+[Editorial](../../Objects/Editorial.md)
 ## Meta title
 csr:Editorial/Publication
 ## Research Admin Domain

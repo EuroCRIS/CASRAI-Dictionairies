@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the personal leave of absence.
 ## Base page
-[Personal Leave of Absence](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Personal%20Leave%20of%20Absence.md)
+[Personal Leave of Absence](../../Objects/Personal%20Leave%20of%20Absence.md)
 ## Meta title
 csr:Personal Leave of Absence/Leave Type
 ## Research Admin Domain

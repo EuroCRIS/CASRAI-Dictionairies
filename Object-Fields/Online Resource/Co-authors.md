@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors.
 ## Base page
-[Online Resource](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Online%20Resource.md)
+[Online Resource](../../Objects/Online%20Resource.md)
 ## Meta title
 csr:Online Resource/Co-authors
 ## Research Admin Domain

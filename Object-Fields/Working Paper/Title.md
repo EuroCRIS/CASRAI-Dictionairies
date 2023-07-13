@@ -2,7 +2,7 @@
 ## Short definition
 The title of the working paper.
 ## Base page
-[Working Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Working%20Paper.md)
+[Working Paper](../../Objects/Working%20Paper.md)
 ## Meta title
 csr:Working Paper/Title
 ## Research Admin Domain

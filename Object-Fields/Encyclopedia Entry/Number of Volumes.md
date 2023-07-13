@@ -2,7 +2,7 @@
 ## Short definition
 The total number of volumes contained in the encyclopaedia.
 ## Base page
-[Encyclopedia Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Encyclopedia%20Entry.md)
+[Encyclopedia Entry](../../Objects/Encyclopedia%20Entry.md)
 ## Meta title
 csr:Encyclopedia Entry/Number of Volumes
 ## Research Admin Domain

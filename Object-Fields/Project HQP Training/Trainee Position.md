@@ -2,7 +2,7 @@
 ## Short definition
 The person's role in the activity.
 ## Base page
-[Project HQP Training](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20HQP%20Training.md)
+[Project HQP Training](../../Objects/Project%20HQP%20Training.md)
 ## Meta title
 csr:Project HQP Training/Trainee Position
 ## Research Admin Domain

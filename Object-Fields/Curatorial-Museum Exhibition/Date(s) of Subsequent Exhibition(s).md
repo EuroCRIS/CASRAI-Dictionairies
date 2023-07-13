@@ -2,7 +2,7 @@
 ## Short definition
 The dates that subsequent exhibitions were given.
 ## Base page
-[Curatorial-Museum Exhibition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Curatorial-Museum%20Exhibition.md)
+[Curatorial-Museum Exhibition](../../Objects/Curatorial-Museum%20Exhibition.md)
 ## Meta title
 csr:Curatorial-Museum Exhibition/Date(s) of Subsequent Exhibition(s)
 ## Research Admin Domain

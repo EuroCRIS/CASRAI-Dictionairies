@@ -2,7 +2,7 @@
 ## Short definition
 A summary of the five most important research outputs produced by this team.
 ## Base page
-[Team Capacity](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Team%20Capacity.md)
+[Team Capacity](../../Objects/Team%20Capacity.md)
 ## Meta title
 csr:Team Capacity/Team Output Capacity
 ## Research Admin Domain

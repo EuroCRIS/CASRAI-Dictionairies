@@ -2,7 +2,7 @@
 ## Short definition
 The date the article was published.
 ## Base page
-[Newsletter Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newsletter%20Article.md)
+[Newsletter Article](../../Objects/Newsletter%20Article.md)
 ## Meta title
 csr:Newsletter Article/Publication Date
 ## Research Admin Domain

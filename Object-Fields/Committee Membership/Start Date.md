@@ -2,7 +2,7 @@
 ## Short definition
 The date on which membership began.
 ## Base page
-[Committee Membership](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Committee%20Membership.md)
+[Committee Membership](../../Objects/Committee%20Membership.md)
 ## Meta title
 csr:Committee Membership/Start Date
 ## Research Admin Domain
