@@ -1,6 +1,6 @@
 # Output ID Types/JFM
 ## Short definition
-Jahrbuch Ã¼ber die Fortschritte der Mathematik
+Jahrbuch über die Fortschritte der Mathematik
 ## Type
 Values
 ## Base page
