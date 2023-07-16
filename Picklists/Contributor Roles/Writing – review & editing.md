@@ -1,6 +1,6 @@
 # Contributor Roles/Writing – review & editing
 ## Short definition
-Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision â€“ including pre- or post-publication stages.
+Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision — including pre- or post-publication stages.
 ## Type
 Values
 ## Base page
