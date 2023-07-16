@@ -86,7 +86,7 @@ The goal of this glossary is to gather all the key terms needed for collaborator
 
 [Repository](./Glossary/Repository.md)  – Repositories preserve, manage, and provide access to many types of digital materials in a variety of formats.
 
-[Research Funder](./Glossary/Research%20Funder.md)   – An organisation providing financial support for research activity.
+[Research Funder](./Glossary/Research%20funder.md)   – An organisation providing financial support for research activity.
 
 [Researcher webpage](./Glossary/Researcher%20webpage.md)  – A webpage featuring a researcher's profile, hosted by their institution of employment.
 
