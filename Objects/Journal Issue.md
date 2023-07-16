@@ -18,4 +18,4 @@ Periodical publications aimed at fostering intellectual debate and inquiry. Spec
 [URL](../Object-Fields/Journal%20Issue/URL.md),
 [Volume](../Object-Fields/Journal%20Issue/Volume.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Journal%20Issue/Research%20Classification.md),
+[Research Classification](../Object-Fields/Journal%20Issue/Research%20Classification.md)

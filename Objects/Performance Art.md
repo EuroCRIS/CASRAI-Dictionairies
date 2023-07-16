@@ -9,4 +9,4 @@ Avant-garde or conceptual pieces of music, song, dance or theatre performed for 
 [Performance Date](../Object-Fields/Performance%20Art/Performance%20Date.md),
 [Venue](../Object-Fields/Performance%20Art/Venue.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Performance%20Art/Research%20Classification.md),
+[Research Classification](../Object-Fields/Performance%20Art/Research%20Classification.md)

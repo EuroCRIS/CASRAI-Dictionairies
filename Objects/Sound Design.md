@@ -9,4 +9,4 @@ Art and process of manipulating audio elements to achieve a desired effect. It i
 [Venue (multi)](../Object-Fields/Sound%20Design/Venue%20(multi).md),
 [Writer-Producer](../Object-Fields/Sound%20Design/Writer-Producer.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Sound%20Design/Research%20Classification.md),
+[Research Classification](../Object-Fields/Sound%20Design/Research%20Classification.md)

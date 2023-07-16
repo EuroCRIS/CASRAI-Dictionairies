@@ -13,4 +13,4 @@ Awards or other distinctions conferred upon the person.
 [Amount](../Object-Fields/Distinction/Amount.md),
 [Currency](../Object-Fields/Distinction/Currency.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Distinction/Research%20Classification.md),
+[Research Classification](../Object-Fields/Distinction/Research%20Classification.md)

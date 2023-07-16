@@ -6,4 +6,4 @@ Works such as film, video, or new media developed as a result of an artistic pra
 [Title](../Object-Fields/Visual%20Artwork/Title.md),
 [Co-artists](../Object-Fields/Visual%20Artwork/Co-artists.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Visual%20Artwork/Research%20Classification.md),
+[Research Classification](../Object-Fields/Visual%20Artwork/Research%20Classification.md)

@@ -13,4 +13,4 @@ Physical addresses with a known postal route location at which the person can re
 [Postal Code](../Object-Fields/Mailing%20Address/Postal%20Code.md),
 [Start Date](../Object-Fields/Mailing%20Address/Start%20Date.md),
 [End Date](../Object-Fields/Mailing%20Address/End%20Date.md),
-[Address Type](../Object-Fields/Mailing%20Address/Address%20Type.md),
+[Address Type](../Object-Fields/Mailing%20Address/Address%20Type.md)

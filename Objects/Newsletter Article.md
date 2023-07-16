@@ -14,4 +14,4 @@ Articles in publications aimed at researchers, decision-makers, professionals an
 [Publication Location](../Object-Fields/Newsletter%20Article/Publication%20Location.md),
 [Research Classification](../Object-Fields/Newsletter%20Article/Research%20Classification.md),
 [URL](../Object-Fields/Newsletter%20Article/URL.md),
-[Volume](../Object-Fields/Newsletter%20Article/Volume.md),
+[Volume](../Object-Fields/Newsletter%20Article/Volume.md)

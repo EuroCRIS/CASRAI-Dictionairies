@@ -7,4 +7,4 @@ Services contributed as part of a society, community, or other body.
 [Membership Start Date](../Object-Fields/Membership/Membership%20Start%20Date.md),
 [Society-Other Organization](../Object-Fields/Membership/Society-Other%20Organization.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Membership/Research%20Classification.md),
+[Research Classification](../Object-Fields/Membership/Research%20Classification.md)

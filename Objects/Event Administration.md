@@ -12,4 +12,4 @@ Services contributed in the planning, organization, coordination and staging of 
 [Event Type](../Object-Fields/Event%20Administration/Event%20Type.md),
 [Primary Event Organizaer](../Object-Fields/Event%20Administration/Primary%20Event%20Organizaer.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Event%20Administration/Research%20Classification.md),
+[Research Classification](../Object-Fields/Event%20Administration/Research%20Classification.md)

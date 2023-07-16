@@ -10,4 +10,4 @@ Creation, production, dissemination of plays by professional theatre artists and
 [Producer](../Object-Fields/Theatric/Producer.md),
 [Venue (multi)](../Object-Fields/Theatric/Venue%20(multi).md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Theatric/Research%20Classification.md),
+[Research Classification](../Object-Fields/Theatric/Research%20Classification.md)

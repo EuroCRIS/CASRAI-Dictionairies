@@ -16,4 +16,4 @@ Articles on research findings published jointly with or supervised by the thesis
 [Refereed?](../Object-Fields/Supervised%20Student%20Publication/Refereed.md),
 [URL](../Object-Fields/Supervised%20Student%20Publication/URL.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Supervised%20Student%20Publication/Research%20Classification.md),
+[Research Classification](../Object-Fields/Supervised%20Student%20Publication/Research%20Classification.md)

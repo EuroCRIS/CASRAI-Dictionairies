@@ -14,4 +14,4 @@ Original literary texts (prose or poetry).
 [Volume](../Object-Fields/Short%20Fiction/Volume.md),
 [Volume-Anthology Editors](../Object-Fields/Short%20Fiction/Volume-Anthology%20Editors.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Short%20Fiction/Research%20Classification.md),
+[Research Classification](../Object-Fields/Short%20Fiction/Research%20Classification.md)

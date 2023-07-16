@@ -16,4 +16,4 @@ Articles in thematic publications published at fixed intervals.
 [Publication Location](../Object-Fields/Magazine%20Article/Publication%20Location.md),
 [URL](../Object-Fields/Magazine%20Article/URL.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Magazine%20Article/Research%20Classification.md),
+[Research Classification](../Object-Fields/Magazine%20Article/Research%20Classification.md)

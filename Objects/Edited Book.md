@@ -18,4 +18,4 @@ Books edited by a single author or collaboratively for the dissemination of rese
 [Refereed?](../Object-Fields/Edited%20Book/Refereed.md),
 [URL](../Object-Fields/Edited%20Book/URL.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Edited%20Book/Research%20Classification.md),
+[Research Classification](../Object-Fields/Edited%20Book/Research%20Classification.md)

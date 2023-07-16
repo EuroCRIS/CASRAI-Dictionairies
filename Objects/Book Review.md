@@ -24,4 +24,4 @@ Critical review of works of fiction or non-fiction highlighting the contribution
 [Review Volume](../Object-Fields/Book%20Review/Review%20Volume.md),
 [URL](../Object-Fields/Book%20Review/URL.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Book%20Review/Research%20Classification.md),
+[Research Classification](../Object-Fields/Book%20Review/Research%20Classification.md)

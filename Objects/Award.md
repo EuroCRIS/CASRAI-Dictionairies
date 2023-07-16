@@ -24,4 +24,4 @@ Peer-reviewed funding providing direct research costs through competitions.
 [Other Investigators](../Object-Fields/Award/Other%20Investigators.md),
 (other fields not mentioned in any template):
 [Role of Other Investigators](../Object-Fields/Award/Role%20of%20Other%20Investigators.md),
-[Research Classification](../Object-Fields/Award/Research%20Classification.md),
+[Research Classification](../Object-Fields/Award/Research%20Classification.md)

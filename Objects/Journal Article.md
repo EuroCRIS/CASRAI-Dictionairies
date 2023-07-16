@@ -32,4 +32,4 @@ Articles in peer-reviewed publications that disseminate the results of original 
 [Provisional Acceptance Date](../Object-Fields/Journal%20Article/Provisional%20Acceptance%20Date.md),
 [Final Acceptance Date](../Object-Fields/Journal%20Article/Final%20Acceptance%20Date.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Journal%20Article/Research%20Classification.md),
+[Research Classification](../Object-Fields/Journal%20Article/Research%20Classification.md)

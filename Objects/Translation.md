@@ -16,4 +16,4 @@ Translations of books and articles that identify modifications to the original e
 [Pubmed ID](../Object-Fields/Translation/Pubmed%20ID.md),
 [URL](../Object-Fields/Translation/URL.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Translation/Research%20Classification.md),
+[Research Classification](../Object-Fields/Translation/Research%20Classification.md)

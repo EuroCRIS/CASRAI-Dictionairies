@@ -19,4 +19,4 @@ Entries of new words, new meanings of existing words, changes in spelling and hy
 [Publisher](../Object-Fields/Dictionary%20Entry/Publisher.md),
 [URL](../Object-Fields/Dictionary%20Entry/URL.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Dictionary%20Entry/Research%20Classification.md),
+[Research Classification](../Object-Fields/Dictionary%20Entry/Research%20Classification.md)

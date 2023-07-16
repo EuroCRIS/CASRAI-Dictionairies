@@ -19,4 +19,4 @@ A set of data used for research purposes, that may or may not have been created 
 [Managed Access Procedures](../Object-Fields/Research%20Dataset/Managed%20Access%20Procedures.md),
 [Storage Security](../Object-Fields/Research%20Dataset/Storage%20Security.md),
 [Sharing Method](../Object-Fields/Research%20Dataset/Sharing%20Method.md),
-[Structural Approach](../Object-Fields/Research%20Dataset/Structural%20Approach.md),
+[Structural Approach](../Object-Fields/Research%20Dataset/Structural%20Approach.md)

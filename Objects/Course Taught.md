@@ -19,4 +19,4 @@ Services contributed in the form of courses taught at academic institutions with
 [Start Date](../Object-Fields/Course%20Taught/Start%20Date.md),
 [Tutorial Hours (per week)](../Object-Fields/Course%20Taught/Tutorial%20Hours%20(per%20week).md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Course%20Taught/Research%20Classification.md),
+[Research Classification](../Object-Fields/Course%20Taught/Research%20Classification.md)

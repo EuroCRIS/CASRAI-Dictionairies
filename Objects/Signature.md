@@ -10,4 +10,4 @@ Information (including any attachments) that verifies that the activity has all 
 [Signatory Title](../Object-Fields/Signature/Signatory%20Title.md),
 [Signature Attachment](../Object-Fields/Signature/Signature%20Attachment.md),
 [Signature Date](../Object-Fields/Signature/Signature%20Date.md),
-[Signature Type](../Object-Fields/Signature/Signature%20Type.md),
+[Signature Type](../Object-Fields/Signature/Signature%20Type.md)

@@ -18,4 +18,4 @@ Books written by a single author or collaboratively based on research or scholar
 [Pubmed ID](../Object-Fields/Book/Pubmed%20ID.md),
 (other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Book/Research%20Classification.md),
-[URL](../Object-Fields/Book/URL.md),
+[URL](../Object-Fields/Book/URL.md)

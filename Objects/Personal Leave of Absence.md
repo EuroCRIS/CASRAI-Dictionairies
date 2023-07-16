@@ -5,4 +5,4 @@ Gaps in the person's employment history that can be attributed to a personal rea
 (following a description of Personal Leave of Absence in the [Employment History](../Templates/Employment%20History.md) template):
 [Leave Type](../Object-Fields/Personal%20Leave%20of%20Absence/Leave%20Type.md),
 [Start Date](../Object-Fields/Personal%20Leave%20of%20Absence/Start%20Date.md),
-[End Date](../Object-Fields/Personal%20Leave%20of%20Absence/End%20Date.md),
+[End Date](../Object-Fields/Personal%20Leave%20of%20Absence/End%20Date.md)

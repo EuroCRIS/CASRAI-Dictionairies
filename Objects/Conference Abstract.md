@@ -16,4 +16,4 @@ Texts of a specified length that states the issue to be discussed in a proposed 
 [Publication Status](../Object-Fields/Conference%20Abstract/Publication%20Status.md),
 [Volume](../Object-Fields/Conference%20Abstract/Volume.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Conference%20Abstract/Research%20Classification.md),
+[Research Classification](../Object-Fields/Conference%20Abstract/Research%20Classification.md)

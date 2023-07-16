@@ -18,4 +18,4 @@ Authored entries in a reference work or a compendium focusing on a particular do
 [URL](../Object-Fields/Encyclopedia%20Entry/URL.md),
 [Volume](../Object-Fields/Encyclopedia%20Entry/Volume.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Encyclopedia%20Entry/Research%20Classification.md),
+[Research Classification](../Object-Fields/Encyclopedia%20Entry/Research%20Classification.md)

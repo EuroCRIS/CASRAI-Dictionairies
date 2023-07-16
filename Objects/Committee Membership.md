@@ -10,4 +10,4 @@ Services contributed as part of a group elected or appointed to perform such ser
 [Membership Type](../Object-Fields/Committee%20Membership/Membership%20Type.md),
 [Start Date](../Object-Fields/Committee%20Membership/Start%20Date.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Committee%20Membership/Research%20Classification.md),
+[Research Classification](../Object-Fields/Committee%20Membership/Research%20Classification.md)

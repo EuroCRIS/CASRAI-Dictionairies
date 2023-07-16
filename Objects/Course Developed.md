@@ -9,4 +9,4 @@ Contributions in the development of courses/modules for training or teaching pur
 [Institutions Using Course](../Object-Fields/Course%20Developed/Institutions%20Using%20Course.md),
 [Organization](../Object-Fields/Course%20Developed/Organization.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Course%20Developed/Research%20Classification.md),
+[Research Classification](../Object-Fields/Course%20Developed/Research%20Classification.md)

@@ -8,4 +8,4 @@ Contribution in the provision of an opinion statement regarding a certain topic.
 [Start Date](../Object-Fields/Editorial/Start%20Date.md),
 [Type](../Object-Fields/Editorial/Type.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Editorial/Research%20Classification.md),
+[Research Classification](../Object-Fields/Editorial/Research%20Classification.md)

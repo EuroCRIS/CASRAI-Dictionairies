@@ -14,4 +14,4 @@ A financial transaction to cover an article processing charge.
 [Added Costs Component](../Object-Fields/APC%20Payment/Added%20Costs%20Component.md),
 [Payment Adjustments](../Object-Fields/APC%20Payment/Payment%20Adjustments.md),
 [Source Fund(s)](../Object-Fields/APC%20Payment/Source%20Fund(s).md),
-[Source Grant(s)](../Object-Fields/APC%20Payment/Source%20Grant(s).md),
+[Source Grant(s)](../Object-Fields/APC%20Payment/Source%20Grant(s).md)

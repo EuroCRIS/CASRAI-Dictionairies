@@ -10,4 +10,4 @@ Information about which specific research peers are suggested for inclusion and 
 [Primary Phone](../Object-Fields/Reviewer%20Suggestion/Primary%20Phone.md),
 [Reviewer Conflict](../Object-Fields/Reviewer%20Suggestion/Reviewer%20Conflict.md),
 [Reviewer Suggestion Rationale](../Object-Fields/Reviewer%20Suggestion/Reviewer%20Suggestion%20Rationale.md),
-[Reviewer Suggestion Type](../Object-Fields/Reviewer%20Suggestion/Reviewer%20Suggestion%20Type.md),
+[Reviewer Suggestion Type](../Object-Fields/Reviewer%20Suggestion/Reviewer%20Suggestion%20Type.md)

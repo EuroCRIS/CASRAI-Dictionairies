@@ -13,4 +13,4 @@ Reports disseminating the outcomes and deliverables of a research contract. May 
 [URL](../Object-Fields/Report/URL.md),
 [Volume](../Object-Fields/Report/Volume.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Report/Research%20Classification.md),
+[Research Classification](../Object-Fields/Report/Research%20Classification.md)

@@ -8,4 +8,4 @@ Information about highly qualified personnel (HQP) that will receive training as
 [Trainee Position](../Object-Fields/Project%20HQP%20Training/Trainee%20Position.md),
 [Trainee Role Description](../Object-Fields/Project%20HQP%20Training/Trainee%20Role%20Description.md),
 [Training Attributes](../Object-Fields/Project%20HQP%20Training/Training%20Attributes.md),
-[Training Duration](../Object-Fields/Project%20HQP%20Training/Training%20Duration.md),
+[Training Duration](../Object-Fields/Project%20HQP%20Training/Training%20Duration.md)

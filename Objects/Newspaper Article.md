@@ -16,4 +16,4 @@ Articles in a daily, weekly or monthly publication reporting on news and social 
 [Section](../Object-Fields/Newspaper%20Article/Section.md),
 [URL](../Object-Fields/Newspaper%20Article/URL.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Newspaper%20Article/Research%20Classification.md),
+[Research Classification](../Object-Fields/Newspaper%20Article/Research%20Classification.md)

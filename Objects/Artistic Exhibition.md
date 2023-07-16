@@ -9,4 +9,4 @@ Showings of works of art under the direction of a curator, an artist or as a gra
 [Date(s) of Subsequent Performance(s)](../Object-Fields/Artistic%20Exhibition/Date(s)%20of%20Subsequent%20Performance(s).md),
 [Venue (multi)](../Object-Fields/Artistic%20Exhibition/Venue%20(multi).md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Artistic%20Exhibition/Research%20Classification.md),
+[Research Classification](../Object-Fields/Artistic%20Exhibition/Research%20Classification.md)

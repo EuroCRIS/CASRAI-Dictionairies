@@ -7,4 +7,4 @@ Technical Standards (industrial or otherwise) that have originated from the rese
 [Description](../Object-Fields/Technical%20Standard/Description.md),
 [Publication Date](../Object-Fields/Technical%20Standard/Publication%20Date.md),
 [Pubmed ID](../Object-Fields/Technical%20Standard/Pubmed%20ID.md),
-[URL](../Object-Fields/Technical%20Standard/URL.md),
+[URL](../Object-Fields/Technical%20Standard/URL.md)

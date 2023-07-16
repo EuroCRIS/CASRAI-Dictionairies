@@ -12,4 +12,4 @@ Information about the person that facilitates identification, including name, da
 [Correspondence Language](../Object-Fields/Person%20Info/Correspondence%20Language.md),
 [Gender](../Object-Fields/Person%20Info/Gender.md),
 [Date of Birth](../Object-Fields/Person%20Info/Date%20of%20Birth.md),
-[Designated Group](../Object-Fields/Person%20Info/Designated%20Group.md),
+[Designated Group](../Object-Fields/Person%20Info/Designated%20Group.md)

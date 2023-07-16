@@ -17,4 +17,4 @@ Course and assignment materials produced for teaching purposes.
 [Publication Year](../Object-Fields/Manual/Publication%20Year.md),
 [URL](../Object-Fields/Manual/URL.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Manual/Research%20Classification.md),
+[Research Classification](../Object-Fields/Manual/Research%20Classification.md)

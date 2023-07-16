@@ -11,4 +11,4 @@ Contribution in cases of development of an entire course of study.
 [Program Title](../Object-Fields/Program%20Developed/Program%20Title.md),
 [Unique or Innovative Characteristics](../Object-Fields/Program%20Developed/Unique%20or%20Innovative%20Characteristics.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Program%20Developed/Research%20Classification.md),
+[Research Classification](../Object-Fields/Program%20Developed/Research%20Classification.md)

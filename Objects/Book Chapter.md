@@ -20,4 +20,4 @@ Texts written by a single author or collaboratively based on research or scholar
 [Refereed?](../Object-Fields/Book%20Chapter/Refereed.md),
 [URL](../Object-Fields/Book%20Chapter/URL.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Book%20Chapter/Research%20Classification.md),
+[Research Classification](../Object-Fields/Book%20Chapter/Research%20Classification.md)

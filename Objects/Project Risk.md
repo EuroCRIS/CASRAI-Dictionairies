@@ -8,4 +8,4 @@ Identified risks related to the research activity.
 [Risk Impact](../Object-Fields/Project%20Risk/Risk%20Impact.md),
 [Risk Mitigation Strategy](../Object-Fields/Project%20Risk/Risk%20Mitigation%20Strategy.md),
 [Risk Monitoring Strategy](../Object-Fields/Project%20Risk/Risk%20Monitoring%20Strategy.md),
-[Risk Probability](../Object-Fields/Project%20Risk/Risk%20Probability.md),
+[Risk Probability](../Object-Fields/Project%20Risk/Risk%20Probability.md)

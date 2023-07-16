@@ -9,4 +9,4 @@ An expert assessment of a scholarly output.
 [Reference ID](../Object-Fields/Review/Reference%20ID.md),
 [URL](../Object-Fields/Review/URL.md),
 [Type](../Object-Fields/Review/Type.md),
-[Completion Date](../Object-Fields/Review/Completion%20Date.md),
+[Completion Date](../Object-Fields/Review/Completion%20Date.md)

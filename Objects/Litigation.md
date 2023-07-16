@@ -7,4 +7,4 @@ The act or process of contesting at law.
 [Court](../Object-Fields/Litigation/Court.md),
 [Key Legal Issues](../Object-Fields/Litigation/Key%20Legal%20Issues.md),
 [Person Acted For](../Object-Fields/Litigation/Person%20Acted%20For.md),
-[Year](../Object-Fields/Litigation/Year.md),
+[Year](../Object-Fields/Litigation/Year.md)

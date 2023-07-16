@@ -10,4 +10,4 @@ Information about the capacity of the selected team to deliver the expected resu
 [Team Output Capacity](../Object-Fields/Team%20Capacity/Team%20Output%20Capacity.md),
 [Team Previous Success Links](../Object-Fields/Team%20Capacity/Team%20Previous%20Success%20Links.md),
 [Team Relevance](../Object-Fields/Team%20Capacity/Team%20Relevance.md),
-[Team Training Capacity](../Object-Fields/Team%20Capacity/Team%20Training%20Capacity.md),
+[Team Training Capacity](../Object-Fields/Team%20Capacity/Team%20Training%20Capacity.md)

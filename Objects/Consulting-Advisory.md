@@ -10,4 +10,4 @@ Services contributed to develop findings, conclusions, and recommendations that 
 [Organization](../Object-Fields/Consulting-Advisory/Organization.md),
 [Organization Type](../Object-Fields/Consulting-Advisory/Organization%20Type.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Consulting-Advisory/Research%20Classification.md),
+[Research Classification](../Object-Fields/Consulting-Advisory/Research%20Classification.md)

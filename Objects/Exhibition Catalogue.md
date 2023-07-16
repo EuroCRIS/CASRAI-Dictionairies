@@ -9,4 +9,4 @@ Publications for a temporary exhibition or installation at a gallery or alternat
 [Number of Pages](../Object-Fields/Exhibition%20Catalogue/Number%20of%20Pages.md),
 [Publication Year](../Object-Fields/Exhibition%20Catalogue/Publication%20Year.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Exhibition%20Catalogue/Research%20Classification.md),
+[Research Classification](../Object-Fields/Exhibition%20Catalogue/Research%20Classification.md)

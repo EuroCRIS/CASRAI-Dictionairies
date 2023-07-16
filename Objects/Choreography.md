@@ -12,4 +12,4 @@ Dance compositions created for production and dissemination.
 [Media Release Dates](../Object-Fields/Choreography/Media%20Release%20Dates.md),
 [Premier Date](../Object-Fields/Choreography/Premier%20Date.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Choreography/Research%20Classification.md),
+[Research Classification](../Object-Fields/Choreography/Research%20Classification.md)

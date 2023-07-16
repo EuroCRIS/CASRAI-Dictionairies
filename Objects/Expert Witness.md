@@ -9,4 +9,4 @@ Services contributed to a legal proceeding.
 [End Date](../Object-Fields/Expert%20Witness/End%20Date.md),
 [Location-Jurisdiction](../Object-Fields/Expert%20Witness/Location-Jurisdiction.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Expert%20Witness/Research%20Classification.md),
+[Research Classification](../Object-Fields/Expert%20Witness/Research%20Classification.md)

@@ -10,4 +10,4 @@ Original musical scores available in a format for dissemination.
 [Publisher](../Object-Fields/Musical%20Composition/Publisher.md),
 [Title](../Object-Fields/Musical%20Composition/Title.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Musical%20Composition/Research%20Classification.md),
+[Research Classification](../Object-Fields/Musical%20Composition/Research%20Classification.md)

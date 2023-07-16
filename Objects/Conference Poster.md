@@ -10,4 +10,4 @@ Posters displayed in a conference setting and conveying research highlights in a
 [Co-authors](../Object-Fields/Conference%20Poster/Co-authors.md),
 [Conference Date](../Object-Fields/Conference%20Poster/Conference%20Date.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Conference%20Poster/Research%20Classification.md),
+[Research Classification](../Object-Fields/Conference%20Poster/Research%20Classification.md)

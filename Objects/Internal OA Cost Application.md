@@ -10,4 +10,4 @@ A request or enquiry from the author or an eligible representative of the instit
 [Author Organisational Unit](../Object-Fields/Internal%20OA%20Cost%20Application/Author%20Organisational%20Unit.md),
 [Estimated Charge](../Object-Fields/Internal%20OA%20Cost%20Application/Estimated%20Charge.md),
 [Currency](../Object-Fields/Internal%20OA%20Cost%20Application/Currency.md),
-[External Notes](../Object-Fields/Internal%20OA%20Cost%20Application/External%20Notes.md),
+[External Notes](../Object-Fields/Internal%20OA%20Cost%20Application/External%20Notes.md)

@@ -8,4 +8,4 @@ Information accessible only on the web via traditional technical methods (ie hyp
 [Co-authors](../Object-Fields/Online%20Resource/Co-authors.md),
 [URL](../Object-Fields/Online%20Resource/URL.md),
 (other fields not mentioned in any template):
-[Research Classification](../Object-Fields/Online%20Resource/Research%20Classification.md),
+[Research Classification](../Object-Fields/Online%20Resource/Research%20Classification.md)
