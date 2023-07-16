@@ -2,3 +2,9 @@
 ## Short definition
 Avant-garde or conceptual pieces of music, song, dance or theatre performed for an audience. It may be scripted or improvisational.
 ## Fields
+(following a description of Performance Art in the [Outputs - Artistic - Theatric](../Templates/Outputs%20-%20Artistic%20-%20Theatric.md) template):
+[Performance Title](../Object-Fields/Performance%20Art/Performance%20Title.md),
+[Key Collaborators](../Object-Fields/Performance%20Art/Key%20Collaborators.md),
+[Date(s) of Subsequent Performance(s)](../Object-Fields/Performance%20Art/Date(s)%20of%20Subsequent%20Performance(s).md),
+[Performance Date](../Object-Fields/Performance%20Art/Performance%20Date.md),
+[Venue](../Object-Fields/Performance%20Art/Venue.md),
