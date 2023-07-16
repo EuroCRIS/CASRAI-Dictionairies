@@ -22,4 +22,4 @@ CASRAI, through its unique working group centered process, constructed a model f
 These are the top-level ones that were defined.
 The two CVs share a number of sections and subsections, which are also listed under [Templates](./Templates/).
 
-The Templates use [Objects](./Objects/) as basic building blocks. These objects have properties, represented as [Object fields](./Object-Fields). Some of these properties reference controlled vocabularies, the [Picklists](./Picklists/).
+The Templates use [Objects](./Objects/) as basic building blocks. These objects have properties, represented as [Object fields](./Object-Fields). Some of these properties may use controlled vocabularies, the [Picklists](./Picklists/).
