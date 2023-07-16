@@ -1,6 +1,6 @@
 # Licence Types/CC BY-NC-ND
 ## Short definition
-This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they canâ€™t change them in any way or use them commercially. http://creativecommons.org/licenses/by-nc-nd/4.0/
+This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can't change them in any way or use them commercially. http://creativecommons.org/licenses/by-nc-nd/4.0/
 ## Type
 Values
 ## Base page

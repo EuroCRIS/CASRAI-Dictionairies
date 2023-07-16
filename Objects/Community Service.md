@@ -1,6 +1,6 @@
 # Community Service
 ## Short definition
-Services contributed, unpaid, on behalf of oneâ€™s locality, social, religious, occupational, or other group sharing common characteristics or interests, but not directly related to the person's research activities.
+Services contributed, unpaid, on behalf of one's locality, social, religious, occupational, or other group sharing common characteristics or interests, but not directly related to the person's research activities.
 ## Fields
 [Description of Duties](../Object-Fields/Community%20Service/Description%20of%20Duties.md),
 [End Date](../Object-Fields/Community%20Service/End%20Date.md),

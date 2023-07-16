@@ -1,6 +1,6 @@
 # Graduate Examination/Examination Role
 ## Short definition
-The nature of the personâ€™s role in the examination.
+The nature of the person's role in the examination.
 ## Base page
 [Graduate Examination](../../Objects/Graduate%20Examination.md)
 ## Meta title

@@ -1,6 +1,6 @@
 # Book/Publisher
 ## Short definition
-The name of the bookâ€™s publisher.
+The name of the book's publisher.
 ## Base page
 [Book](../../Objects/Book.md)
 ## Meta title

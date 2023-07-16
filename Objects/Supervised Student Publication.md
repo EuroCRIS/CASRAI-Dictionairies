@@ -1,6 +1,6 @@
 # Supervised Student Publication
 ## Short definition
-Articles on research findings published jointly with or supervised by the thesis advisor. The findings relate to research undertaken by the student or the supervisorâ€™s program of research.
+Articles on research findings published jointly with or supervised by the thesis advisor. The findings relate to research undertaken by the student or the supervisor's program of research.
 ## Fields
 [Title](../Object-Fields/Supervised%20Student%20Publication/Title.md),
 [Student Full Name](../Object-Fields/Supervised%20Student%20Publication/Student%20Full%20Name.md),

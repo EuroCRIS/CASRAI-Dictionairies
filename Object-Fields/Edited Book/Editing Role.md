@@ -1,6 +1,6 @@
 # Edited Book/Editing Role
 ## Short definition
-The nature of the person's role in the bookâ€™s creation.
+The nature of the person's role in the book's creation.
 ## Base page
 [Edited Book](../../Objects/Edited%20Book.md)
 ## Meta title

@@ -1,6 +1,6 @@
 # Course-based Degree Supervision/Output Title
 ## Short definition
-The title of the studentâ€™s thesis, major research paper or project.
+The title of the student's thesis, major research paper or project.
 ## Base page
 [Course-based Degree Supervision](../../Objects/Course-based%20Degree%20Supervision.md)
 ## Meta title

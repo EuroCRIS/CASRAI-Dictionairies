@@ -1,6 +1,6 @@
 # Course Taught/Number of Credits
 ## Short definition
-The institutionâ€™s credit value for the course.
+The institution's credit value for the course.
 ## Base page
 [Course Taught](../../Objects/Course%20Taught.md)
 ## Meta title

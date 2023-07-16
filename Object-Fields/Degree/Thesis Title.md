@@ -1,6 +1,6 @@
 # Degree/Thesis Title
 ## Short definition
-The title of the personâ€™s thesis project.
+The title of the person's thesis project.
 ## Base page
 [Degree](../../Objects/Degree.md)
 ## Meta title

@@ -1,6 +1,6 @@
 # Grant/Investigation Role
 ## Short definition
-The personâ€™s role in the research.
+The person's role in the research.
 ## Base page
 [Grant](../../Objects/Grant.md)
 ## Meta title

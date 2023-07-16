@@ -1,6 +1,6 @@
 # Audio Recording/Album Title
 ## Short definition
-The title of the album on which itâ€™s recorded.
+The title of the album on which it's recorded.
 ## Base page
 [Audio Recording](../../Objects/Audio%20Recording.md)
 ## Meta title

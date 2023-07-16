@@ -1,6 +1,6 @@
 # Edited Book/Publisher
 ## Short definition
-The name of the bookâ€™s publisher.
+The name of the book's publisher.
 ## Base page
 [Edited Book](../../Objects/Edited%20Book.md)
 ## Meta title

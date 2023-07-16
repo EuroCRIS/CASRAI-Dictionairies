@@ -1,6 +1,6 @@
 # Other Study/Description
 ## Short definition
-A description of any courses/studies that fall outside the scope of the personâ€™s degree.
+A description of any courses/studies that fall outside the scope of the person's degree.
 ## Base page
 [Other Study](../../Objects/Other%20Study.md)
 ## Meta title

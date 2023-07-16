@@ -1,6 +1,6 @@
 # Award/Investigation Role
 ## Short definition
-The personâ€™s role in the research.
+The person's role in the research.
 ## Base page
 [Award](../../Objects/Award.md)
 ## Meta title

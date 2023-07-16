@@ -1,6 +1,6 @@
 # Team Capacity/Team Relevance
 ## Short definition
-A summary of the projectâ€™s relationship to other activities of team members.
+A summary of the project's relationship to other activities of team members.
 ## Base page
 [Team Capacity](../../Objects/Team%20Capacity.md)
 ## Meta title
