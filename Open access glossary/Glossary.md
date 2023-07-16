@@ -16,7 +16,7 @@ The goal of this glossary is to gather all the key terms needed for collaborator
  
 [Copyright](./Glossary/Copyright.md)  – A legal right created by the law of a country that grants the creator of an original work exclusive rights for its use and distribution.
  
-[Copyright transfer agreement](./Glossary/Copyright%20transfer%20agreement.md)  –  A legal document containing provisions for the conveyance of full or partial copyright from the rights owner to another party.
+[Copyright transfer agreement](./Glossary/Copyright%20transfer%20agreement.md)  –  A legal document containing provisions for the conveyance of full or partial copyright from the rights owner to another party.
  
 [Date of acceptance](./Glossary/Date%20of%20acceptance.md)  – The day on which the publisher or evaluation institution or committee confirms formally that the article has been received from the author and no substantial changes to the content are required. Also the date on which the publisher tells the author that the article will be published and the article is ready to be processed for publication.
  
@@ -86,7 +86,7 @@ The goal of this glossary is to gather all the key terms needed for collaborator
  
 [Repository](./Glossary/Repository.md)  – Repositories preserve, manage, and provide access to many types of digital materials in a variety of formats.
  
-[Research Funder](./Glossary/Research%20Funder.md)   – An organisation providing financial support for research activity.
+[Research Funder](./Glossary/Research%20Funder.md)   – An organisation providing financial support for research activity.
  
 [Researcher webpage](./Glossary/Researcher%20webpage.md)  – A webpage featuring a researcher's profile, hosted by their institution of employment.
  

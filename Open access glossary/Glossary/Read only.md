@@ -8,4 +8,4 @@ Acronym: n/a
  
 Related Terms: n/a
  
-Sources: http://www.webopedia.com/TERM/R/read_only.html
+Sources: http://www.webopedia.com/TERM/R/read_only.html

@@ -10,4 +10,4 @@ Acronym:
  
 Related Terms:
  
-Sources: https://en.wikipedia.org/wiki/News_embargo
+Sources: https://en.wikipedia.org/wiki/News_embargo
