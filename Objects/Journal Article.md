@@ -31,9 +31,5 @@ Articles in peer-reviewed publications that disseminate the results of original 
 [Publisher ID](../Object-Fields/Journal%20Article/Publisher%20ID.md),
 [Provisional Acceptance Date](../Object-Fields/Journal%20Article/Provisional%20Acceptance%20Date.md),
 [Final Acceptance Date](../Object-Fields/Journal%20Article/Final%20Acceptance%20Date.md),
-(following a description of Journal Article in the [Open Access APC Report](../Templates/Open%20Access%20APC%20Report.md) template):
-[Journal](../Object-Fields/Journal%20Article/Journal.md),
-[Article Title](../Object-Fields/Journal%20Article/Article%20Title.md),
-[Publication Date](../Object-Fields/Journal%20Article/Publication%20Date.md),
 (other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Journal%20Article/Research%20Classification.md),
