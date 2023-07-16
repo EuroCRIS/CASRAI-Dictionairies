@@ -6,7 +6,7 @@ Synonyms: Author's Accepted Manuscript. Author Final Version
 
 Acronym: n/a
 
-Related Terms: n/a\
+Related Terms: n/a
 
 Sources:
 
