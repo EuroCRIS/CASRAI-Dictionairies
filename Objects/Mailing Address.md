@@ -2,7 +2,6 @@
 ## Short definition
 Physical addresses with a known postal route location at which the person can receive courier packages or mail.
 ## Fields
-(following a description of Mailing Address in the [Contact Info](../Templates/Contact%20Info.md) template):
 [Street Address 1](../Object-Fields/Mailing%20Address/Street%20Address%201.md),
 [Street Address 2](../Object-Fields/Mailing%20Address/Street%20Address%202.md),
 [Street Address 3](../Object-Fields/Mailing%20Address/Street%20Address%203.md),

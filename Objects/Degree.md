@@ -2,7 +2,6 @@
 ## Short definition
 An academic title conferred by universities and colleges as an indication of the completion of a course of study, or as an honorary recognition of achievement.
 ## Fields
-(following a description of Degree in the [Education History](../Templates/Education%20History.md) template):
 [Degree Name](../Object-Fields/Degree/Degree%20Name.md),
 [Institution](../Object-Fields/Degree/Institution.md),
 [Country](../Object-Fields/Degree/Country.md),
@@ -13,5 +12,4 @@ An academic title conferred by universities and colleges as an indication of the
 [Degree Major](../Object-Fields/Degree/Degree%20Major.md),
 [Degree Type](../Object-Fields/Degree/Degree%20Type.md),
 [Thesis Title](../Object-Fields/Degree/Thesis%20Title.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Degree/Research%20Classification.md)

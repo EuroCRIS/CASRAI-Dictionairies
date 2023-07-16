@@ -2,7 +2,6 @@
 ## Short definition
 Critical review of works of fiction or non-fiction highlighting the contributions to an art, field or discipline.
 ## Fields
-(following a description of Book Review in the [Outputs - Publications - Books](../Templates/Outputs%20-%20Publications%20-%20Books.md) template):
 [Review Title](../Object-Fields/Book%20Review/Review%20Title.md),
 [Co-authors](../Object-Fields/Book%20Review/Co-authors.md),
 [Book Title](../Object-Fields/Book%20Review/Book%20Title.md),
@@ -23,5 +22,4 @@ Critical review of works of fiction or non-fiction highlighting the contribution
 [Review Publisher](../Object-Fields/Book%20Review/Review%20Publisher.md),
 [Review Volume](../Object-Fields/Book%20Review/Review%20Volume.md),
 [URL](../Object-Fields/Book%20Review/URL.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Book%20Review/Research%20Classification.md)

@@ -2,7 +2,6 @@
 ## Short definition
 Articles in thematic publications published at fixed intervals.
 ## Fields
-(following a description of Magazine Article in the [Outputs - Publications - Other](../Templates/Outputs%20-%20Publications%20-%20Other.md) template):
 [Article Title](../Object-Fields/Magazine%20Article/Article%20Title.md),
 [First Listed Author-Editor](../Object-Fields/Magazine%20Article/First%20Listed%20Author-Editor.md),
 [Authoring Role](../Object-Fields/Magazine%20Article/Authoring%20Role.md),
@@ -15,5 +14,4 @@ Articles in thematic publications published at fixed intervals.
 [Publication Date](../Object-Fields/Magazine%20Article/Publication%20Date.md),
 [Publication Location](../Object-Fields/Magazine%20Article/Publication%20Location.md),
 [URL](../Object-Fields/Magazine%20Article/URL.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Magazine%20Article/Research%20Classification.md)

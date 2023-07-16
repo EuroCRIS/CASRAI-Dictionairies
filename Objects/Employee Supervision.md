@@ -2,7 +2,6 @@
 ## Short definition
 Services contributed in instances of overseeing the productivity and progress of an employee reporting directly to the person.
 ## Fields
-(following a description of Employee Supervision in the [Services - Other](../Templates/Services%20-%20Other.md) template):
 [Co-supervisors](../Object-Fields/Employee%20Supervision/Co-supervisors.md),
 [Consent Obtained for Name Release?](../Object-Fields/Employee%20Supervision/Consent%20Obtained%20for%20Name%20Release.md),
 [Degree Subject](../Object-Fields/Employee%20Supervision/Degree%20Subject.md),
@@ -13,5 +12,4 @@ Services contributed in instances of overseeing the productivity and progress of
 [Institution](../Object-Fields/Employee%20Supervision/Institution.md),
 [Start Date](../Object-Fields/Employee%20Supervision/Start%20Date.md),
 [Supervisory Role](../Object-Fields/Employee%20Supervision/Supervisory%20Role.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Employee%20Supervision/Research%20Classification.md)

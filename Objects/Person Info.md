@@ -2,7 +2,6 @@
 ## Short definition
 Information about the person that facilitates identification, including name, date of birth, and gender.
 ## Fields
-(following a description of Person Info in the [Identifying Info](../Templates/Identifying%20Info.md) template):
 [Salutation](../Object-Fields/Person%20Info/Salutation.md),
 [First Name](../Object-Fields/Person%20Info/First%20Name.md),
 [Middle Name](../Object-Fields/Person%20Info/Middle%20Name.md),

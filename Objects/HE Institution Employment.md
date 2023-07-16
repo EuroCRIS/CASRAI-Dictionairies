@@ -2,7 +2,6 @@
 ## Short definition
 Employment in an academic environment.
 ## Fields
-(following a description of HE Institution Employment in the [Employment History](../Templates/Employment%20History.md) template):
 [Institution](../Object-Fields/HE%20Institution%20Employment/Institution.md),
 [Department-Unit-Division](../Object-Fields/HE%20Institution%20Employment/Department-Unit-Division.md),
 [Campus](../Object-Fields/HE%20Institution%20Employment/Campus.md),
@@ -14,5 +13,4 @@ Employment in an academic environment.
 [Start Date](../Object-Fields/HE%20Institution%20Employment/Start%20Date.md),
 [End Date](../Object-Fields/HE%20Institution%20Employment/End%20Date.md),
 [Month-Year Tenure Achieved](../Object-Fields/HE%20Institution%20Employment/Month-Year%20Tenure%20Achieved.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/HE%20Institution%20Employment/Research%20Classification.md)

@@ -2,7 +2,6 @@
 ## Short definition
 Articles in a daily, weekly or monthly publication reporting on news and social issues aimed at the public. May entail critical analysis based on expertise in the field.
 ## Fields
-(following a description of Newspaper Article in the [Outputs - Publications - Other](../Templates/Outputs%20-%20Publications%20-%20Other.md) template):
 [Article Title](../Object-Fields/Newspaper%20Article/Article%20Title.md),
 [Co-authors](../Object-Fields/Newspaper%20Article/Co-authors.md),
 [First Listed Author](../Object-Fields/Newspaper%20Article/First%20Listed%20Author.md),
@@ -15,5 +14,4 @@ Articles in a daily, weekly or monthly publication reporting on news and social 
 [Publication Location](../Object-Fields/Newspaper%20Article/Publication%20Location.md),
 [Section](../Object-Fields/Newspaper%20Article/Section.md),
 [URL](../Object-Fields/Newspaper%20Article/URL.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Newspaper%20Article/Research%20Classification.md)

@@ -2,7 +2,6 @@
 ## Short definition
 Authored entries in a reference work or a compendium focusing on a particular domain or on all branches of knowledge.
 ## Fields
-(following a description of Encyclopedia Entry in the [Outputs - Publications - Other](../Templates/Outputs%20-%20Publications%20-%20Other.md) template):
 [Entry Title](../Object-Fields/Encyclopedia%20Entry/Entry%20Title.md),
 [Encyclopaedia Title](../Object-Fields/Encyclopedia%20Entry/Encyclopaedia%20Title.md),
 [Edition](../Object-Fields/Encyclopedia%20Entry/Edition.md),
@@ -17,5 +16,4 @@ Authored entries in a reference work or a compendium focusing on a particular do
 [Publisher](../Object-Fields/Encyclopedia%20Entry/Publisher.md),
 [URL](../Object-Fields/Encyclopedia%20Entry/URL.md),
 [Volume](../Object-Fields/Encyclopedia%20Entry/Volume.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Encyclopedia%20Entry/Research%20Classification.md)

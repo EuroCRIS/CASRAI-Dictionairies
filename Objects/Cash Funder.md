@@ -2,7 +2,6 @@
 ## Short definition
 Information about all past, current and pending funding associated with this research activity.
 ## Fields
-(other fields not mentioned in any template):
 [Cash Funding Type](../Object-Fields/Cash%20Funder/Cash%20Funding%20Type.md),
 [Funding Source ID](../Object-Fields/Cash%20Funder/Funding%20Source%20ID.md),
 [Funding Source Program](../Object-Fields/Cash%20Funder/Funding%20Source%20Program.md),

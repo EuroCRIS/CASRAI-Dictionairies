@@ -2,7 +2,6 @@
 ## Short definition
 A form of IP protection that defines the exclusive right by law for inventors and assignees to make use of and exploit their inventions, products or processes, for a limited period of time.
 ## Fields
-(following a description of Patent in the [Outputs - Intellectual Property](../Templates/Outputs%20-%20Intellectual%20Property.md) template):
 [Patent Title](../Object-Fields/Patent/Patent%20Title.md),
 [Patent Number](../Object-Fields/Patent/Patent%20Number.md),
 [First Listed Author](../Object-Fields/Patent/First%20Listed%20Author.md),
@@ -13,5 +12,4 @@ A form of IP protection that defines the exclusive right by law for inventors an
 [Date Requested](../Object-Fields/Patent/Date%20Requested.md),
 [Date of Filing Priority](../Object-Fields/Patent/Date%20of%20Filing%20Priority.md),
 [Date of Term End](../Object-Fields/Patent/Date%20of%20Term%20End.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Patent/Research%20Classification.md)

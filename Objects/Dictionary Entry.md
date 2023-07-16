@@ -2,7 +2,6 @@
 ## Short definition
 Entries of new words, new meanings of existing words, changes in spelling and hyphenation over a longer period of time, and grammatical changes.
 ## Fields
-(following a description of Dictionary Entry in the [Outputs - Publications - Other](../Templates/Outputs%20-%20Publications%20-%20Other.md) template):
 [Entry Title](../Object-Fields/Dictionary%20Entry/Entry%20Title.md),
 [Dictionary Title](../Object-Fields/Dictionary%20Entry/Dictionary%20Title.md),
 [First Listed Author-Editor](../Object-Fields/Dictionary%20Entry/First%20Listed%20Author-Editor.md),
@@ -18,5 +17,4 @@ Entries of new words, new meanings of existing words, changes in spelling and hy
 [Publication Year](../Object-Fields/Dictionary%20Entry/Publication%20Year.md),
 [Publisher](../Object-Fields/Dictionary%20Entry/Publisher.md),
 [URL](../Object-Fields/Dictionary%20Entry/URL.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Dictionary%20Entry/Research%20Classification.md)

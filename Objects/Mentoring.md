@@ -2,7 +2,6 @@
 ## Short definition
 Services contributed, in order to provide counsel, guidance, and instruction to a protege.
 ## Fields
-(following a description of Mentoring in the [Services - Research Scholarly](../Templates/Services%20-%20Research%20Scholarly.md) template):
 [Name of Protege](../Object-Fields/Mentoring/Name%20of%20Protege.md),
 [Start Date](../Object-Fields/Mentoring/Start%20Date.md),
 [End date](../Object-Fields/Mentoring/End%20date.md),

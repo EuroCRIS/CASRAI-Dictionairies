@@ -2,7 +2,6 @@
 ## Short definition
 Translations of books and articles that identify modifications to the original edition, such as a new or revised preface.
 ## Fields
-(following a description of Translation in the [Outputs - Publications - Other](../Templates/Outputs%20-%20Publications%20-%20Other.md) template):
 [Title](../Object-Fields/Translation/Title.md),
 [Series Title](../Object-Fields/Translation/Series%20Title.md),
 [Edition](../Object-Fields/Translation/Edition.md),
@@ -15,5 +14,4 @@ Translations of books and articles that identify modifications to the original e
 [Publisher](../Object-Fields/Translation/Publisher.md),
 [Pubmed ID](../Object-Fields/Translation/Pubmed%20ID.md),
 [URL](../Object-Fields/Translation/URL.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Translation/Research%20Classification.md)

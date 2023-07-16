@@ -2,7 +2,6 @@
 ## Short definition
 Peer-reviewed funding providing direct research costs through competitions.
 ## Fields
-(following a description of Grant in the [Funding History](../Templates/Funding%20History.md) template):
 [Funding Organization](../Object-Fields/Grant/Funding%20Organization.md),
 [Program Name](../Object-Fields/Grant/Program%20Name.md),
 [Project Title](../Object-Fields/Grant/Project%20Title.md),
@@ -22,6 +21,5 @@ Peer-reviewed funding providing direct research costs through competitions.
 [End Date](../Object-Fields/Grant/End%20Date.md),
 [Investigation Role](../Object-Fields/Grant/Investigation%20Role.md),
 [Other Investigators](../Object-Fields/Grant/Other%20Investigators.md),
-(other fields not mentioned in any template):
 [Roles of Other Investigators](../Object-Fields/Grant/Roles%20of%20Other%20Investigators.md),
 [Research Classification](../Object-Fields/Grant/Research%20Classification.md)

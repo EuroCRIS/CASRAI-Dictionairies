@@ -2,7 +2,6 @@
 ## Short definition
 Signed agreements to exploit a piece of IP such as a process, product, data, or software.
 ## Fields
-(other fields not mentioned in any template):
 [Application Date](../Object-Fields/License/Application%20Date.md),
 [Date Issued](../Object-Fields/License/Date%20Issued.md),
 [End Date](../Object-Fields/License/End%20Date.md),

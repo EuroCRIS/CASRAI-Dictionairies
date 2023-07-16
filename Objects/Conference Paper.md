@@ -2,7 +2,6 @@
 ## Short definition
 Papers written alone or collaboratively, presented at an academic conference, and published in the proceedings (not in scholarly journals).
 ## Fields
-(following a description of Conference Paper in the [Outputs - Conference](../Templates/Outputs%20-%20Conference.md) template):
 [Paper Title](../Object-Fields/Conference%20Paper/Paper%20Title.md),
 [Conference Name](../Object-Fields/Conference%20Paper/Conference%20Name.md),
 [Competitive?](../Object-Fields/Conference%20Paper/Competitive.md),
@@ -24,5 +23,4 @@ Papers written alone or collaboratively, presented at an academic conference, an
 [Publication Status](../Object-Fields/Conference%20Paper/Publication%20Status.md),
 [Published?](../Object-Fields/Conference%20Paper/Published.md),
 [Refereed?](../Object-Fields/Conference%20Paper/Refereed.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Conference%20Paper/Research%20Classification.md)

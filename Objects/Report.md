@@ -2,7 +2,6 @@
 ## Short definition
 Reports disseminating the outcomes and deliverables of a research contract. May entail a contribution to public policy.
 ## Fields
-(following a description of Report in the [Outputs - Publications - Other](../Templates/Outputs%20-%20Publications%20-%20Other.md) template):
 [Report Title](../Object-Fields/Report/Report%20Title.md),
 [First Listed Author-Editor](../Object-Fields/Report/First%20Listed%20Author-Editor.md),
 [Authoring Role](../Object-Fields/Report/Authoring%20Role.md),
@@ -12,5 +11,4 @@ Reports disseminating the outcomes and deliverables of a research contract. May 
 [Number of Pages](../Object-Fields/Report/Number%20of%20Pages.md),
 [URL](../Object-Fields/Report/URL.md),
 [Volume](../Object-Fields/Report/Volume.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Report/Research%20Classification.md)

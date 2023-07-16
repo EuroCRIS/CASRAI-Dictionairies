@@ -2,7 +2,6 @@
 ## Short definition
 Information about all past, current and pending funding associated with this research activity.
 ## Fields
-(other fields not mentioned in any template):
 [Funding Source ID](../Object-Fields/In-kind%20Funding/Funding%20Source%20ID.md),
 [Funding Source Program](../Object-Fields/In-kind%20Funding/Funding%20Source%20Program.md),
 [In-Kind Funding Type](../Object-Fields/In-kind%20Funding/In-Kind%20Funding%20Type.md),

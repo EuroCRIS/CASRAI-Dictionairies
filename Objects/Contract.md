@@ -2,7 +2,6 @@
 ## Short definition
 Works commissioned by external public agencies or industry building on research expertise and aimed at deliverables. Include research contracts awarded by federal agencies for both direct and indirect costs, and honoraria.
 ## Fields
-(following a description of Contract in the [Funding History](../Templates/Funding%20History.md) template):
 [Funding Organization](../Object-Fields/Contract/Funding%20Organization.md),
 [Project Title](../Object-Fields/Contract/Project%20Title.md),
 [Project Description](../Object-Fields/Contract/Project%20Description.md),
@@ -14,5 +13,4 @@ Works commissioned by external public agencies or industry building on research 
 [End Date](../Object-Fields/Contract/End%20Date.md),
 [Other Investigators](../Object-Fields/Contract/Other%20Investigators.md),
 [Role of Other Investigators](../Object-Fields/Contract/Role%20of%20Other%20Investigators.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Contract/Research%20Classification.md)

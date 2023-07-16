@@ -2,7 +2,6 @@
 ## Short definition
 Services contributed in instances of overseeing the productivity and progress of a student reporting directly to the person, usually in pursuit of academic credit.
 ## Fields
-(following a description of Research-based Degree Supervision in the [Services - Research Scholarly](../Templates/Services%20-%20Research%20Scholarly.md) template):
 [Academic Institution](../Object-Fields/Research-based%20Degree%20Supervision/Academic%20Institution.md),
 [Consent Obtained for Name Release?](../Object-Fields/Research-based%20Degree%20Supervision/Consent%20Obtained%20for%20Name%20Release.md),
 [Degree Status](../Object-Fields/Research-based%20Degree%20Supervision/Degree%20Status.md),

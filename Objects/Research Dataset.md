@@ -2,7 +2,6 @@
 ## Short definition
 A set of data used for research purposes, that may or may not have been created by a research project.
 ## Fields
-(following a description of Research Dataset in the [DMP Ethics Review](../Templates/DMP%20Ethics%20Review.md) template):
 [Storage Type](../Object-Fields/Research%20Dataset/Storage%20Type.md),
 [Storage Access](../Object-Fields/Research%20Dataset/Storage%20Access.md),
 [Content Description](../Object-Fields/Research%20Dataset/Content%20Description.md),

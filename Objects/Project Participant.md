@@ -2,7 +2,6 @@
 ## Short definition
 Pertinent CV details of all personnel (and their institutional affiliations) who will participate in the research activity.
 ## Fields
-(other fields not mentioned in any template):
 [CASRAI ID](../Object-Fields/Project%20Participant/CASRAI%20ID.md),
 [Participant Type](../Object-Fields/Project%20Participant/Participant%20Type.md),
 [Salutation](../Object-Fields/Project%20Participant/Salutation.md),

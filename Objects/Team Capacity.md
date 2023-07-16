@@ -2,7 +2,6 @@
 ## Short definition
 Information about the capacity of the selected team to deliver the expected results.
 ## Fields
-(other fields not mentioned in any template):
 [Team Approach](../Object-Fields/Team%20Capacity/Team%20Approach.md),
 [Team Collaborative Capacity](../Object-Fields/Team%20Capacity/Team%20Collaborative%20Capacity.md),
 [Team Innovation Leverage](../Object-Fields/Team%20Capacity/Team%20Innovation%20Leverage.md),

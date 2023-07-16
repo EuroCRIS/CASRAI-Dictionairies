@@ -2,7 +2,6 @@
 ## Short definition
 Articles in peer-reviewed publications that disseminate the results of original research and scholarship.
 ## Fields
-(following a description of Journal Article in the [Outputs - Publications - Journals](../Templates/Outputs%20-%20Publications%20-%20Journals.md) template):
 [Article Title](../Object-Fields/Journal%20Article/Article%20Title.md),
 [Authoring Role](../Object-Fields/Journal%20Article/Authoring%20Role.md),
 [Co-Authors](../Object-Fields/Journal%20Article/Co-Authors.md),
@@ -22,7 +21,6 @@ Articles in peer-reviewed publications that disseminate the results of original 
 [Publication Status](../Object-Fields/Journal%20Article/Publication%20Status.md),
 [Refereed?](../Object-Fields/Journal%20Article/Refereed.md),
 [URL](../Object-Fields/Journal%20Article/URL.md),
-(following a description of Journal Article in the [Open Access APC Report](../Templates/Open%20Access%20APC%20Report.md) template):
 [PMC ID](../Object-Fields/Journal%20Article/PMC%20ID.md),
 [DOI](../Object-Fields/Journal%20Article/DOI.md),
 [ISSN](../Object-Fields/Journal%20Article/ISSN.md),
@@ -31,5 +29,4 @@ Articles in peer-reviewed publications that disseminate the results of original 
 [Publisher ID](../Object-Fields/Journal%20Article/Publisher%20ID.md),
 [Provisional Acceptance Date](../Object-Fields/Journal%20Article/Provisional%20Acceptance%20Date.md),
 [Final Acceptance Date](../Object-Fields/Journal%20Article/Final%20Acceptance%20Date.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Journal%20Article/Research%20Classification.md)

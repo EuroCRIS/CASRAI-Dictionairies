@@ -2,7 +2,6 @@
 ## Short definition
 An expert assessment of a scholarly output.
 ## Fields
-(following a description of Review in the [Peer Review Services](../Templates/Peer%20Review%20Services.md) template):
 [Convening Org Name](../Object-Fields/Review/Convening%20Org%20Name.md),
 [Convening Org ID Type](../Object-Fields/Review/Convening%20Org%20ID%20Type.md),
 [Convening Org ID](../Object-Fields/Review/Convening%20Org%20ID.md),

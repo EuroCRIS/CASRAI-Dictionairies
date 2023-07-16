@@ -2,7 +2,6 @@
 ## Short definition
 Books edited by a single author or collaboratively for the dissemination of research or scholarly findings that generally result from peer reviewed funding.
 ## Fields
-(following a description of Edited Book in the [Outputs - Publications - Books](../Templates/Outputs%20-%20Publications%20-%20Books.md) template):
 [Title](../Object-Fields/Edited%20Book/Title.md),
 [Co-authors-editors](../Object-Fields/Edited%20Book/Co-authors-editors.md),
 [Editing Role](../Object-Fields/Edited%20Book/Editing%20Role.md),
@@ -17,5 +16,4 @@ Books edited by a single author or collaboratively for the dissemination of rese
 [Pubmed ID](../Object-Fields/Edited%20Book/Pubmed%20ID.md),
 [Refereed?](../Object-Fields/Edited%20Book/Refereed.md),
 [URL](../Object-Fields/Edited%20Book/URL.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Edited%20Book/Research%20Classification.md)

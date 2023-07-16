@@ -2,7 +2,6 @@
 ## Short definition
 Telephone and facsimile numbers at which the person can be contacted.
 ## Fields
-(following a description of Phone Number in the [Contact Info](../Templates/Contact%20Info.md) template):
 [Country Code](../Object-Fields/Phone%20Number/Country%20Code.md),
 [Area Code](../Object-Fields/Phone%20Number/Area%20Code.md),
 [Local Number](../Object-Fields/Phone%20Number/Local%20Number.md),
@@ -10,5 +9,4 @@ Telephone and facsimile numbers at which the person can be contacted.
 [Start Date](../Object-Fields/Phone%20Number/Start%20Date.md),
 [End Date](../Object-Fields/Phone%20Number/End%20Date.md),
 [Phone Type](../Object-Fields/Phone%20Number/Phone%20Type.md),
-(other fields not mentioned in any template):
 [Use Type](../Object-Fields/Phone%20Number/Use%20Type.md)

@@ -2,7 +2,6 @@
 ## Short definition
 Works such as classical or aboriginal music produced as a result of an artistic practice. May be produced and be commercially disseminated.
 ## Fields
-(following a description of Audio Recording in the [Outputs - Artistic - Music](../Templates/Outputs%20-%20Artistic%20-%20Music.md) template):
 [Album Title](../Object-Fields/Audio%20Recording/Album%20Title.md),
 [Co-performers](../Object-Fields/Audio%20Recording/Co-performers.md),
 [Distributor](../Object-Fields/Audio%20Recording/Distributor.md),
@@ -10,5 +9,4 @@ Works such as classical or aboriginal music produced as a result of an artistic 
 [Producer First Name](../Object-Fields/Audio%20Recording/Producer%20First%20Name.md),
 [Producer Last Name](../Object-Fields/Audio%20Recording/Producer%20Last%20Name.md),
 [Release Date](../Object-Fields/Audio%20Recording/Release%20Date.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Audio%20Recording/Research%20Classification.md)

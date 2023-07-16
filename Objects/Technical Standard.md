@@ -2,7 +2,6 @@
 ## Short definition
 Technical Standards (industrial or otherwise) that have originated from the research projects in which new protocols, methods or materials may be developed.
 ## Fields
-(following a description of Technical Standard in the [Outputs - Other](../Templates/Outputs%20-%20Other.md) template):
 [Technical Standard Title](../Object-Fields/Technical%20Standard/Technical%20Standard%20Title.md),
 [Description](../Object-Fields/Technical%20Standard/Description.md),
 [Publication Date](../Object-Fields/Technical%20Standard/Publication%20Date.md),

@@ -2,7 +2,6 @@
 ## Short definition
 tbd
 ## Fields
-(other fields not mentioned in any template):
 [Partner Type](../Object-Fields/Project%20Partner/Partner%20Type.md),
 [Organization Name](../Object-Fields/Project%20Partner/Organization%20Name.md),
 [Partner Collaboration Level](../Object-Fields/Project%20Partner/Partner%20Collaboration%20Level.md),

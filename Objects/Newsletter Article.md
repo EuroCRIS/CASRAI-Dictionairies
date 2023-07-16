@@ -2,7 +2,6 @@
 ## Short definition
 Articles in publications aimed at researchers, decision-makers, professionals and the public that report on a research project or on the activities of a research chair or a research centre. The Newsletters promote research activities to the community and the university; mobilize knowledge to improve practice and inform policy, and provide relevant and accessible information to the broader public.
 ## Fields
-(other fields not mentioned in any template):
 [Article Title](../Object-Fields/Newsletter%20Article/Article%20Title.md),
 [Co-authors](../Object-Fields/Newsletter%20Article/Co-authors.md),
 [First Listed Author](../Object-Fields/Newsletter%20Article/First%20Listed%20Author.md),

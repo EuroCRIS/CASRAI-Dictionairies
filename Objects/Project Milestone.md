@@ -2,7 +2,6 @@
 ## Short definition
 Information about scientific milestones projected to be reached during the course of this activity.
 ## Fields
-(other fields not mentioned in any template):
 [Milestone ID](../Object-Fields/Project%20Milestone/Milestone%20ID.md),
 [Milestone Start Date](../Object-Fields/Project%20Milestone/Milestone%20Start%20Date.md),
 [Milestone End Date](../Object-Fields/Project%20Milestone/Milestone%20End%20Date.md),

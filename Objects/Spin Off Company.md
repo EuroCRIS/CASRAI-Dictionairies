@@ -2,7 +2,6 @@
 ## Short definition
 A company set up by a Research Organization to make commercial use of the results and findings of the Research project.
 ## Fields
-(following a description of Spin Off Company in the [Outputs - Other](../Templates/Outputs%20-%20Other.md) template):
 [Company Name](../Object-Fields/Spin%20Off%20Company/Company%20Name.md),
 [Area of Activity](../Object-Fields/Spin%20Off%20Company/Area%20of%20Activity.md),
 [Company Status](../Object-Fields/Spin%20Off%20Company/Company%20Status.md),

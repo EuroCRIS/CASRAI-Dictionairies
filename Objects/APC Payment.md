@@ -2,7 +2,6 @@
 ## Short definition
 A financial transaction to cover an article processing charge.
 ## Fields
-(following a description of APC Payment in the [Open Access APC Report](../Templates/Open%20Access%20APC%20Report.md) template):
 [Licence Type](../Object-Fields/APC%20Payment/Licence%20Type.md),
 [Correct Licence Applied](../Object-Fields/APC%20Payment/Correct%20Licence%20Applied.md),
 [Publication Problems](../Object-Fields/APC%20Payment/Publication%20Problems.md),

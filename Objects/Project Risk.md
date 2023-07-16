@@ -2,7 +2,6 @@
 ## Short definition
 Identified risks related to the research activity.
 ## Fields
-(other fields not mentioned in any template):
 [Milestone ID](../Object-Fields/Project%20Risk/Milestone%20ID.md),
 [Risk Type](../Object-Fields/Project%20Risk/Risk%20Type.md),
 [Risk Impact](../Object-Fields/Project%20Risk/Risk%20Impact.md),

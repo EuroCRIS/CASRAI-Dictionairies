@@ -2,7 +2,6 @@
 ## Short definition
 Services contributed in instances of overseeing the productivity and progress of a student reporting directly to the person, who is undertaking research activity, usually in pursuit of academic credit.
 ## Fields
-(following a description of Course-based Degree Supervision in the [Services - Other](../Templates/Services%20-%20Other.md) template):
 [Academic Institution](../Object-Fields/Course-based%20Degree%20Supervision/Academic%20Institution.md),
 [Co-supervisors](../Object-Fields/Course-based%20Degree%20Supervision/Co-supervisors.md),
 [Consent Obtained for Name Release?](../Object-Fields/Course-based%20Degree%20Supervision/Consent%20Obtained%20for%20Name%20Release.md),
@@ -18,5 +17,4 @@ Services contributed in instances of overseeing the productivity and progress of
 [Student Identifier](../Object-Fields/Course-based%20Degree%20Supervision/Student%20Identifier.md),
 [Student Last Name](../Object-Fields/Course-based%20Degree%20Supervision/Student%20Last%20Name.md),
 [Supervisory Role](../Object-Fields/Course-based%20Degree%20Supervision/Supervisory%20Role.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Course-based%20Degree%20Supervision/Research%20Classification.md)

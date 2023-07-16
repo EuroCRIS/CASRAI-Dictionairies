@@ -2,7 +2,6 @@
 ## Short definition
 Other training/courses undertaken by the person.
 ## Fields
-(other fields not mentioned in any template):
 [Description](../Object-Fields/Other%20Study/Description.md),
 [End Date](../Object-Fields/Other%20Study/End%20Date.md),
 [Institution](../Object-Fields/Other%20Study/Institution.md),

@@ -2,7 +2,6 @@
 ## Short definition
 Books written by a single author or collaboratively based on research or scholarly findings generally derived from peer reviewed funding.
 ## Fields
-(following a description of Book in the [Outputs - Publications - Books](../Templates/Outputs%20-%20Publications%20-%20Books.md) template):
 [Title](../Object-Fields/Book/Title.md),
 [Authoring Role](../Object-Fields/Book/Authoring%20Role.md),
 [Co-authors-editors](../Object-Fields/Book/Co-authors-editors.md),
@@ -16,6 +15,5 @@ Books written by a single author or collaboratively based on research or scholar
 [Publication Year](../Object-Fields/Book/Publication%20Year.md),
 [Publisher](../Object-Fields/Book/Publisher.md),
 [Pubmed ID](../Object-Fields/Book/Pubmed%20ID.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Book/Research%20Classification.md),
 [URL](../Object-Fields/Book/URL.md)

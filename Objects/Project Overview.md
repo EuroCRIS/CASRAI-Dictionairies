@@ -2,7 +2,6 @@
 ## Short definition
 Information about the Objectives, Scope and Methodology of the research activity.
 ## Fields
-(other fields not mentioned in any template):
 [Academic Abstract](../Object-Fields/Project%20Overview/Academic%20Abstract.md),
 [Bibliography](../Object-Fields/Project%20Overview/Bibliography.md),
 [Collaborative](../Object-Fields/Project%20Overview/Collaborative.md),

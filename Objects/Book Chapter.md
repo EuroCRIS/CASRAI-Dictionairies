@@ -2,7 +2,6 @@
 ## Short definition
 Texts written by a single author or collaboratively based on research or scholarly findings and expertise in a field.
 ## Fields
-(following a description of Book Chapter in the [Outputs - Publications - Books](../Templates/Outputs%20-%20Publications%20-%20Books.md) template):
 [Chapter Title](../Object-Fields/Book%20Chapter/Chapter%20Title.md),
 [Book Title](../Object-Fields/Book%20Chapter/Book%20Title.md),
 [Authoring Role](../Object-Fields/Book%20Chapter/Authoring%20Role.md),
@@ -19,5 +18,4 @@ Texts written by a single author or collaboratively based on research or scholar
 [Pubmed ID](../Object-Fields/Book%20Chapter/Pubmed%20ID.md),
 [Refereed?](../Object-Fields/Book%20Chapter/Refereed.md),
 [URL](../Object-Fields/Book%20Chapter/URL.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Book%20Chapter/Research%20Classification.md)

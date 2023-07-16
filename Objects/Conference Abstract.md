@@ -2,7 +2,6 @@
 ## Short definition
 Texts of a specified length that states the issue to be discussed in a proposed conference paper. It serves as the basis for the acceptance of the paper at a conference. The abstract is published along with the paper.
 ## Fields
-(following a description of Conference Abstract in the [Outputs - Conference](../Templates/Outputs%20-%20Conference.md) template):
 [Article Title](../Object-Fields/Conference%20Abstract/Article%20Title.md),
 [Authoring Role](../Object-Fields/Conference%20Abstract/Authoring%20Role.md),
 [Co-authors](../Object-Fields/Conference%20Abstract/Co-authors.md),
@@ -15,5 +14,4 @@ Texts of a specified length that states the issue to be discussed in a proposed 
 [Publication Date](../Object-Fields/Conference%20Abstract/Publication%20Date.md),
 [Publication Status](../Object-Fields/Conference%20Abstract/Publication%20Status.md),
 [Volume](../Object-Fields/Conference%20Abstract/Volume.md),
-(other fields not mentioned in any template):
 [Research Classification](../Object-Fields/Conference%20Abstract/Research%20Classification.md)

@@ -2,7 +2,6 @@
 ## Short definition
 List of languages in which the person has a level of competency along with an indication of competency level.
 ## Fields
-(following a description of Language Competency in the [Identifying Info](../Templates/Identifying%20Info.md) template):
 [Language](../Object-Fields/Language%20Competency/Language.md),
 [Can Read](../Object-Fields/Language%20Competency/Can%20Read.md),
 [Can Write](../Object-Fields/Language%20Competency/Can%20Write.md),

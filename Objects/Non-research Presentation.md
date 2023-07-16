@@ -2,7 +2,6 @@
 ## Short definition
 Contributions of presentations to groups of people, not directly related to the person's research activities, and not delivered as part of a formal course of study.
 ## Fields
-(following a description of Non-research Presentation in the [Services - Other](../Templates/Services%20-%20Other.md) template):
 [Co-presenters](../Object-Fields/Non-research%20Presentation/Co-presenters.md),
 [Competitive?](../Object-Fields/Non-research%20Presentation/Competitive.md),
 [Conference-Event](../Object-Fields/Non-research%20Presentation/Conference-Event.md),
