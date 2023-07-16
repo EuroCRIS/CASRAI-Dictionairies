@@ -9,3 +9,5 @@ A designation earned to assure qualification to perform a job or task.
 [Institution](../Object-Fields/Professional%20Designation/Institution.md),
 [Name or Title](../Object-Fields/Professional%20Designation/Name%20or%20Title.md),
 [Description](../Object-Fields/Professional%20Designation/Description.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Professional%20Designation/Research%20Classification.md),

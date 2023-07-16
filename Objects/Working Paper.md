@@ -8,3 +8,5 @@ Preliminary versions of articles that have not undergone review but that may be 
 [Co-authors](../Object-Fields/Working%20Paper/Co-authors.md),
 [Volume](../Object-Fields/Working%20Paper/Volume.md),
 [URL](../Object-Fields/Working%20Paper/URL.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Working%20Paper/Research%20Classification.md),

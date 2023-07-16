@@ -9,3 +9,5 @@ Exhibits under the guidance of a curator responsible for a collection.
 [Exhibition Catalogue Title](../Object-Fields/Curatorial-Museum%20Exhibition/Exhibition%20Catalogue%20Title.md),
 [Exhibition Title](../Object-Fields/Curatorial-Museum%20Exhibition/Exhibition%20Title.md),
 [Venues](../Object-Fields/Curatorial-Museum%20Exhibition/Venues.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Curatorial-Museum%20Exhibition/Research%20Classification.md),

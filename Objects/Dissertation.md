@@ -12,3 +12,5 @@ Treatise advancing an original point of view resulting from research: a requirem
 [Volume](../Object-Fields/Dissertation/Volume.md),
 [Pubmed ID](../Object-Fields/Dissertation/Pubmed%20ID.md),
 [URL](../Object-Fields/Dissertation/URL.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Dissertation/Research%20Classification.md),

@@ -10,3 +10,5 @@ Telephone and facsimile numbers at which the person can be contacted.
 [Start Date](../Object-Fields/Phone%20Number/Start%20Date.md),
 [End Date](../Object-Fields/Phone%20Number/End%20Date.md),
 [Phone Type](../Object-Fields/Phone%20Number/Phone%20Type.md),
+(other fields not mentioned in any template):
+[Use Type](../Object-Fields/Phone%20Number/Use%20Type.md),

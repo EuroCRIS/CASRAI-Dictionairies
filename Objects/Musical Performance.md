@@ -9,3 +9,5 @@ Original musical scores available in a format for dissemination.
 [Performance Role](../Object-Fields/Musical%20Performance/Performance%20Role.md),
 [The Title of Work](../Object-Fields/Musical%20Performance/The%20Title%20of%20Work.md),
 [Venue (multi)](../Object-Fields/Musical%20Performance/Venue%20(multi).md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Musical%20Performance/Research%20Classification.md),

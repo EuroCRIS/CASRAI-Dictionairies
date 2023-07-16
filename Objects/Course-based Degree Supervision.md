@@ -18,3 +18,5 @@ Services contributed in instances of overseeing the productivity and progress of
 [Student Identifier](../Object-Fields/Course-based%20Degree%20Supervision/Student%20Identifier.md),
 [Student Last Name](../Object-Fields/Course-based%20Degree%20Supervision/Student%20Last%20Name.md),
 [Supervisory Role](../Object-Fields/Course-based%20Degree%20Supervision/Supervisory%20Role.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Course-based%20Degree%20Supervision/Research%20Classification.md),

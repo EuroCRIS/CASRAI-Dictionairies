@@ -13,3 +13,5 @@ A form of IP protection that defines the exclusive right by law for inventors an
 [Date Requested](../Object-Fields/Patent/Date%20Requested.md),
 [Date of Filing Priority](../Object-Fields/Patent/Date%20of%20Filing%20Priority.md),
 [Date of Term End](../Object-Fields/Patent/Date%20of%20Term%20End.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Patent/Research%20Classification.md),

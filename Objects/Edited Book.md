@@ -17,3 +17,5 @@ Books edited by a single author or collaboratively for the dissemination of rese
 [Pubmed ID](../Object-Fields/Edited%20Book/Pubmed%20ID.md),
 [Refereed?](../Object-Fields/Edited%20Book/Refereed.md),
 [URL](../Object-Fields/Edited%20Book/URL.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Edited%20Book/Research%20Classification.md),

@@ -11,3 +11,5 @@ Employment in a non-academic environment.
 [Employer Type](../Object-Fields/Non%20HE%20Employment/Employer%20Type.md),
 [Country](../Object-Fields/Non%20HE%20Employment/Country.md),
 [Position Type](../Object-Fields/Non%20HE%20Employment/Position%20Type.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Non%20HE%20Employment/Research%20Classification.md),

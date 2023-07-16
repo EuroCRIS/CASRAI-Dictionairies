@@ -35,3 +35,5 @@ Articles in peer-reviewed publications that disseminate the results of original 
 [Journal](../Object-Fields/Journal%20Article/Journal.md),
 [Article Title](../Object-Fields/Journal%20Article/Article%20Title.md),
 [Publication Date](../Object-Fields/Journal%20Article/Publication%20Date.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Journal%20Article/Research%20Classification.md),

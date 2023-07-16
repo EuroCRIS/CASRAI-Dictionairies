@@ -2,3 +2,13 @@
 ## Short definition
 Information from referees expressing support for the Senior Personnel involved in the research activity.
 ## Fields
+(other fields not mentioned in any template):
+[CASRAI ID](../Object-Fields/Reference/CASRAI%20ID.md),
+[Date Given](../Object-Fields/Reference/Date%20Given.md),
+[Institution ID](../Object-Fields/Reference/Institution%20ID.md),
+[Presented Name](../Object-Fields/Reference/Presented%20Name.md),
+[Primary Address](../Object-Fields/Reference/Primary%20Address.md),
+[Primary Email](../Object-Fields/Reference/Primary%20Email.md),
+[Primary Phone](../Object-Fields/Reference/Primary%20Phone.md),
+[Reference Attachment](../Object-Fields/Reference/Reference%20Attachment.md),
+[Reference Summary](../Object-Fields/Reference/Reference%20Summary.md),

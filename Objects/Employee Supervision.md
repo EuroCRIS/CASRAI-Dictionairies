@@ -13,3 +13,5 @@ Services contributed in instances of overseeing the productivity and progress of
 [Institution](../Object-Fields/Employee%20Supervision/Institution.md),
 [Start Date](../Object-Fields/Employee%20Supervision/Start%20Date.md),
 [Supervisory Role](../Object-Fields/Employee%20Supervision/Supervisory%20Role.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Employee%20Supervision/Research%20Classification.md),

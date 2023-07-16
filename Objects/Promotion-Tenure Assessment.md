@@ -8,3 +8,5 @@ Services contributed, in conjunction with the consideration of an application fo
 [Start Date](../Object-Fields/Promotion-Tenure%20Assessment/Start%20Date.md),
 [End Date](../Object-Fields/Promotion-Tenure%20Assessment/End%20Date.md),
 [Number of Assessments](../Object-Fields/Promotion-Tenure%20Assessment/Number%20of%20Assessments.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Promotion-Tenure%20Assessment/Research%20Classification.md),

@@ -8,3 +8,5 @@ Contributions in the development of courses/modules for training or teaching pur
 [Date First Taught](../Object-Fields/Course%20Developed/Date%20First%20Taught.md),
 [Institutions Using Course](../Object-Fields/Course%20Developed/Institutions%20Using%20Course.md),
 [Organization](../Object-Fields/Course%20Developed/Organization.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Course%20Developed/Research%20Classification.md),

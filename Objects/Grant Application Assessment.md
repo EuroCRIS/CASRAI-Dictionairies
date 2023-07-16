@@ -11,3 +11,5 @@ Services contributed, in conjunction with the appraisal of grant applications, t
 [Institution](../Object-Fields/Grant%20Application%20Assessment/Institution.md),
 [Number of Applications Assessed](../Object-Fields/Grant%20Application%20Assessment/Number%20of%20Applications%20Assessed.md),
 [Start Date](../Object-Fields/Grant%20Application%20Assessment/Start%20Date.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Grant%20Application%20Assessment/Research%20Classification.md),

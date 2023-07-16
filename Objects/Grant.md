@@ -22,3 +22,6 @@ Peer-reviewed funding providing direct research costs through competitions.
 [End Date](../Object-Fields/Grant/End%20Date.md),
 [Investigation Role](../Object-Fields/Grant/Investigation%20Role.md),
 [Other Investigators](../Object-Fields/Grant/Other%20Investigators.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Grant/Research%20Classification.md),
+[Roles of Other Investigators](../Object-Fields/Grant/Roles%20of%20Other%20Investigators.md),

@@ -9,3 +9,6 @@ Series of observations, measurements or facts identified from the research.  The
 [Page Ranges](../Object-Fields/Research%20Tool/Page%20Ranges.md),
 [Publication Location](../Object-Fields/Research%20Tool/Publication%20Location.md),
 [Publication Year](../Object-Fields/Research%20Tool/Publication%20Year.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Research%20Tool/Research%20Classification.md),
+[URL](../Object-Fields/Research%20Tool/URL.md),

@@ -14,3 +14,5 @@ Works commissioned by external public agencies or industry building on research 
 [End Date](../Object-Fields/Contract/End%20Date.md),
 [Other Investigators](../Object-Fields/Contract/Other%20Investigators.md),
 [Role of Other Investigators](../Object-Fields/Contract/Role%20of%20Other%20Investigators.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Contract/Research%20Classification.md),

@@ -8,3 +8,5 @@ Creations of theatrical, as well as film or television scenery (also known as st
 [Opening Date](../Object-Fields/Set%20Design/Opening%20Date.md),
 [Venue (multi)](../Object-Fields/Set%20Design/Venue%20(multi).md),
 [Writer-Producer](../Object-Fields/Set%20Design/Writer-Producer.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Set%20Design/Research%20Classification.md),

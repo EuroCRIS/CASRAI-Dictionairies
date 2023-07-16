@@ -24,3 +24,5 @@ Papers written alone or collaboratively, presented at an academic conference, an
 [Publication Status](../Object-Fields/Conference%20Paper/Publication%20Status.md),
 [Published?](../Object-Fields/Conference%20Paper/Published.md),
 [Refereed?](../Object-Fields/Conference%20Paper/Refereed.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Conference%20Paper/Research%20Classification.md),

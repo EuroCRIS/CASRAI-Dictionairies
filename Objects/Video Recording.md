@@ -12,3 +12,5 @@ Works such as film, video, or new media developed as a result of an artistic pra
 [Producer First Name](../Object-Fields/Video%20Recording/Producer%20First%20Name.md),
 [Producer Last Name](../Object-Fields/Video%20Recording/Producer%20Last%20Name.md),
 [Release Date](../Object-Fields/Video%20Recording/Release%20Date.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Video%20Recording/Research%20Classification.md),

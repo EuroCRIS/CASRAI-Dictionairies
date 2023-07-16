@@ -16,3 +16,6 @@ Books written by a single author or collaboratively based on research or scholar
 [Publication Year](../Object-Fields/Book/Publication%20Year.md),
 [Publisher](../Object-Fields/Book/Publisher.md),
 [Pubmed ID](../Object-Fields/Book/Pubmed%20ID.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Book/Research%20Classification.md),
+[URL](../Object-Fields/Book/URL.md),

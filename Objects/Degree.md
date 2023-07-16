@@ -13,3 +13,5 @@ An academic title conferred by universities and colleges as an indication of the
 [Degree Major](../Object-Fields/Degree/Degree%20Major.md),
 [Degree Type](../Object-Fields/Degree/Degree%20Type.md),
 [Thesis Title](../Object-Fields/Degree/Thesis%20Title.md),
+(other fields not mentioned in any template):
+[Research Classification](../Object-Fields/Degree/Research%20Classification.md),
