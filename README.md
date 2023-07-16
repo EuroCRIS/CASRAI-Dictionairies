@@ -20,6 +20,8 @@ CASRAI, through its unique working group centered process, constructed a model f
 * [Open Access APC Report](./Templates/Open%20Access%20APC%20Report.md)
 
 These are the top-level ones that were defined.
-The two CVs share a number of sections and subsections, which are also listed under [Templates](./Templates/).
+The two CVs share a total of 19 sections and subsections, which are also listed under [Templates](./Templates/).
 
-The Templates use [Objects](./Objects/) as basic building blocks. These objects have properties, represented as [Object fields](./Object-Fields). Some of these properties may use controlled vocabularies, the [Picklists](./Picklists/).
+The Templates use 123 [Objects](./Objects/) as basic building blocks.
+These objects have 1,035 ([Object fields](./Object-Fields)) properties in total.
+Some of these properties may use controlled vocabularies, the 10 [Picklists](./Picklists/).
