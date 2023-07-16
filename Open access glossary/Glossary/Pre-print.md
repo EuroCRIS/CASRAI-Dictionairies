@@ -8,4 +8,4 @@ One usage of the term pre-print is to describe the first draft of the article, b
  
 Another use of the term pre-print is for the finished article, reviewed and amended, ready and accepted for publication – but separate from the version that is type-set or formatted by the publisher. This use is more common with publishers, for whom the final and significant stage of modification to an article is the arrangement of the material for putting to print.
  
-Synonyms: Author’s Original (NISO)
+Synonyms: Author's Original (NISO)

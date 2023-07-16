@@ -8,7 +8,7 @@ The goal of this glossary is to gather all the key terms needed for collaborator
  
 [Article publication charge](./Glossary/Article%20publication%20charge.md)  – Charge levied by a publisher to an author (or their funder or institution) to publish an article. Such charges may include but are not limited to: APCs; page charges; publishing charges or fees; submission charges; colour charges.
  
-[Author accepted manuscript](./Glossary/Author%20accepted%20manuscript.md)  – The author’s final, peer reviewed and corrected manuscript, usually created in Word or LaTeX.
+[Author accepted manuscript](./Glossary/Author%20accepted%20manuscript.md)  – The author's final, peer reviewed and corrected manuscript, usually created in Word or LaTeX.
  
 [Born open access](./Glossary/Born%20open%20access.md)  – Commercial or non-profit publishers established for the sole purpose of publishing Open Access (OA) journals. They normally make use of the Creative Commons Attribution License for their publications. Authors usually retain their copyrights and users are needed to acknowledge and cite the authors in future references.
  
@@ -88,7 +88,7 @@ The goal of this glossary is to gather all the key terms needed for collaborator
  
 [Research Funder](./Glossary/Research%20Funder.md)   – An organisation providing financial support for research activity.
  
-[Researcher webpage](./Glossary/Researcher%20webpage.md)  – A webpage featuring a researcher’s profile, hosted by their institution of employment.
+[Researcher webpage](./Glossary/Researcher%20webpage.md)  – A webpage featuring a researcher's profile, hosted by their institution of employment.
  
 [Reuse license](./Glossary/Reuse%20license.md)  – A set of terms and conditions that facilitates the reuse of published information.
  

@@ -2,7 +2,7 @@
  
 A manuscript draft after it has been peer reviewed.
  
-Synonyms: Author’s Accepted Manuscript. Author Final Version
+Synonyms: Author's Accepted Manuscript. Author Final Version
  
 Acronym: n/a
  
