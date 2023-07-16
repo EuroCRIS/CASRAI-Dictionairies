@@ -13,3 +13,5 @@ True
 False
 ## UUID
 f93e0f44-f2a4-4ea1-824a-4e0853b05c9d
+## Canonical URL
+https://credit.niso.org/contributor-roles/data-curation/

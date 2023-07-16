@@ -13,3 +13,5 @@ True
 False
 ## UUID
 0c8ca7d4-06ad-4527-9cea-a8801fcb8746
+## Canonical URL
+https://credit.niso.org/contributor-roles/supervision/

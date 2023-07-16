@@ -13,3 +13,5 @@ True
 False
 ## UUID
 f21e2be9-4e38-4ab7-8691-d6f72d5d5843
+## Canonical URL
+https://credit.niso.org/contributor-roles/methodology/

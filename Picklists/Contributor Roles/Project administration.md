@@ -13,3 +13,5 @@ True
 False
 ## UUID
 a693fe76-ea33-49ad-9dcc-5e4f3ac5f938
+## Canonical URL
+https://credit.niso.org/contributor-roles/project-administration/

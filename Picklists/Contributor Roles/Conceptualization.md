@@ -13,3 +13,5 @@ True
 False
 ## UUID
 8b73531f-db56-4914-9502-4cc4d4d8ed73
+## Canonical URL
+https://credit.niso.org/contributor-roles/conceptualization/

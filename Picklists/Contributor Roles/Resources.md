@@ -13,3 +13,5 @@ True
 False
 ## UUID
 ebd781f0-bf79-492c-ac21-b31b9c3c990c
+## Canonical URL
+https://credit.niso.org/contributor-roles/resources/

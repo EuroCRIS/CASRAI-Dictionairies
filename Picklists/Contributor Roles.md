@@ -13,3 +13,5 @@ True
 False
 ## UUID
 9dbb95f4-55ed-4e43-9301-a9f0e3e17afe
+## Canonical URL
+https://credit.niso.org/

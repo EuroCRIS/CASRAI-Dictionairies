@@ -13,3 +13,5 @@ False
 False
 ## UUID
 f89c5233-01b0-4778-93e9-cc7d107aa2c8
+## Canonical URL
+https://credit.niso.org/contributor-roles/software/

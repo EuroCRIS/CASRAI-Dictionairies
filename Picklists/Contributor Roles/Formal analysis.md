@@ -13,3 +13,5 @@ True
 False
 ## UUID
 95394cbd-4dc8-4735-b589-7e5f9e622b3f
+## Canonical URL
+https://credit.niso.org/contributor-roles/formal-analysis/

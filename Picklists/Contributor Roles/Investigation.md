@@ -13,3 +13,5 @@ True
 False
 ## UUID
 2451924d-425e-4778-9f4c-36c848ca70c2
+## Canonical URL
+https://credit.niso.org/contributor-roles/investigation/

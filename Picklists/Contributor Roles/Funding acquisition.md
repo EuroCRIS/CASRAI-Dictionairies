@@ -13,3 +13,5 @@ True
 False
 ## UUID
 34ff6d68-132f-4438-a1f4-fba61ccf364a
+## Canonical URL
+https://credit.niso.org/contributor-roles/funding-acquisition/

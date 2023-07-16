@@ -13,3 +13,5 @@ True
 False
 ## UUID
 4b1bf348-faf2-4fc4-bd66-4cd3a84b9d44
+## Canonical URL
+https://credit.niso.org/contributor-roles/validation/

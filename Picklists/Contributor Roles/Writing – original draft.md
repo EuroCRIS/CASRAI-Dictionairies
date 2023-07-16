@@ -13,3 +13,5 @@ True
 False
 ## UUID
 43ebbd94-98b4-42f1-866b-c930cef228ca
+## Canonical URL
+https://credit.niso.org/contributor-roles/writing-original-draft/

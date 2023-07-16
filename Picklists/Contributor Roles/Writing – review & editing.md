@@ -13,3 +13,5 @@ True
 False
 ## UUID
 d3aead86-f2a2-47f7-bb99-79de6421164d
+## Canonical URL
+https://credit.niso.org/contributor-roles/writing-review-editing/

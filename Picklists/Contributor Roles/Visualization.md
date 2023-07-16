@@ -13,3 +13,5 @@ True
 False
 ## UUID
 76b9d56a-e430-4e0a-84c9-59c11be343ae
+## Canonical URL
+https://credit.niso.org/contributor-roles/visualization/
