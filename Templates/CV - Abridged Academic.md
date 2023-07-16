@@ -2,7 +2,7 @@
 ## Short definition
 Information representing the summary academic history of a person.
 ## Objects Embedded
-[Identifying Info](../Templates/Identifying%20Info.md), [Education History](../Templates/Education%20History.md), [Employment History](../Templates/Employment%20History.md), [Contact Info](../Templates/Contact%20Info.md), [Funding History](../Templates/Funding%20History.md), 
+[Identifying Info](../Templates/Identifying%20Info.md), [Education History](../Templates/Education%20History.md), [Employment History](../Templates/Employment%20History.md), [Contact Info](../Templates/Contact%20Info.md), [Funding History](../Templates/Funding%20History.md)
 ## Meta title
 csr:CV - Abridged Academic
 ## Research Admin Domain
