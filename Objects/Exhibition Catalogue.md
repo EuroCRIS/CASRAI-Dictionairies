@@ -1,6 +1,6 @@
 # Exhibition Catalogue
 ## Short definition
-Publications for a temporary exhibition or installation at a gallery or alternative space. It documents the contents of an exhibition, providing a forum for critical dialogue between curators, artists and critics.  It serves as a scholarly resource and is eligible for prestigious prizes.
+Publications for a temporary exhibition or installation at a gallery or alternative space. It documents the contents of an exhibition, providing a forum for critical dialogue between curators, artists and critics. It serves as a scholarly resource and is eligible for prestigious prizes.
 ## Fields
 [Title](../Object-Fields/Exhibition%20Catalogue/Title.md),
 [Artists](../Object-Fields/Exhibition%20Catalogue/Artists.md),

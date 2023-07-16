@@ -1,6 +1,6 @@
 # Project Overview/Dissemination Strategies
 ## Short definition
-A summary of the strategies planned for disseminating knowledge derived from  this activity.
+A summary of the strategies planned for disseminating knowledge derived from this activity.
 ## Base page
 [Project Overview](../../Objects/Project%20Overview.md)
 ## Meta title

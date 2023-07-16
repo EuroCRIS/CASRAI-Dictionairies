@@ -1,6 +1,6 @@
 # Project Overview/Relevance
 ## Short definition
-A summary of the relationship of the activity to the research question or the  relationship to the specific objectives of a specific research program.
+A summary of the relationship of the activity to the research question or the relationship to the specific objectives of a specific research program.
 ## Base page
 [Project Overview](../../Objects/Project%20Overview.md)
 ## Meta title

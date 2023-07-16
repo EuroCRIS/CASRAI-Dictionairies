@@ -1,6 +1,6 @@
 # Project Overview/Significance
 ## Short definition
-A summary of the importance of the expected research knowledge to be obtained  in relation to the research question or problem.
+A summary of the importance of the expected research knowledge to be obtained in relation to the research question or problem.
 ## Base page
 [Project Overview](../../Objects/Project%20Overview.md)
 ## Meta title

@@ -1,6 +1,6 @@
 # Project Overview/Scope
 ## Short definition
-A summary of specific aspects of a research area that are addressed in the  proposed activity.
+A summary of specific aspects of a research area that are addressed in the proposed activity.
 ## Base page
 [Project Overview](../../Objects/Project%20Overview.md)
 ## Meta title

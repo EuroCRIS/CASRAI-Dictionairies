@@ -1,6 +1,6 @@
 # Video Recording
 ## Short definition
-Works such as film, video, or new media developed as a result of an artistic practice.  May serve for commercial purposes.
+Works such as film, video, or new media developed as a result of an artistic practice. May serve for commercial purposes.
 ## Fields
 [Title](../Object-Fields/Video%20Recording/Title.md),
 [Series Title](../Object-Fields/Video%20Recording/Series%20Title.md),

@@ -1,6 +1,6 @@
 # Project Overview/Methodology
 ## Short definition
-A summary of the general approach and method(s) to be employed in the  research activity.
+A summary of the general approach and method(s) to be employed in the research activity.
 ## Base page
 [Project Overview](../../Objects/Project%20Overview.md)
 ## Meta title
