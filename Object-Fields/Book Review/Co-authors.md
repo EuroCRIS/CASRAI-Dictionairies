@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors of the book review.
 ## Base page
-[Book Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Review.md)
+[Book Review](../../Objects/Book%20Review.md)
 ## Meta title
 csr:Book Review/Co-authors
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 A description of the contribution made by the person in their role as an expert witness.
 ## Base page
-[Expert Witness](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Expert%20Witness.md)
+[Expert Witness](../../Objects/Expert%20Witness.md)
 ## Meta title
 csr:Expert Witness/Contribution Description
 ## Research Admin Domain

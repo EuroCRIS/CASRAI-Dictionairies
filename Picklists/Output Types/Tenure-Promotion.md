@@ -4,7 +4,7 @@ A process of confidential deliberations by a committee, held in-camera, to decid
 ## Type
 Values
 ## Base page
-[Output Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Output%20Types.md)
+[Output Types](../../Picklists/Output%20Types.md)
 ## Meta title
 csr:Output Types/Tenure-Promotion
 ## Research Admin Domain

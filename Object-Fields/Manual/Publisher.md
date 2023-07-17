@@ -2,7 +2,7 @@
 ## Short definition
 The name of the publisher.
 ## Base page
-[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
+[Manual](../../Objects/Manual.md)
 ## Meta title
 csr:Manual/Publisher
 ## Research Admin Domain

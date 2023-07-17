@@ -4,7 +4,7 @@ See http://dictionary.casrai.org/Working_Paper
 ## Type
 Values
 ## Base page
-[Output Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Output%20Types.md)
+[Output Types](../../Picklists/Output%20Types.md)
 ## Meta title
 csr:Output Types/Working Paper
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Community Service](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Community%20Service.md)
+[Community Service](../../Objects/Community%20Service.md)
 ## Meta title
 csr:Community Service/Research Classification
 ## Research Admin Domain

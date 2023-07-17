@@ -2,7 +2,7 @@
 ## Short definition
 The issue, if applicable.
 ## Base page
-[Newsletter Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Newsletter%20Article.md)
+[Newsletter Article](../../Objects/Newsletter%20Article.md)
 ## Meta title
 csr:Newsletter Article/Issue
 ## Research Admin Domain

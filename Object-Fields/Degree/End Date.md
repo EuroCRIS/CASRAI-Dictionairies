@@ -2,7 +2,7 @@
 ## Short definition
 The date the person's study was completed.
 ## Base page
-[Degree](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Degree.md)
+[Degree](../../Objects/Degree.md)
 ## Meta title
 csr:Degree/End Date
 ## Research Admin Domain

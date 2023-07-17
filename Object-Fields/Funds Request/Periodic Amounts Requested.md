@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the periodic funding amounts this funding instance represents.
 ## Base page
-[Funds Request](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Funds%20Request.md)
+[Funds Request](../../Objects/Funds%20Request.md)
 ## Meta title
 csr:Funds Request/Periodic Amounts Requested
 ## Research Admin Domain

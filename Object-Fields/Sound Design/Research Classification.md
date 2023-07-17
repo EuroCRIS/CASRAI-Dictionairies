@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Sound Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Sound%20Design.md)
+[Sound Design](../../Objects/Sound%20Design.md)
 ## Meta title
 csr:Sound Design/Research Classification
 ## Research Admin Domain

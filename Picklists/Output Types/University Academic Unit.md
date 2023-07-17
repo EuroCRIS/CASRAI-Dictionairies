@@ -4,7 +4,7 @@ A primary academic organizational entity of a university that has appointed facu
 ## Type
 Values
 ## Base page
-[Output Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Output%20Types.md)
+[Output Types](../../Picklists/Output%20Types.md)
 ## Meta title
 csr:Output Types/University Academic Unit
 ## Research Admin Domain

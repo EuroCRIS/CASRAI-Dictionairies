@@ -2,7 +2,7 @@
 ## Short definition
 The total number of employees.
 ## Base page
-[Spin Off Company](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Spin%20Off%20Company.md)
+[Spin Off Company](../../Objects/Spin%20Off%20Company.md)
 ## Meta title
 csr:Spin Off Company/Number of Employees
 ## Research Admin Domain

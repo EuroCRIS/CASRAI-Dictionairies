@@ -2,7 +2,7 @@
 ## Short definition
 The nature and intended use of the given address.
 ## Base page
-[Mailing Address](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Mailing%20Address.md)
+[Mailing Address](../../Objects/Mailing%20Address.md)
 ## Meta title
 csr:Mailing Address/Address Type
 ## Research Admin Domain

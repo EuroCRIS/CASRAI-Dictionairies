@@ -2,7 +2,7 @@
 ## Short definition
 The name of the conference for which the paper was written.
 ## Base page
-[Conference Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Paper.md)
+[Conference Paper](../../Objects/Conference%20Paper.md)
 ## Meta title
 csr:Conference Paper/Conference Name
 ## Research Admin Domain

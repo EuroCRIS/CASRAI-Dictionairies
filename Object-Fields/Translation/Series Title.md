@@ -2,7 +2,7 @@
 ## Short definition
 The title of the series to which it belongs, if applicable.
 ## Base page
-[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
+[Translation](../../Objects/Translation.md)
 ## Meta title
 csr:Translation/Series Title
 ## Research Admin Domain

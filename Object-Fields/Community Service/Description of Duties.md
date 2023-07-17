@@ -2,7 +2,7 @@
 ## Short definition
 A description of the person's duties.
 ## Base page
-[Community Service](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Community%20Service.md)
+[Community Service](../../Objects/Community%20Service.md)
 ## Meta title
 csr:Community Service/Description of Duties
 ## Research Admin Domain

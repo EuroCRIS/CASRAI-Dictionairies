@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the standard is available, if such exists.
 ## Base page
-[Standard or Policy](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Standard%20or%20Policy.md)
+[Standard or Policy](../../Objects/Standard%20or%20Policy.md)
 ## Meta title
 csr:Standard or Policy/URL
 ## Research Admin Domain

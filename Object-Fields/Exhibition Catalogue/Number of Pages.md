@@ -2,7 +2,7 @@
 ## Short definition
 The total number of pages.
 ## Base page
-[Exhibition Catalogue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Exhibition%20Catalogue.md)
+[Exhibition Catalogue](../../Objects/Exhibition%20Catalogue.md)
 ## Meta title
 csr:Exhibition Catalogue/Number of Pages
 ## Research Admin Domain

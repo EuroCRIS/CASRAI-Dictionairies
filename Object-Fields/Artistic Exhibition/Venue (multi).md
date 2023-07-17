@@ -2,7 +2,7 @@
 ## Short definition
 The venue where it was presented.
 ## Base page
-[Artistic Exhibition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Artistic%20Exhibition.md)
+[Artistic Exhibition](../../Objects/Artistic%20Exhibition.md)
 ## Meta title
 csr:Artistic Exhibition/Venue (multi)
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The run time of the composition.
 ## Base page
-[Musical Composition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Musical%20Composition.md)
+[Musical Composition](../../Objects/Musical%20Composition.md)
 ## Meta title
 csr:Musical Composition/Duration
 ## Research Admin Domain

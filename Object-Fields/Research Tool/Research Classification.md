@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Research Tool](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Tool.md)
+[Research Tool](../../Objects/Research%20Tool.md)
 ## Meta title
 csr:Research Tool/Research Classification
 ## Research Admin Domain

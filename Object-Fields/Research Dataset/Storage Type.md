@@ -2,7 +2,7 @@
 ## Short definition
 Details about the type(s) of storage used.
 ## Base page
-[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
+[Research Dataset](../../Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/Storage Type
 ## Research Admin Domain

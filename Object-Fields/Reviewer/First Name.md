@@ -2,7 +2,7 @@
 ## Short definition
 The given name of the person who contributed to a review.
 ## Base page
-[Reviewer](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer.md)
+[Reviewer](../../Objects/Reviewer.md)
 ## Meta title
 csr:Reviewer/First Name
 ## Research Admin Domain

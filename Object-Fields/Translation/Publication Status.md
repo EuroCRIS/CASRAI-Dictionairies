@@ -2,7 +2,7 @@
 ## Short definition
 The status of the translation, with regard to publication.
 ## Base page
-[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
+[Translation](../../Objects/Translation.md)
 ## Meta title
 csr:Translation/Publication Status
 ## Research Admin Domain

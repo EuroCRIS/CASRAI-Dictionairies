@@ -2,7 +2,7 @@
 ## Short definition
 The date the performance was first given.
 ## Base page
-[Musical Performance](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Musical%20Performance.md)
+[Musical Performance](../../Objects/Musical%20Performance.md)
 ## Meta title
 csr:Musical Performance/Date of First Performance
 ## Research Admin Domain

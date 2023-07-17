@@ -2,7 +2,7 @@
 ## Short definition
 A summary of the reasons for this suggestion.
 ## Base page
-[Reviewer Suggestion](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer%20Suggestion.md)
+[Reviewer Suggestion](../../Objects/Reviewer%20Suggestion.md)
 ## Meta title
 csr:Reviewer Suggestion/Reviewer Suggestion Rationale
 ## Research Admin Domain

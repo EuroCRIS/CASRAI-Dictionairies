@@ -2,7 +2,7 @@
 ## Short definition
 The name of the organization for which the tool was developed.
 ## Base page
-[Research Tool](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Tool.md)
+[Research Tool](../../Objects/Research%20Tool.md)
 ## Meta title
 csr:Research Tool/Organization
 ## Research Admin Domain

@@ -1,8 +1,8 @@
 # Edited Book/Publisher
 ## Short definition
-The name of the bookâ€™s publisher.
+The name of the book's publisher.
 ## Base page
-[Edited Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Edited%20Book.md)
+[Edited Book](../../Objects/Edited%20Book.md)
 ## Meta title
 csr:Edited Book/Publisher
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors.
 ## Base page
-[Test](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Test.md)
+[Test](../../Objects/Test.md)
 ## Meta title
 csr:Test/Co-authors
 ## Research Admin Domain

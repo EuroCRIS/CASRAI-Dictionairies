@@ -2,7 +2,7 @@
 ## Short definition
 Indicate if the journal is refereed.
 ## Base page
-[Journal Issue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Issue.md)
+[Journal Issue](../../Objects/Journal%20Issue.md)
 ## Meta title
 csr:Journal Issue/Refereed?
 ## Research Admin Domain

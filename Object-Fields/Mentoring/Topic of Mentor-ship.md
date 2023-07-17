@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the mentoring relationship.
 ## Base page
-[Mentoring](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Mentoring.md)
+[Mentoring](../../Objects/Mentoring.md)
 ## Meta title
 csr:Mentoring/Topic of Mentor-ship
 ## Research Admin Domain

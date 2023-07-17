@@ -2,7 +2,7 @@
 ## Short definition
 The total number of pages in the book.
 ## Base page
-[Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book.md)
+[Book](../../Objects/Book.md)
 ## Meta title
 csr:Book/Number of Pages
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Event Participation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Event%20Participation.md)
+[Event Participation](../../Objects/Event%20Participation.md)
 ## Meta title
 csr:Event Participation/Research Classification
 ## Research Admin Domain

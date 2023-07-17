@@ -2,7 +2,7 @@
 ## Short definition
 A description of the person's designation.
 ## Base page
-[Professional Designation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Professional%20Designation.md)
+[Professional Designation](../../Objects/Professional%20Designation.md)
 ## Meta title
 csr:Professional Designation/Description
 ## Research Admin Domain

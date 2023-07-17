@@ -2,7 +2,7 @@
 ## Short definition
 The person's sex.
 ## Base page
-[Person Info](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Person%20Info.md)
+[Person Info](../../Objects/Person%20Info.md)
 ## Meta title
 csr:Person Info/Gender
 ## Research Admin Domain

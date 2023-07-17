@@ -4,7 +4,7 @@ An expert assessment of a scholarly output that contributes to a decision regard
 ## Type
 Values
 ## Base page
-[Review Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review%20Types.md)
+[Review Types](../../Picklists/Review%20Types.md)
 ## Meta title
 csr:Review Types/Review
 ## Research Admin Domain

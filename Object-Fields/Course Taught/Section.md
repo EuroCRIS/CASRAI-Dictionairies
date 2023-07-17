@@ -2,7 +2,7 @@
 ## Short definition
 The area of study in which the course falls.
 ## Base page
-[Course Taught](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Taught.md)
+[Course Taught](../../Objects/Course%20Taught.md)
 ## Meta title
 csr:Course Taught/Section
 ## Research Admin Domain

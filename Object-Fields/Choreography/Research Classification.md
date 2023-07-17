@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Choreography](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Choreography.md)
+[Choreography](../../Objects/Choreography.md)
 ## Meta title
 csr:Choreography/Research Classification
 ## Research Admin Domain

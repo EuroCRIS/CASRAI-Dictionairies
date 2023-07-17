@@ -2,7 +2,7 @@
 ## Short definition
 A description of the technique.
 ## Base page
-[Research Technique](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Technique.md)
+[Research Technique](../../Objects/Research%20Technique.md)
 ## Meta title
 csr:Research Technique/Description
 ## Research Admin Domain

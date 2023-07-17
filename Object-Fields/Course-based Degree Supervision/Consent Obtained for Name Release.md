@@ -2,7 +2,7 @@
 ## Short definition
 Indicate whether consent has been received to release the student's name.
 ## Base page
-[Course-based Degree Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course-based%20Degree%20Supervision.md)
+[Course-based Degree Supervision](../../Objects/Course-based%20Degree%20Supervision.md)
 ## Meta title
 csr:Course-based Degree Supervision/Consent Obtained for Name Release?
 ## Research Admin Domain

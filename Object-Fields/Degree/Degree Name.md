@@ -2,7 +2,7 @@
 ## Short definition
 The name of the person's degree program.
 ## Base page
-[Degree](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Degree.md)
+[Degree](../../Objects/Degree.md)
 ## Meta title
 csr:Degree/Degree Name
 ## Research Admin Domain

@@ -4,7 +4,7 @@ Management activities to annotate (produce metadata), scrub data and maintain re
 ## Type
 Values
 ## Base page
-[Contributor Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Picklists/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Data curation
 ## Research Admin Domain
@@ -13,3 +13,5 @@ True
 False
 ## UUID
 f93e0f44-f2a4-4ea1-824a-4e0853b05c9d
+## Canonical URL
+https://credit.niso.org/contributor-roles/data-curation/

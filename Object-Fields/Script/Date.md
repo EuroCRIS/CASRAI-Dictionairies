@@ -2,7 +2,7 @@
 ## Short definition
 The date script was completed.
 ## Base page
-[Script](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Script.md)
+[Script](../../Objects/Script.md)
 ## Meta title
 csr:Script/Date
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The institution that awarded the distinction.
 ## Base page
-[Distinction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Distinction.md)
+[Distinction](../../Objects/Distinction.md)
 ## Meta title
 csr:Distinction/Awarded By
 ## Research Admin Domain

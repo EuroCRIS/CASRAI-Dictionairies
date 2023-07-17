@@ -2,7 +2,7 @@
 ## Short definition
 The city and country of publication.
 ## Base page
-[Magazine Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Magazine%20Article.md)
+[Magazine Article](../../Objects/Magazine%20Article.md)
 ## Meta title
 csr:Magazine Article/Publication Location
 ## Research Admin Domain

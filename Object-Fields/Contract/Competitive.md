@@ -2,7 +2,7 @@
 ## Short definition
 Indicate if the application process was competitive.
 ## Base page
-[Contract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contract.md)
+[Contract](../../Objects/Contract.md)
 ## Meta title
 csr:Contract/Competitive?
 ## Research Admin Domain

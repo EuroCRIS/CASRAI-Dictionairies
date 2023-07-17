@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the most important aspect of the activity.
 ## Base page
-[Funds Request](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Funds%20Request.md)
+[Funds Request](../../Objects/Funds%20Request.md)
 ## Meta title
 csr:Funds Request/Priority Area
 ## Research Admin Domain

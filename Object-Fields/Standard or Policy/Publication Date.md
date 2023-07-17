@@ -2,7 +2,7 @@
 ## Short definition
 The date of publication of the standard or policy.
 ## Base page
-[Standard or Policy](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Standard%20or%20Policy.md)
+[Standard or Policy](../../Objects/Standard%20or%20Policy.md)
 ## Meta title
 csr:Standard or Policy/Publication Date
 ## Research Admin Domain

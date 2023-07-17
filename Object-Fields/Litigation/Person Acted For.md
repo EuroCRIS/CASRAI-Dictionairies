@@ -2,7 +2,7 @@
 ## Short definition
 The name of the person the person represented/acted for.
 ## Base page
-[Litigation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Litigation.md)
+[Litigation](../../Objects/Litigation.md)
 ## Meta title
 csr:Litigation/Person Acted For
 ## Research Admin Domain

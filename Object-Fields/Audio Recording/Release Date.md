@@ -2,7 +2,7 @@
 ## Short definition
 The date of initial release of the recording.
 ## Base page
-[Audio Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Audio%20Recording.md)
+[Audio Recording](../../Objects/Audio%20Recording.md)
 ## Meta title
 csr:Audio Recording/Release Date
 ## Research Admin Domain

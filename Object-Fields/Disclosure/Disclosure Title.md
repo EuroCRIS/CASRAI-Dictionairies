@@ -2,7 +2,7 @@
 ## Short definition
 The title of the disclosure.
 ## Base page
-[Disclosure](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Disclosure.md)
+[Disclosure](../../Objects/Disclosure.md)
 ## Meta title
 csr:Disclosure/Disclosure Title
 ## Research Admin Domain

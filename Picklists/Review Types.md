@@ -4,7 +4,7 @@ The type of review conducted.
 ## Type
 Lists
 ## Base page
-[](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/.md)
+—
 ## Meta title
 csr:Review Types
 ## Research Admin Domain

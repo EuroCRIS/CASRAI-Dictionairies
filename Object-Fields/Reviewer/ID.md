@@ -2,7 +2,7 @@
 ## Short definition
 The unique identifier of the person who contributed to a review.
 ## Base page
-[Reviewer](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer.md)
+[Reviewer](../../Objects/Reviewer.md)
 ## Meta title
 csr:Reviewer/ID
 ## Research Admin Domain

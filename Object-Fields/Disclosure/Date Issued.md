@@ -2,7 +2,7 @@
 ## Short definition
 The date the disclosure was issued.
 ## Base page
-[Disclosure](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Disclosure.md)
+[Disclosure](../../Objects/Disclosure.md)
 ## Meta title
 csr:Disclosure/Date Issued
 ## Research Admin Domain

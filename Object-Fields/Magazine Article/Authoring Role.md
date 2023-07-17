@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role in the article's creation.
 ## Base page
-[Magazine Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Magazine%20Article.md)
+[Magazine Article](../../Objects/Magazine%20Article.md)
 ## Meta title
 csr:Magazine Article/Authoring Role
 ## Research Admin Domain

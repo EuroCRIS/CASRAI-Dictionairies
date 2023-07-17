@@ -2,7 +2,7 @@
 ## Short definition
 The capacity of the person to comprehend the indicated language in written form.
 ## Base page
-[Language Competency](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Language%20Competency.md)
+[Language Competency](../../Objects/Language%20Competency.md)
 ## Meta title
 csr:Language Competency/Can Read
 ## Research Admin Domain

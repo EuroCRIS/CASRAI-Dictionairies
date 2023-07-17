@@ -2,7 +2,7 @@
 ## Short definition
 Identify the type of funding for this specific funding instance.
 ## Base page
-[In-kind Funding](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/In-kind%20Funding.md)
+[In-kind Funding](../../Objects/In-kind%20Funding.md)
 ## Meta title
 csr:In-kind Funding/In-Kind Funding Type
 ## Research Admin Domain

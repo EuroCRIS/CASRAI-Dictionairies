@@ -2,7 +2,7 @@
 ## Short definition
 The amount of the award.
 ## Base page
-[Distinction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Distinction.md)
+[Distinction](../../Objects/Distinction.md)
 ## Meta title
 csr:Distinction/Amount
 ## Research Admin Domain

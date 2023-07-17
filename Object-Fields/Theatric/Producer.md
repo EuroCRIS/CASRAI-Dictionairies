@@ -2,7 +2,7 @@
 ## Short definition
 The name of the producer of the work.
 ## Base page
-[Theatric](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Theatric.md)
+[Theatric](../../Objects/Theatric.md)
 ## Meta title
 csr:Theatric/Producer
 ## Research Admin Domain

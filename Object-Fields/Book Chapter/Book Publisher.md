@@ -2,7 +2,7 @@
 ## Short definition
 The name of the book's publisher.
 ## Base page
-[Book Chapter](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Chapter.md)
+[Book Chapter](../../Objects/Book%20Chapter.md)
 ## Meta title
 csr:Book Chapter/Book Publisher
 ## Research Admin Domain

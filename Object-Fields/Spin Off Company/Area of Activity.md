@@ -2,7 +2,7 @@
 ## Short definition
 The subject of the work carried out by the company.
 ## Base page
-[Spin Off Company](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Spin%20Off%20Company.md)
+[Spin Off Company](../../Objects/Spin%20Off%20Company.md)
 ## Meta title
 csr:Spin Off Company/Area of Activity
 ## Research Admin Domain

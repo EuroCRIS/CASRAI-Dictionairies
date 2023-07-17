@@ -1,8 +1,8 @@
 # Project Overview/Methodology
 ## Short definition
-A summary of the general approach and method(s) to be employed in the  research activity.
+A summary of the general approach and method(s) to be employed in the research activity.
 ## Base page
-[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
+[Project Overview](../../Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Methodology
 ## Research Admin Domain

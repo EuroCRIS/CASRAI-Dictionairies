@@ -2,7 +2,7 @@
 ## Short definition
 The title of the encyclopaedia in which the entry is published.
 ## Base page
-[Encyclopedia Entry](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Encyclopedia%20Entry.md)
+[Encyclopedia Entry](../../Objects/Encyclopedia%20Entry.md)
 ## Meta title
 csr:Encyclopedia Entry/Encyclopaedia Title
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 A person's second given name.
 ## Base page
-[Person Info](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Person%20Info.md)
+[Person Info](../../Objects/Person%20Info.md)
 ## Meta title
 csr:Person Info/Middle Name
 ## Research Admin Domain

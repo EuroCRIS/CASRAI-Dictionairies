@@ -2,7 +2,7 @@
 ## Short definition
 The end of the period upon official publication that the dataset is not openly accessible.
 ## Base page
-[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
+[Research Dataset](../../Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/Embargo End Date
 ## Research Admin Domain

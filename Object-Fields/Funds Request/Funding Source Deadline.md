@@ -2,7 +2,7 @@
 ## Short definition
 The date on which the funding competition closes.
 ## Base page
-[Funds Request](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Funds%20Request.md)
+[Funds Request](../../Objects/Funds%20Request.md)
 ## Meta title
 csr:Funds Request/Funding Source Deadline
 ## Research Admin Domain

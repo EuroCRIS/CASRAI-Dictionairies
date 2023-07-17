@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Artistic Exhibition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Artistic%20Exhibition.md)
+[Artistic Exhibition](../../Objects/Artistic%20Exhibition.md)
 ## Meta title
 csr:Artistic Exhibition/Research Classification
 ## Research Admin Domain

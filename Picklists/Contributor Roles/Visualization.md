@@ -4,7 +4,7 @@ Preparation, creation and/or presentation of the published work, specifically vi
 ## Type
 Values
 ## Base page
-[Contributor Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Picklists/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Visualization
 ## Research Admin Domain
@@ -13,3 +13,5 @@ True
 False
 ## UUID
 76b9d56a-e430-4e0a-84c9-59c11be343ae
+## Canonical URL
+https://credit.niso.org/contributor-roles/visualization/

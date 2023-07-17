@@ -2,7 +2,7 @@
 ## Short definition
 The organization hosting the conference.
 ## Base page
-[Conference Reviewing-Refereeing](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Reviewing-Refereeing.md)
+[Conference Reviewing-Refereeing](../../Objects/Conference%20Reviewing-Refereeing.md)
 ## Meta title
 csr:Conference Reviewing-Refereeing/Conference Host
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The name of the event in which the person gave the presentation.
 ## Base page
-[Non-research Presentation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Non-research%20Presentation.md)
+[Non-research Presentation](../../Objects/Non-research%20Presentation.md)
 ## Meta title
 csr:Non-research Presentation/Conference-Event
 ## Research Admin Domain

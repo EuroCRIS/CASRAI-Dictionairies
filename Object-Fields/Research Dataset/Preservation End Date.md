@@ -2,7 +2,7 @@
 ## Short definition
 The end of the period during which data will be retained.
 ## Base page
-[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
+[Research Dataset](../../Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/Preservation End Date
 ## Research Admin Domain

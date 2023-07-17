@@ -4,7 +4,7 @@ This license allows for redistribution, commercial and non-commercial, as long a
 ## Type
 Values
 ## Base page
-[Licence Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Licence%20Types.md)
+[Licence Types](../../Picklists/Licence%20Types.md)
 ## Meta title
 csr:Licence Types/CC BY-ND
 ## Research Admin Domain

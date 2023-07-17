@@ -2,7 +2,7 @@
 ## Short definition
 The names of any other affiliated organizations.
 ## Base page
-[Program Developed](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Program%20Developed.md)
+[Program Developed](../../Objects/Program%20Developed.md)
 ## Meta title
 csr:Program Developed/Partner Organizations
 ## Research Admin Domain

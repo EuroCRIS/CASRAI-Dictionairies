@@ -2,7 +2,7 @@
 ## Short definition
 The current status of the contract.
 ## Base page
-[Contract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contract.md)
+[Contract](../../Objects/Contract.md)
 ## Meta title
 csr:Contract/Contract Status
 ## Research Admin Domain

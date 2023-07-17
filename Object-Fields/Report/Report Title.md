@@ -2,7 +2,7 @@
 ## Short definition
 The title of the report.
 ## Base page
-[Report](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Report.md)
+[Report](../../Objects/Report.md)
 ## Meta title
 csr:Report/Report Title
 ## Research Admin Domain

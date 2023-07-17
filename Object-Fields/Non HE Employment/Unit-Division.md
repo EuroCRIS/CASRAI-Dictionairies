@@ -2,7 +2,7 @@
 ## Short definition
 The department within the given company or organization.
 ## Base page
-[Non HE Employment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Non%20HE%20Employment.md)
+[Non HE Employment](../../Objects/Non%20HE%20Employment.md)
 ## Meta title
 csr:Non HE Employment/Unit-Division
 ## Research Admin Domain

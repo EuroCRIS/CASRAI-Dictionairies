@@ -2,7 +2,7 @@
 ## Short definition
 A description of security measures to protect the data - e.g. will data storage require additional security levels (not on network, encryption etc.).
 ## Base page
-[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
+[Research Dataset](../../Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/Storage Security
 ## Research Admin Domain

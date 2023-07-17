@@ -2,7 +2,7 @@
 ## Short definition
 Whether or not the person has applied for permanent residency, if applicable.
 ## Base page
-[Citizenship](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Citizenship.md)
+[Citizenship](../../Objects/Citizenship.md)
 ## Meta title
 csr:Citizenship/Applied for Permanent Residency
 ## Research Admin Domain

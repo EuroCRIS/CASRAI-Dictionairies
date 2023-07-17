@@ -2,7 +2,7 @@
 ## Short definition
 The currency in which the award was given.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Currency
 ## Research Admin Domain

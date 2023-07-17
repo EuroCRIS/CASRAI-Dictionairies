@@ -2,7 +2,7 @@
 ## Short definition
 The date that editorial activity was completed.
 ## Base page
-[Editorial](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Editorial.md)
+[Editorial](../../Objects/Editorial.md)
 ## Meta title
 csr:Editorial/End Date
 ## Research Admin Domain

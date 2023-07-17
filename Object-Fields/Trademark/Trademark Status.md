@@ -2,7 +2,7 @@
 ## Short definition
 The status of the trademark registration.
 ## Base page
-[Trademark](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Trademark.md)
+[Trademark](../../Objects/Trademark.md)
 ## Meta title
 csr:Trademark/Trademark Status
 ## Research Admin Domain

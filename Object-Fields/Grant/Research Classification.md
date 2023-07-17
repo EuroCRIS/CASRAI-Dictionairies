@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Grant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant.md)
+[Grant](../../Objects/Grant.md)
 ## Meta title
 csr:Grant/Research Classification
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The volume, if applicable.
 ## Base page
-[Magazine Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Magazine%20Article.md)
+[Magazine Article](../../Objects/Magazine%20Article.md)
 ## Meta title
 csr:Magazine Article/Volume
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-composers.
 ## Base page
-[Musical Composition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Musical%20Composition.md)
+[Musical Composition](../../Objects/Musical%20Composition.md)
 ## Meta title
 csr:Musical Composition/Co-composers
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The name of the litigation.
 ## Base page
-[Expert Witness](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Expert%20Witness.md)
+[Expert Witness](../../Objects/Expert%20Witness.md)
 ## Meta title
 csr:Expert Witness/Case
 ## Research Admin Domain

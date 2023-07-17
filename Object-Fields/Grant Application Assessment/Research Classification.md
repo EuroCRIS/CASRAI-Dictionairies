@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Grant Application Assessment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant%20Application%20Assessment.md)
+[Grant Application Assessment](../../Objects/Grant%20Application%20Assessment.md)
 ## Meta title
 csr:Grant Application Assessment/Research Classification
 ## Research Admin Domain

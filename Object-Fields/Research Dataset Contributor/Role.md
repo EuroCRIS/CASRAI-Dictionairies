@@ -2,7 +2,7 @@
 ## Short definition
 The contributor role played by a person or a group.
 ## Base page
-[Research Dataset Contributor](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset%20Contributor.md)
+[Research Dataset Contributor](../../Objects/Research%20Dataset%20Contributor.md)
 ## Meta title
 csr:Research Dataset Contributor/Role
 ## Research Admin Domain

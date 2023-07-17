@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Course Developed](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course%20Developed.md)
+[Course Developed](../../Objects/Course%20Developed.md)
 ## Meta title
 csr:Course Developed/Research Classification
 ## Research Admin Domain

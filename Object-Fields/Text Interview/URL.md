@@ -2,7 +2,7 @@
 ## Short definition
 The name of an associated website, if applicable.
 ## Base page
-[Text Interview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Text%20Interview.md)
+[Text Interview](../../Objects/Text%20Interview.md)
 ## Meta title
 csr:Text Interview/URL
 ## Research Admin Domain

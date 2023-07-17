@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role in the committee.
 ## Base page
-[Committee Membership](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Committee%20Membership.md)
+[Committee Membership](../../Objects/Committee%20Membership.md)
 ## Meta title
 csr:Committee Membership/Committee Role
 ## Research Admin Domain

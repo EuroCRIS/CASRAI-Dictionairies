@@ -2,7 +2,7 @@
 ## Short definition
 The municipality of this research location.
 ## Base page
-[Research Location](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Location.md)
+[Research Location](../../Objects/Research%20Location.md)
 ## Meta title
 csr:Research Location/Location Municipality
 ## Research Admin Domain

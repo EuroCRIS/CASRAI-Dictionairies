@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role in the book chapter's creation.
 ## Base page
-[Book Chapter](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Chapter.md)
+[Book Chapter](../../Objects/Book%20Chapter.md)
 ## Meta title
 csr:Book Chapter/Authoring Role
 ## Research Admin Domain

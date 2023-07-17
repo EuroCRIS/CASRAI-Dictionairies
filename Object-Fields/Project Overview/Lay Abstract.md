@@ -1,8 +1,8 @@
 # Project Overview/Lay Abstract
 ## Short definition
-A brief structured summary intended to help a non-scientific reader to quickly ascertain  the purpose of the activity.
+A brief structured summary intended to help a non-scientific reader to quickly ascertain the purpose of the activity.
 ## Base page
-[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
+[Project Overview](../../Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Lay Abstract
 ## Research Admin Domain

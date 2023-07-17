@@ -2,7 +2,7 @@
 ## Short definition
 If applicable, the PubMed ID.
 ## Base page
-[Book Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Review.md)
+[Book Review](../../Objects/Book%20Review.md)
 ## Meta title
 csr:Book Review/Pubmed ID
 ## Research Admin Domain

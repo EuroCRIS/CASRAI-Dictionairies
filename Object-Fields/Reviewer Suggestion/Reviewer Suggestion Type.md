@@ -2,7 +2,7 @@
 ## Short definition
 Indicate whether the reviewer should be included or excluded.
 ## Base page
-[Reviewer Suggestion](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer%20Suggestion.md)
+[Reviewer Suggestion](../../Objects/Reviewer%20Suggestion.md)
 ## Meta title
 csr:Reviewer Suggestion/Reviewer Suggestion Type
 ## Research Admin Domain

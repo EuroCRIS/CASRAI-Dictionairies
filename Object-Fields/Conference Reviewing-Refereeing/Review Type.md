@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the review conducted.
 ## Base page
-[Conference Reviewing-Refereeing](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Reviewing-Refereeing.md)
+[Conference Reviewing-Refereeing](../../Objects/Conference%20Reviewing-Refereeing.md)
 ## Meta title
 csr:Conference Reviewing-Refereeing/Review Type
 ## Research Admin Domain

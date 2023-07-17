@@ -2,7 +2,7 @@
 ## Short definition
 The title of the exhibition.
 ## Base page
-[Curatorial-Museum Exhibition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Curatorial-Museum%20Exhibition.md)
+[Curatorial-Museum Exhibition](../../Objects/Curatorial-Museum%20Exhibition.md)
 ## Meta title
 csr:Curatorial-Museum Exhibition/Exhibition Title
 ## Research Admin Domain

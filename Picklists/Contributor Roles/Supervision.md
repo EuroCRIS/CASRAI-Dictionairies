@@ -4,7 +4,7 @@ Oversight and leadership responsibility for the research activity planning and e
 ## Type
 Values
 ## Base page
-[Contributor Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Picklists/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Supervision
 ## Research Admin Domain
@@ -13,3 +13,5 @@ True
 False
 ## UUID
 0c8ca7d4-06ad-4527-9cea-a8801fcb8746
+## Canonical URL
+https://credit.niso.org/contributor-roles/supervision/

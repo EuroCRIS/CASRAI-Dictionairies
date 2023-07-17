@@ -4,7 +4,7 @@ Allows licensors to waive all rights and place a work in the public domain. http
 ## Type
 Values
 ## Base page
-[Licence Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Licence%20Types.md)
+[Licence Types](../../Picklists/Licence%20Types.md)
 ## Meta title
 csr:Licence Types/CC0
 ## Research Admin Domain

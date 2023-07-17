@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the capacity of the team for collaborative work.
 ## Base page
-[Team Capacity](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Team%20Capacity.md)
+[Team Capacity](../../Objects/Team%20Capacity.md)
 ## Meta title
 csr:Team Capacity/Team Collaborative Capacity
 ## Research Admin Domain

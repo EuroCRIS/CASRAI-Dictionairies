@@ -2,7 +2,7 @@
 ## Short definition
 The name of the magazine in which it was published.
 ## Base page
-[Magazine Article](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Magazine%20Article.md)
+[Magazine Article](../../Objects/Magazine%20Article.md)
 ## Meta title
 csr:Magazine Article/Magazine
 ## Research Admin Domain

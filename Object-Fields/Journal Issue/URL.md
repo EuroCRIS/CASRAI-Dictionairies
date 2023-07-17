@@ -2,7 +2,7 @@
 ## Short definition
 A web address where the issue is available, if such exists.
 ## Base page
-[Journal Issue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Issue.md)
+[Journal Issue](../../Objects/Journal%20Issue.md)
 ## Meta title
 csr:Journal Issue/URL
 ## Research Admin Domain

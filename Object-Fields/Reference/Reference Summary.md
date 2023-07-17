@@ -2,7 +2,7 @@
 ## Short definition
 A summary of the reference being supplied.
 ## Base page
-[Reference](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reference.md)
+[Reference](../../Objects/Reference.md)
 ## Meta title
 csr:Reference/Reference Summary
 ## Research Admin Domain

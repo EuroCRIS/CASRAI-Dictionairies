@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-editors for the issue.
 ## Base page
-[Journal Issue](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Journal%20Issue.md)
+[Journal Issue](../../Objects/Journal%20Issue.md)
 ## Meta title
 csr:Journal Issue/Co-editors
 ## Research Admin Domain

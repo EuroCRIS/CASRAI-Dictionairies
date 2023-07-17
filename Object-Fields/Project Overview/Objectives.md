@@ -1,8 +1,8 @@
 # Project Overview/Objectives
 ## Short definition
-A summary of the general goals and specific aims of the research, both short term  and long term.
+A summary of the general goals and specific aims of the research, both short term and long term.
 ## Base page
-[Project Overview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Overview.md)
+[Project Overview](../../Objects/Project%20Overview.md)
 ## Meta title
 csr:Project Overview/Objectives
 ## Research Admin Domain

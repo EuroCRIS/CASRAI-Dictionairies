@@ -2,7 +2,7 @@
 ## Short definition
 The organization which provided funding.
 ## Base page
-[Contract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contract.md)
+[Contract](../../Objects/Contract.md)
 ## Meta title
 csr:Contract/Funding Organization
 ## Research Admin Domain

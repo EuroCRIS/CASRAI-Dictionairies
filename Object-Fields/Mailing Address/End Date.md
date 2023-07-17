@@ -2,7 +2,7 @@
 ## Short definition
 If the given address is temporary, the date upon which it becomes inactive.
 ## Base page
-[Mailing Address](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Mailing%20Address.md)
+[Mailing Address](../../Objects/Mailing%20Address.md)
 ## Meta title
 csr:Mailing Address/End Date
 ## Research Admin Domain

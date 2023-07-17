@@ -4,7 +4,7 @@ Social Science Research Network.
 ## Type
 Values
 ## Base page
-[Output ID Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Output%20ID%20Types.md)
+[Output ID Types](../../Picklists/Output%20ID%20Types.md)
 ## Meta title
 csr:Output ID Types/SSRN
 ## Research Admin Domain

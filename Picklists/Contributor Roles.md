@@ -4,7 +4,7 @@ A high-level classification of the diverse roles performed in the work leading t
 ## Type
 Lists
 ## Base page
-[](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/.md)
+—
 ## Meta title
 csr:Contributor Roles
 ## Research Admin Domain
@@ -13,3 +13,5 @@ True
 False
 ## UUID
 9dbb95f4-55ed-4e43-9301-a9f0e3e17afe
+## Canonical URL
+https://credit.niso.org/

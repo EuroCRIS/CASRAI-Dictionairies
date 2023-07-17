@@ -2,7 +2,7 @@
 ## Short definition
 The names of other persons involved in the project.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Other Investigators
 ## Research Admin Domain

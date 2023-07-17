@@ -2,7 +2,7 @@
 ## Short definition
 A unique identifier for the person.
 ## Base page
-[Reference](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reference.md)
+[Reference](../../Objects/Reference.md)
 ## Meta title
 csr:Reference/CASRAI ID
 ## Research Admin Domain

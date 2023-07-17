@@ -2,7 +2,7 @@
 ## Short definition
 If the person's study is not complete, the date completion is expected.
 ## Base page
-[Degree](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Degree.md)
+[Degree](../../Objects/Degree.md)
 ## Meta title
 csr:Degree/Expected Completion Date
 ## Research Admin Domain

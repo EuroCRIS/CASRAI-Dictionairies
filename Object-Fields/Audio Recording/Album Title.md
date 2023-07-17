@@ -1,8 +1,8 @@
 # Audio Recording/Album Title
 ## Short definition
-The title of the album on which itâ€™s recorded.
+The title of the album on which it's recorded.
 ## Base page
-[Audio Recording](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Audio%20Recording.md)
+[Audio Recording](../../Objects/Audio%20Recording.md)
 ## Meta title
 csr:Audio Recording/Album Title
 ## Research Admin Domain

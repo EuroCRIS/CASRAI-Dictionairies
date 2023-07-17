@@ -1,8 +1,8 @@
 # Book/Publisher
 ## Short definition
-The name of the bookâ€™s publisher.
+The name of the book's publisher.
 ## Base page
-[Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book.md)
+[Book](../../Objects/Book.md)
 ## Meta title
 csr:Book/Publisher
 ## Research Admin Domain

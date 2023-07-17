@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Dissertation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dissertation.md)
+[Dissertation](../../Objects/Dissertation.md)
 ## Meta title
 csr:Dissertation/Research Classification
 ## Research Admin Domain

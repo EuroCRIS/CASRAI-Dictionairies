@@ -4,7 +4,7 @@ Management and coordination responsibility for the research activity planning an
 ## Type
 Values
 ## Base page
-[Contributor Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Picklists/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Project administration
 ## Research Admin Domain
@@ -13,3 +13,5 @@ True
 False
 ## UUID
 a693fe76-ea33-49ad-9dcc-5e4f3ac5f938
+## Canonical URL
+https://credit.niso.org/contributor-roles/project-administration/

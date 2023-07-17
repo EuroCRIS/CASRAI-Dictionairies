@@ -2,7 +2,7 @@
 ## Short definition
 A person's surname.
 ## Base page
-[Research Dataset Contributor](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset%20Contributor.md)
+[Research Dataset Contributor](../../Objects/Research%20Dataset%20Contributor.md)
 ## Meta title
 csr:Research Dataset Contributor/Family Name
 ## Research Admin Domain

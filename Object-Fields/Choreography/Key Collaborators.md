@@ -2,7 +2,7 @@
 ## Short definition
 The names of any key collaborators in the creation of the choreography.
 ## Base page
-[Choreography](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Choreography.md)
+[Choreography](../../Objects/Choreography.md)
 ## Meta title
 csr:Choreography/Key Collaborators
 ## Research Admin Domain

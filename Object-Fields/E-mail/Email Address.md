@@ -2,7 +2,7 @@
 ## Short definition
 The person's e-mail address.
 ## Base page
-[E-mail](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/E-mail.md)
+[E-mail](../../Objects/E-mail.md)
 ## Meta title
 csr:E-mail/Email Address
 ## Research Admin Domain

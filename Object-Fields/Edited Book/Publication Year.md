@@ -2,7 +2,7 @@
 ## Short definition
 The year the book was published.
 ## Base page
-[Edited Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Edited%20Book.md)
+[Edited Book](../../Objects/Edited%20Book.md)
 ## Meta title
 csr:Edited Book/Publication Year
 ## Research Admin Domain

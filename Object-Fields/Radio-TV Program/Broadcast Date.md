@@ -2,7 +2,7 @@
 ## Short definition
 The dates of broadcasts of the program.
 ## Base page
-[Radio-TV Program](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Radio-TV%20Program.md)
+[Radio-TV Program](../../Objects/Radio-TV%20Program.md)
 ## Meta title
 csr:Radio-TV Program/Broadcast Date
 ## Research Admin Domain

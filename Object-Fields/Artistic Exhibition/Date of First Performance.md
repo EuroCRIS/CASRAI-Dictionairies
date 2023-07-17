@@ -2,7 +2,7 @@
 ## Short definition
 The date the piece was first presented.
 ## Base page
-[Artistic Exhibition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Artistic%20Exhibition.md)
+[Artistic Exhibition](../../Objects/Artistic%20Exhibition.md)
 ## Meta title
 csr:Artistic Exhibition/Date of First Performance
 ## Research Admin Domain

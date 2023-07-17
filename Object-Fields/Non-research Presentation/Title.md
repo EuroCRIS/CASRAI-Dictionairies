@@ -2,7 +2,7 @@
 ## Short definition
 The title of the presentation.
 ## Base page
-[Non-research Presentation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Non-research%20Presentation.md)
+[Non-research Presentation](../../Objects/Non-research%20Presentation.md)
 ## Meta title
 csr:Non-research Presentation/Title
 ## Research Admin Domain

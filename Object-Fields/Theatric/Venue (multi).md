@@ -2,7 +2,7 @@
 ## Short definition
 The venue in which the performance or exhibition was given.
 ## Base page
-[Theatric](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Theatric.md)
+[Theatric](../../Objects/Theatric.md)
 ## Meta title
 csr:Theatric/Venue (multi)
 ## Research Admin Domain

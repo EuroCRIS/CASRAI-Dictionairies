@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Report](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Report.md)
+[Report](../../Objects/Report.md)
 ## Meta title
 csr:Report/Research Classification
 ## Research Admin Domain

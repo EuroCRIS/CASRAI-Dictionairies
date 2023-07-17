@@ -1,8 +1,8 @@
 # Research-based Degree Supervision/Consent Obtained for Name Release?
 ## Short definition
-Indicate whether the person has obtained consent for release of the supervised studentâ€™s name.
+Indicate whether the person has obtained consent for release of the supervised student's name.
 ## Base page
-[Research-based Degree Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research-based%20Degree%20Supervision.md)
+[Research-based Degree Supervision](../../Objects/Research-based%20Degree%20Supervision.md)
 ## Meta title
 csr:Research-based Degree Supervision/Consent Obtained for Name Release?
 ## Research Admin Domain

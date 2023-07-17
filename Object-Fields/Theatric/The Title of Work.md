@@ -2,7 +2,7 @@
 ## Short definition
 The title of the play.
 ## Base page
-[Theatric](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Theatric.md)
+[Theatric](../../Objects/Theatric.md)
 ## Meta title
 csr:Theatric/The Title of Work
 ## Research Admin Domain

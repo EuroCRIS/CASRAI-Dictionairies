@@ -2,7 +2,7 @@
 ## Short definition
 Indicate if participation in this event was competitive.
 ## Base page
-[Non-research Presentation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Non-research%20Presentation.md)
+[Non-research Presentation](../../Objects/Non-research%20Presentation.md)
 ## Meta title
 csr:Non-research Presentation/Competitive?
 ## Research Admin Domain

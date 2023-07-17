@@ -2,7 +2,7 @@
 ## Short definition
 The title of the copyright.
 ## Base page
-[Registered Copyright](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Registered%20Copyright.md)
+[Registered Copyright](../../Objects/Registered%20Copyright.md)
 ## Meta title
 csr:Registered Copyright/Copyright Title
 ## Research Admin Domain

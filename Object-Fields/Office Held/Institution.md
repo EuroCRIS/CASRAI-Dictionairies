@@ -2,7 +2,7 @@
 ## Short definition
 The name of the affiliated institution.
 ## Base page
-[Office Held](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Office%20Held.md)
+[Office Held](../../Objects/Office%20Held.md)
 ## Meta title
 csr:Office Held/Institution
 ## Research Admin Domain

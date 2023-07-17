@@ -2,7 +2,7 @@
 ## Short definition
 The name of the first listed author.
 ## Base page
-[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
+[Manual](../../Objects/Manual.md)
 ## Meta title
 csr:Manual/First Listed Author
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The stage of the person's research career.
 ## Base page
-[Career Status](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Career%20Status.md)
+[Career Status](../../Objects/Career%20Status.md)
 ## Meta title
 csr:Career Status/Career Stage
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The name of the publisher.
 ## Base page
-[Translation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Translation.md)
+[Translation](../../Objects/Translation.md)
 ## Meta title
 csr:Translation/Publisher
 ## Research Admin Domain

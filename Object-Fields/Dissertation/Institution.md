@@ -2,7 +2,7 @@
 ## Short definition
 The name of the institution to which the dissertation was presented.
 ## Base page
-[Dissertation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Dissertation.md)
+[Dissertation](../../Objects/Dissertation.md)
 ## Meta title
 csr:Dissertation/Institution
 ## Research Admin Domain

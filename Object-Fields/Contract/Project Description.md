@@ -2,7 +2,7 @@
 ## Short definition
 A description of contracted project.
 ## Base page
-[Contract](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contract.md)
+[Contract](../../Objects/Contract.md)
 ## Meta title
 csr:Contract/Project Description
 ## Research Admin Domain

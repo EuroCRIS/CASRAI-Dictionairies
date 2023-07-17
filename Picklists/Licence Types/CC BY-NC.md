@@ -1,10 +1,10 @@
 # Licence Types/CC BY-NC
 ## Short definition
-This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they donâ€™t have to license their derivative works on the same terms. http://creativecommons.org/licenses/by-nc/4.0/
+This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don't have to license their derivative works on the same terms. http://creativecommons.org/licenses/by-nc/4.0/
 ## Type
 Values
 ## Base page
-[Licence Types](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Licence%20Types.md)
+[Licence Types](../../Picklists/Licence%20Types.md)
 ## Meta title
 csr:Licence Types/CC BY-NC
 ## Research Admin Domain

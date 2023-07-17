@@ -2,7 +2,7 @@
 ## Short definition
 The title of the book.
 ## Base page
-[Book](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book.md)
+[Book](../../Objects/Book.md)
 ## Meta title
 csr:Book/Title
 ## Research Admin Domain

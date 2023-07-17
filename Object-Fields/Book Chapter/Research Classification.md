@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Book Chapter](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Chapter.md)
+[Book Chapter](../../Objects/Book%20Chapter.md)
 ## Meta title
 csr:Book Chapter/Research Classification
 ## Research Admin Domain

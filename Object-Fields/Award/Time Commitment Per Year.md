@@ -2,7 +2,7 @@
 ## Short definition
 The amount of time the person committed to project as a percentage of the year.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Time Commitment Per Year
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The unique identifier of the institution to which the person is affiliated.
 ## Base page
-[Signature](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Signature.md)
+[Signature](../../Objects/Signature.md)
 ## Meta title
 csr:Signature/Signatory Institution ID
 ## Research Admin Domain

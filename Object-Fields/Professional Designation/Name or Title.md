@@ -2,7 +2,7 @@
 ## Short definition
 The name or title of the designation earned.
 ## Base page
-[Professional Designation](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Professional%20Designation.md)
+[Professional Designation](../../Objects/Professional%20Designation.md)
 ## Meta title
 csr:Professional Designation/Name or Title
 ## Research Admin Domain

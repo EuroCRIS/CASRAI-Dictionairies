@@ -2,7 +2,7 @@
 ## Short definition
 The department within the given institution.
 ## Base page
-[Promotion-Tenure Assessment](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Promotion-Tenure%20Assessment.md)
+[Promotion-Tenure Assessment](../../Objects/Promotion-Tenure%20Assessment.md)
 ## Meta title
 csr:Promotion-Tenure Assessment/Department-Division
 ## Research Admin Domain

@@ -2,7 +2,7 @@
 ## Short definition
 The stage of citizenship the person is claiming for the stated country.
 ## Base page
-[Citizenship](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Citizenship.md)
+[Citizenship](../../Objects/Citizenship.md)
 ## Meta title
 csr:Citizenship/Citizenship Type
 ## Research Admin Domain

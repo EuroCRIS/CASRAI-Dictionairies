@@ -2,7 +2,7 @@
 ## Short definition
 The nature of the person's role at the conference.
 ## Base page
-[Conference Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Conference%20Paper.md)
+[Conference Paper](../../Objects/Conference%20Paper.md)
 ## Meta title
 csr:Conference Paper/Authoring Role
 ## Research Admin Domain

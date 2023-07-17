@@ -2,7 +2,7 @@
 ## Short definition
 The amount awarded.
 ## Base page
-[Award](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Award.md)
+[Award](../../Objects/Award.md)
 ## Meta title
 csr:Award/Total Amount
 ## Research Admin Domain

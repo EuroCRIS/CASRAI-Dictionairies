@@ -2,7 +2,7 @@
 ## Short definition
 The primary language in which a person wishes to receive communications.
 ## Base page
-[Person Info](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Person%20Info.md)
+[Person Info](../../Objects/Person%20Info.md)
 ## Meta title
 csr:Person Info/Correspondence Language
 ## Research Admin Domain

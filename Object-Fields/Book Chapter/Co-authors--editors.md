@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors/-editors for the book chapter.
 ## Base page
-[Book Chapter](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Chapter.md)
+[Book Chapter](../../Objects/Book%20Chapter.md)
 ## Meta title
 csr:Book Chapter/Co-authors--editors
 ## Research Admin Domain

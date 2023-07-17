@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors.
 ## Base page
-[Short Fiction](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Short%20Fiction.md)
+[Short Fiction](../../Objects/Short%20Fiction.md)
 ## Meta title
 csr:Short Fiction/Co-authors
 ## Research Admin Domain

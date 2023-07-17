@@ -2,7 +2,7 @@
 ## Short definition
 The year the book was published.
 ## Base page
-[Book Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Book%20Review.md)
+[Book Review](../../Objects/Book%20Review.md)
 ## Meta title
 csr:Book Review/Book Publication Year
 ## Research Admin Domain

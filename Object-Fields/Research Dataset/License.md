@@ -2,7 +2,7 @@
 ## Short definition
 A description of the license terms for this dataset.
 ## Base page
-[Research Dataset](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Research%20Dataset.md)
+[Research Dataset](../../Objects/Research%20Dataset.md)
 ## Meta title
 csr:Research Dataset/License
 ## Research Admin Domain

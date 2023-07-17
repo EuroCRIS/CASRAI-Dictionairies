@@ -2,7 +2,7 @@
 ## Short definition
 The date the invention was first made available to others for use.
 ## Base page
-[Invention](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Invention.md)
+[Invention](../../Objects/Invention.md)
 ## Meta title
 csr:Invention/Release Date
 ## Research Admin Domain

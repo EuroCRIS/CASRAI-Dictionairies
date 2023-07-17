@@ -2,7 +2,7 @@
 ## Short definition
 The city and country in which the manual was published.
 ## Base page
-[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
+[Manual](../../Objects/Manual.md)
 ## Meta title
 csr:Manual/Publication Location
 ## Research Admin Domain

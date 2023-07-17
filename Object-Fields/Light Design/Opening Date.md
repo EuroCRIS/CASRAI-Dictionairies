@@ -2,7 +2,7 @@
 ## Short definition
 The date of the opening of the performance.
 ## Base page
-[Light Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Light%20Design.md)
+[Light Design](../../Objects/Light%20Design.md)
 ## Meta title
 csr:Light Design/Opening Date
 ## Research Admin Domain

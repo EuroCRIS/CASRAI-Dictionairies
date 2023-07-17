@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Event Administration](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Event%20Administration.md)
+[Event Administration](../../Objects/Event%20Administration.md)
 ## Meta title
 csr:Event Administration/Research Classification
 ## Research Admin Domain

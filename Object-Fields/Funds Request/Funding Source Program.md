@@ -2,7 +2,7 @@
 ## Short definition
 Indicate the target research program at the funding source from which you received this funding.
 ## Base page
-[Funds Request](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Funds%20Request.md)
+[Funds Request](../../Objects/Funds%20Request.md)
 ## Meta title
 csr:Funds Request/Funding Source Program
 ## Research Admin Domain

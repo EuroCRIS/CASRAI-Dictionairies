@@ -2,7 +2,7 @@
 ## Short definition
 None
 ## Base page
-[Visual Artwork](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Visual%20Artwork.md)
+[Visual Artwork](../../Objects/Visual%20Artwork.md)
 ## Meta title
 csr:Visual Artwork/Research Classification
 ## Research Admin Domain

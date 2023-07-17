@@ -2,7 +2,7 @@
 ## Short definition
 The date on which the trademark was requested.
 ## Base page
-[Trademark](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Trademark.md)
+[Trademark](../../Objects/Trademark.md)
 ## Meta title
 csr:Trademark/Application Date
 ## Research Admin Domain

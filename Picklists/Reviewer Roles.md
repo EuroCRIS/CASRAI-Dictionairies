@@ -4,7 +4,7 @@ The role played by a reviewer on a specific review.
 ## Type
 Lists
 ## Base page
-[](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/.md)
+—
 ## Meta title
 csr:Reviewer Roles
 ## Research Admin Domain

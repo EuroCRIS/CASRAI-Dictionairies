@@ -2,7 +2,7 @@
 ## Short definition
 The date on which the broadcast of the interview ended.
 ## Base page
-[Broadcast Interview](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Broadcast%20Interview.md)
+[Broadcast Interview](../../Objects/Broadcast%20Interview.md)
 ## Meta title
 csr:Broadcast Interview/End Date
 ## Research Admin Domain

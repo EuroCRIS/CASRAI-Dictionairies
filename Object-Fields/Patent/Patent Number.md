@@ -2,7 +2,7 @@
 ## Short definition
 The number of the patent.
 ## Base page
-[Patent](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Patent.md)
+[Patent](../../Objects/Patent.md)
 ## Meta title
 csr:Patent/Patent Number
 ## Research Admin Domain

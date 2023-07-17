@@ -1,8 +1,8 @@
 # Team Capacity/Team Relevance
 ## Short definition
-A summary of the projectâ€™s relationship to other activities of team members.
+A summary of the project's relationship to other activities of team members.
 ## Base page
-[Team Capacity](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Team%20Capacity.md)
+[Team Capacity](../../Objects/Team%20Capacity.md)
 ## Meta title
 csr:Team Capacity/Team Relevance
 ## Research Admin Domain

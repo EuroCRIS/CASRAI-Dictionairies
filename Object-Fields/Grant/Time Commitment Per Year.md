@@ -2,7 +2,7 @@
 ## Short definition
 The amount of time the person committed to project as a percentage of the year.
 ## Base page
-[Grant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant.md)
+[Grant](../../Objects/Grant.md)
 ## Meta title
 csr:Grant/Time Commitment Per Year
 ## Research Admin Domain

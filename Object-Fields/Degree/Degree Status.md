@@ -2,7 +2,7 @@
 ## Short definition
 Indicate whether or not the person's degree is completed.
 ## Base page
-[Degree](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Degree.md)
+[Degree](../../Objects/Degree.md)
 ## Meta title
 csr:Degree/Degree Status
 ## Research Admin Domain

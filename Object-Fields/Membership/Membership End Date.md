@@ -2,7 +2,7 @@
 ## Short definition
 The end date of the membership, if applicable.
 ## Base page
-[Membership](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Membership.md)
+[Membership](../../Objects/Membership.md)
 ## Meta title
 csr:Membership/Membership End Date
 ## Research Admin Domain

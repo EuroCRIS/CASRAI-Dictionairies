@@ -2,7 +2,7 @@
 ## Short definition
 The date on which activity related to this milestone was completed.
 ## Base page
-[Project Milestone](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Milestone.md)
+[Project Milestone](../../Objects/Project%20Milestone.md)
 ## Meta title
 csr:Project Milestone/Milestone End Date
 ## Research Admin Domain

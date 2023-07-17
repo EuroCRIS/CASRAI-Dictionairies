@@ -2,7 +2,7 @@
 ## Short definition
 The year in which this budget item is projected.
 ## Base page
-[Project Budget](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Budget.md)
+[Project Budget](../../Objects/Project%20Budget.md)
 ## Meta title
 csr:Project Budget/Budget Year
 ## Research Admin Domain

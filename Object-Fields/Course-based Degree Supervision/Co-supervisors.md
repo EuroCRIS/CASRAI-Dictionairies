@@ -2,7 +2,7 @@
 ## Short definition
 The names of any other persons who acted as supervisors.
 ## Base page
-[Course-based Degree Supervision](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Course-based%20Degree%20Supervision.md)
+[Course-based Degree Supervision](../../Objects/Course-based%20Degree%20Supervision.md)
 ## Meta title
 csr:Course-based Degree Supervision/Co-supervisors
 ## Research Admin Domain

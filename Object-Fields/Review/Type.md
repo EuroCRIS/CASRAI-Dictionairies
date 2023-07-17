@@ -2,7 +2,7 @@
 ## Short definition
 The kind of review applied to the subject type reviewed.
 ## Base page
-[Review](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Review.md)
+[Review](../../Objects/Review.md)
 ## Meta title
 csr:Review/Type
 ## Research Admin Domain

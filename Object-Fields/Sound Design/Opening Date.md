@@ -2,7 +2,7 @@
 ## Short definition
 The date of the opening of the performance.
 ## Base page
-[Sound Design](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Sound%20Design.md)
+[Sound Design](../../Objects/Sound%20Design.md)
 ## Meta title
 csr:Sound Design/Opening Date
 ## Research Admin Domain

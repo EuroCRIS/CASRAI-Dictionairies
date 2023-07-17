@@ -2,7 +2,7 @@
 ## Short definition
 The date the site went live.
 ## Base page
-[Website](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Website.md)
+[Website](../../Objects/Website.md)
 ## Meta title
 csr:Website/Launch Date
 ## Research Admin Domain

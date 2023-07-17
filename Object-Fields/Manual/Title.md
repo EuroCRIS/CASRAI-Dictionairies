@@ -2,7 +2,7 @@
 ## Short definition
 The title of the manual.
 ## Base page
-[Manual](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Manual.md)
+[Manual](../../Objects/Manual.md)
 ## Meta title
 csr:Manual/Title
 ## Research Admin Domain

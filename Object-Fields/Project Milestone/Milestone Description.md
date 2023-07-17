@@ -2,7 +2,7 @@
 ## Short definition
 A brief description of the milestone.
 ## Base page
-[Project Milestone](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Project%20Milestone.md)
+[Project Milestone](../../Objects/Project%20Milestone.md)
 ## Meta title
 csr:Project Milestone/Milestone Description
 ## Research Admin Domain

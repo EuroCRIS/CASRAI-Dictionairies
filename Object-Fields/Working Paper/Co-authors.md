@@ -2,7 +2,7 @@
 ## Short definition
 The names of any co-authors or co-editors.
 ## Base page
-[Working Paper](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Working%20Paper.md)
+[Working Paper](../../Objects/Working%20Paper.md)
 ## Meta title
 csr:Working Paper/Co-authors
 ## Research Admin Domain

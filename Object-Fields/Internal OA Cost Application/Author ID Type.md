@@ -2,7 +2,7 @@
 ## Short definition
 The nominal type of unique ID used for an author (e.g. ORCID, ISNI, ...)
 ## Base page
-[Internal OA Cost Application](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Internal%20OA%20Cost%20Application.md)
+[Internal OA Cost Application](../../Objects/Internal%20OA%20Cost%20Application.md)
 ## Meta title
 csr:Internal OA Cost Application/Author ID Type
 ## Research Admin Domain

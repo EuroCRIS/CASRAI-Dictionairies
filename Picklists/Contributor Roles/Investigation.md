@@ -4,7 +4,7 @@ Conducting a research and investigation process, specifically performing the exp
 ## Type
 Values
 ## Base page
-[Contributor Roles](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Contributor%20Roles.md)
+[Contributor Roles](../../Picklists/Contributor%20Roles.md)
 ## Meta title
 csr:Contributor Roles/Investigation
 ## Research Admin Domain
@@ -13,3 +13,5 @@ True
 False
 ## UUID
 2451924d-425e-4778-9f4c-36c848ca70c2
+## Canonical URL
+https://credit.niso.org/contributor-roles/investigation/

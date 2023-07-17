@@ -2,7 +2,7 @@
 ## Short definition
 The current status of the funding.
 ## Base page
-[Grant](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Grant.md)
+[Grant](../../Objects/Grant.md)
 ## Meta title
 csr:Grant/Grant Status
 ## Research Admin Domain

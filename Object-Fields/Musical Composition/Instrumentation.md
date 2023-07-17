@@ -2,7 +2,7 @@
 ## Short definition
 The instrument(s) for which it is written.
 ## Base page
-[Musical Composition](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Musical%20Composition.md)
+[Musical Composition](../../Objects/Musical%20Composition.md)
 ## Meta title
 csr:Musical Composition/Instrumentation
 ## Research Admin Domain

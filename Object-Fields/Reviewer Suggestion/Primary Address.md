@@ -2,7 +2,7 @@
 ## Short definition
 The address of the reviewer.
 ## Base page
-[Reviewer Suggestion](https://github.com/EuroCRIS/CASRAI-Dictionairies/blob/main/Objects/Reviewer%20Suggestion.md)
+[Reviewer Suggestion](../../Objects/Reviewer%20Suggestion.md)
 ## Meta title
 csr:Reviewer Suggestion/Primary Address
 ## Research Admin Domain
