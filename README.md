@@ -25,3 +25,6 @@ The two CVs share a total of 19 sections and subsections, which are also listed 
 The Templates use 123 [Objects](./Objects/) as basic building blocks.
 These objects have 1,035 ([Object fields](./Object-Fields)) properties in total.
 Some of these properties may use controlled vocabularies, the 10 [Picklists](./Picklists/).
+
+---
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Unless otherwise noted, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
