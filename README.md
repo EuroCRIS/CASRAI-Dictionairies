@@ -1,9 +1,12 @@
 # The CASRAI Open Access Glossary and Templates
 
 [CASRAI](https://en.wikipedia.org/wiki/Consortia_Advancing_Standards_in_Research_Administration_Information)
-(Consortia Advancing Standards in Research Administration Information) had developed valueable assets.
-[euroCRIS](https://eurocris.org) has agreed to preserve a part of these assets (see the [announcement on the euroCRIS website](https://eurocris.org/news/casrai-domain-handover) or the [archived CASRAI frontpage](https://web.archive.org/web/20220624175507/https://casrai.org/)).
-These are made available here.
+(Consortia Advancing Standards in Research Administration Information, 2006–2022)
+has developed valueable assets for the domain of research information management.
+[euroCRIS](https://eurocris.org) preserves a part of these assets
+(see the [announcement on the euroCRIS website](https://eurocris.org/news/casrai-domain-handover)
+or the [archived CASRAI frontpage](https://web.archive.org/web/20220624175507/https://casrai.org/)),
+which are made available here.
 
 Other CASRAI assets are preserved by [CODATA](https://codata.org/) (the [Research Data Management](https://codata.org/initiatives/data-science-and-stewardship/rdm-terminology-wg/) terminology) and [NISO](http://niso.org/) (the [CRediT](http://credit.niso.org/) taxonomy of contributor roles).
 
